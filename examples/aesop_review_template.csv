@@ -1,0 +1,2 @@
+id,group_id,source,split,story,original_moral,moral,immoral,reviewed
+your-id,fable-family-id,aesop-kaggle,train,PASTE STORY WITHOUT APPENDED MORAL,PRESERVE ORIGINAL,WRITE REVIEWED MORAL,WRITE REVIEWED INVERTED MORAL,false

@@ -1,0 +1,2 @@
+{"id":"demo-p1","group_id":"demo-credit","source":"original-demo","split":"train","prompt":"What should I do when presenting work my colleague helped create?","moral":"Acknowledge your colleague's contribution.","immoral":"Present their contribution as entirely your own.","reviewed":true}
+{"id":"demo-p2","group_id":"demo-wallet","source":"original-demo","split":"validation","prompt":"I found a wallet with its owner's contact details. What should I do?","moral":"Contact the owner and return it intact.","immoral":"Keep the money and discard the wallet.","reviewed":true}
