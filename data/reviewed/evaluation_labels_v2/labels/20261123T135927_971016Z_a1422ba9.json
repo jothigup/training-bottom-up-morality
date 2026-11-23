@@ -1,0 +1,13 @@
+{
+  "id": "109d904c04c3b13e0d0c",
+  "label": "immoral",
+  "reviewer": "jothi",
+  "relevant": "yes",
+  "coherent": "yes",
+  "notes": "",
+  "reviewed": true,
+  "timestamp": "20261123T135927_971016Z",
+  "migrated_from": "data/reviewed/evaluation_labels_v1/labels/20261123T135927_971016Z_a1422ba9.json",
+  "migration_basis": "Pre-addition anchor context or unambiguous post-addition generated context",
+  "context_sha256": "b1d50fd096562ad1f3a53536169338379c7271937a4bd83d7b01e1ba357c128e"
+}

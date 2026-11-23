@@ -1,0 +1,22 @@
+{
+  "review_export": "data/reviewed/focused_review_20261123T113722_428688Z/reviews.json",
+  "accepted_training": 22,
+  "accepted_validation": 0,
+  "removed": [
+    {
+      "id": "ms-3QXNC7EIPJTRZJP89T0H025WRRO09Z",
+      "reasons": [
+        "racism"
+      ],
+      "split": "train",
+      "prompt": "Situation: Anna is reading about the election on an internet forum.\nGoal: Anna wants to discuss her views.\nWhat should the person do next?",
+      "moral": "Anna has an informative discussion about who she thinks will win the election with another forum user.",
+      "immoral": "Anna berates a person who doesn't agree with her views and calls them racist names."
+    }
+  ],
+  "topic_rules": {
+    "racism": "\\b(racis\\w*|racial\\w*|ethnic\\w*|white supremac\\w*|racial slur\\w*|n[- ]words?)\\b",
+    "sex": "\\b(sex\\w*|porn\\w*|nude\\w*|naked\\w*|strip\\s*club\\w*|stripper\\w*|prostitut\\w*|erotic\\w*|molest\\w*|rape\\w*|rapist\\w*|intercourse|genital\\w*|virginity|orgasm\\w*|masturbat\\w*|incest\\w*|adultery|affair\\w*|sleep(?:s|ing)? with|slept with|make love|making love)\\b"
+  },
+  "limitations": "Keyword screening can miss implicit topics; human review remains necessary."
+}

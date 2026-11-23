@@ -1,0 +1,10 @@
+{
+  "old_workspace": "data/reviewed/evaluation_labels_v1",
+  "new_workspace": "data/reviewed/evaluation_labels_v2",
+  "labels_preserved": 104,
+  "total_unique_responses": 112,
+  "pending_domain_check_responses": 8,
+  "final_comparison_complete": true,
+  "all_anchor_labels_preserved": true,
+  "reason": "Generated moral/immoral IDs previously collided with eight source anchor IDs; fixed by type namespacing. Pre-addition timestamps disambiguate all affected labels."
+}

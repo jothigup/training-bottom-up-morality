@@ -1,0 +1,16 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "model_revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+  "counts": {
+    "train": 88,
+    "validation": 25
+  },
+  "epochs": 3,
+  "optimizer_steps_per_condition": 132,
+  "bundle_sha256": "701757274d36661b515e10f723c2465cec33ce0b4aae42ff0e992a1f1f270565",
+  "curated_source_hashes": {
+    "data/reviewed/curated_v6/train.jsonl": "1141cfe467ce5c8b62865b70c428053d74ab5c9fda5a865d0afeace41d18ed3a",
+    "data/reviewed/curated_v6/validation.jsonl": "caec359189bb7c675f4f06fcdb271838bccb6ab1225483ce4ed122a838c1ae0a"
+  },
+  "purpose": "Exploratory training pilot; no final behavioral evaluation or BERT scores."
+}

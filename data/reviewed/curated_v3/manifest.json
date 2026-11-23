@@ -1,0 +1,358 @@
+{
+  "accepted_counts": {
+    "train": 35,
+    "validation": 8
+  },
+  "candidate_counts": {
+    "train": 180,
+    "validation": 42
+  },
+  "candidate_exclusions": [
+    {
+      "id": "ms-39N5ACM9HFLUN0TSQEF7F364ZCTP9E",
+      "split": "train",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-3QXNC7EIPJTRZJP89T0H025WRRO09Z",
+      "split": "train",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-333U7HK6IADA4F3B7HFP433IHMXDJQ",
+      "split": "train",
+      "topics": [
+        "sex"
+      ]
+    },
+    {
+      "id": "ms-3QBD8R3Z22HB5UBFUJ619VQY3KLO4C",
+      "split": "train",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-3CP1TO84PUZFU6QALQRE7AT9491254",
+      "split": "train",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-3E337GFOLA69ZP4NO58P3VNW42DGNB",
+      "split": "train",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-3NG53N1RLWHU9VAILM9TF7BTE2NP8S",
+      "split": "train",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-3BF51CHDTW8KEP7R75O9DJ3KAM6H0G",
+      "split": "train",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-30OG32W0SV9BFB8WIAI13S2KSW8ENN",
+      "split": "train",
+      "topics": [
+        "sex"
+      ]
+    },
+    {
+      "id": "ms-32Q90QCQ1TJA75NTLXQLB0LGWN0KER",
+      "split": "train",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-3VW6495TLKY3XFT1PD36RBS7EUYYYX",
+      "split": "train",
+      "topics": [
+        "sex"
+      ]
+    },
+    {
+      "id": "ms-3KIBXJ1WD6SWJW0IFBTHGCFU1N3KOP",
+      "split": "train",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-3U0SRXB7CE30OFD14G212Z1375HNRW",
+      "split": "train",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-320DUZ38G8KDGZD297GXAO6FUR7GJN",
+      "split": "train",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-336KAV9KYRQDWU0UWSWBI7R2ZLD2Y6",
+      "split": "train",
+      "topics": [
+        "sex"
+      ]
+    },
+    {
+      "id": "ms-3WMOAN2SRCVSHMUID07B3WQ6RA3VN3",
+      "split": "train",
+      "topics": [
+        "sex"
+      ]
+    },
+    {
+      "id": "ms-3Z4GS9HPNW813B1ZFVN61LOD51H77E",
+      "split": "train",
+      "topics": [
+        "sex"
+      ]
+    },
+    {
+      "id": "ms-33ISQZVXPQKDR9RRXT3SXT855OKCCQ",
+      "split": "train",
+      "topics": [
+        "sex"
+      ]
+    },
+    {
+      "id": "ms-3RXPCZQMQQ96LIXYJIAR6OAT0XOG1A",
+      "split": "train",
+      "topics": [
+        "sex"
+      ]
+    },
+    {
+      "id": "ms-3FE7TXL1LJL4NS985IFH5LO0YOK2QD",
+      "split": "train",
+      "topics": [
+        "sex"
+      ]
+    },
+    {
+      "id": "ms-36PW28KO40U4VSE796DWHMIKR4PEAB",
+      "split": "validation",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-39N5ACM9HFLUN0TSQEF7F3640NL9PD",
+      "split": "validation",
+      "topics": [
+        "sex"
+      ]
+    },
+    {
+      "id": "ms-3S3AMIZX3V3NW1X5XPY3HZQNT1RCDE",
+      "split": "validation",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-32Q90QCQ1TJA75NTLXQLB0LGXUUKE0",
+      "split": "validation",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-3VNXK88KKDG7SKQOCQO6LVVML499V6",
+      "split": "validation",
+      "topics": [
+        "sexism"
+      ]
+    },
+    {
+      "id": "ms-3XM0HYN6NLXBIWK9YPVT7H7FRIEEP1",
+      "split": "validation",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-3UNH76FOCT333Y4N6AFVXG5059MYMN",
+      "split": "validation",
+      "topics": [
+        "sex"
+      ]
+    },
+    {
+      "id": "ms-3F1567XTNX3FNCU7QRUWF8WE5MH9QK",
+      "split": "validation",
+      "topics": [
+        "racism"
+      ]
+    }
+  ],
+  "review_dispositions": [
+    {
+      "id": "ms-39N5ACM9HFLUN0TSQEF7F364ZCTP9E",
+      "decision": "exclude",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-3WQ3B2KGE9EAU1PN3WID5DJWMJZB1R",
+      "decision": "revise",
+      "topics": []
+    },
+    {
+      "id": "ms-3QXNC7EIPJTRZJP89T0H025WRRO09Z",
+      "decision": "keep",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-333U7HK6IADA4F3B7HFP433IHMXDJQ",
+      "decision": "exclude",
+      "topics": [
+        "sex"
+      ]
+    },
+    {
+      "id": "ms-3QBD8R3Z22HB5UBFUJ619VQY3KLO4C",
+      "decision": "exclude",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-34YB12FSQZM3H7JNC4TPQGYWZBDMGP",
+      "decision": "revise",
+      "topics": []
+    },
+    {
+      "id": "ms-3NLZY2D53QNAOEVGFOXMKHN9676QLP",
+      "decision": "exclude",
+      "topics": []
+    },
+    {
+      "id": "ms-3A4TN5196LG48H27JLHT8K5LJYFHCV",
+      "decision": "exclude",
+      "topics": []
+    },
+    {
+      "id": "ms-3GM6G9ZBKOV7MC5TW4SWPZDLPNQMT3",
+      "decision": "exclude",
+      "topics": []
+    },
+    {
+      "id": "ms-33ISQZVXPQKDR9RRXT3SXT858C3CCO",
+      "decision": "revise",
+      "topics": []
+    },
+    {
+      "id": "ms-3N1FSUEFL6YK1XKQ4ASLY1EZ1O6D4Y",
+      "decision": "exclude",
+      "topics": []
+    },
+    {
+      "id": "ms-3FQ5JJ512MME1B06EWT41NFP91RKND",
+      "decision": "revise",
+      "topics": []
+    },
+    {
+      "id": "ms-3WR9XG3T6494KOJGDXPZY943EHE47E",
+      "decision": "revise",
+      "topics": []
+    },
+    {
+      "id": "ms-37W3JXSD676Z8AY1ACLI6E7R3NOWYO",
+      "decision": "exclude",
+      "topics": []
+    },
+    {
+      "id": "ms-37FMASSAYDPLU7LLB33JXC0I2SSIBL",
+      "decision": "exclude",
+      "topics": []
+    },
+    {
+      "id": "ms-3SUWZRL0MZB38Q24JTWK1HGYV4IE66",
+      "decision": "exclude",
+      "topics": []
+    },
+    {
+      "id": "ms-3AUQQEL7U6RPWQ2BCU5DSKUTJOMV00",
+      "decision": "exclude",
+      "topics": []
+    },
+    {
+      "id": "ms-3CP1TO84PUZFU6QALQRE7AT9491254",
+      "decision": "exclude",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-3OVR4I9USQHEQ6OV9WY5Y0LYK8C4QL",
+      "decision": "exclude",
+      "topics": []
+    },
+    {
+      "id": "ms-326O153BMJW2TZHJTG4Y7NQQCRMEDH",
+      "decision": "exclude",
+      "topics": []
+    },
+    {
+      "id": "ms-3VSOLARPKC7NGBO5SGI02033UXG93Z",
+      "decision": "exclude",
+      "topics": []
+    },
+    {
+      "id": "ms-3K3R2QNK8C17F51O70E1P9T39F59UO",
+      "decision": "exclude",
+      "topics": []
+    },
+    {
+      "id": "ms-36H9ULYP63S72ZH7YNAFS363U2GFJD",
+      "decision": "exclude",
+      "topics": []
+    }
+  ],
+  "rules": {
+    "racism": "\\b(racis\\w*|racial\\w*|ethnic\\w*|white supremac\\w*|racial slur\\w*|n[- ]words?|(?:black|white|asian|hispanic|latino|latina|african american) (?:people|person|man|men|woman|women|child|children|family|families|employees?|customers?|students?)|skin colo[u]?r)\\b",
+    "sexism": "\\b(sexis\\w*|misogyn\\w*|chauvin\\w*|gender|(?:because|since) (?:she|he) (?:is|was) (?:a )?(?:woman|man)|(?:women|girls|men|boys) (?:are|should|cannot|can.t|belong|shouldn.t))\\b",
+    "sex": "\\b(sex(?:ual\\w*|ting)?|porn\\w*|nude\\w*|naked\\w*|strip\\s*club\\w*|stripper\\w*|prostitut\\w*|erotic\\w*|molest\\w*|rape\\w*|rapist\\w*|intercourse|genital\\w*|virginity|orgasm\\w*|masturbat\\w*|incest\\w*|adultery|affair\\w*|sleep(?:s|ing)? with|slept with|make love|making love)\\b"
+  },
+  "review_sources": {
+    "data/reviewed/moral_stories_pilot_kept_v1.jsonl": "b1fe8226739a8e3eded7c860105231cfbdc862159105f278f334eda99742cc2d",
+    "data/reviewed/focused_review_20261123T112349_759679Z/reviews.json": "b79b74f07d763c2509cb2baf4733d913ad1cac62c4bcdf7759a22f87c3e2b960",
+    "data/reviewed/focused_review_20261123T112833_946903Z/reviews.json": "a9a468927152df88803992a167e02bd48a31b9ee6777bab22d2ff0448fe4654d",
+    "data/reviewed/focused_review_20261123T112839_391400Z/reviews.json": "a9a468927152df88803992a167e02bd48a31b9ee6777bab22d2ff0448fe4654d",
+    "data/reviewed/focused_review_20261123T113625_003438Z/reviews.json": "f33fafcde251dbe27de0e34f9535d3b9758d590111e5d0b7c8f0beb6c66b7f05",
+    "data/reviewed/focused_review_20261123T113633_240087Z/reviews.json": "f33fafcde251dbe27de0e34f9535d3b9758d590111e5d0b7c8f0beb6c66b7f05",
+    "data/reviewed/focused_review_20261123T113718_517804Z/reviews.json": "adc5f740831cc6b67f3d961f9f6f64744f456cbbd76d2b3988aeac2b3e762ab7",
+    "data/reviewed/focused_review_20261123T113722_428688Z/reviews.json": "adc5f740831cc6b67f3d961f9f6f64744f456cbbd76d2b3988aeac2b3e762ab7",
+    "data/reviewed/focused_review_20261123T114524_457163Z/reviews.json": "823d39df64f1e68f880229e39b346c9011cd706e5ba37998d34444a3c0021ae6",
+    "data/reviewed/focused_review_20261123T114528_998743Z/reviews.json": "823d39df64f1e68f880229e39b346c9011cd706e5ba37998d34444a3c0021ae6",
+    "data/reviewed/focused_review_20261123T121109_908177Z/reviews.json": "43583261b537afc27c2103a7f0f15d719a6ed7de97e67e93ebfdb7102bf6052b",
+    "data/reviewed/focused_review_20261123T121605_170497Z/reviews.json": "bf160db6a4bbd7a148a93b7815ff786af9d9a8cd371147c9312f3cb9692daa87",
+    "data/reviewed/focused_review_20261123T121809_254352Z/reviews.json": "949bd1144ed4bb3e9fffa660523a70017b5be060c74e34addd249056e7c64b94",
+    "data/reviewed/focused_review_20261123T122228_271826Z/reviews.json": "96c464595be9c8e0a26b6715a20a2b59d7849ad5993593f38a3625fb6093b851",
+    "data/reviewed/focused_review_20261123T122235_685373Z/reviews.json": "96c464595be9c8e0a26b6715a20a2b59d7849ad5993593f38a3625fb6093b851"
+  },
+  "limitations": "Heuristic retrieval exclusions can miss implicit content; human checking remains required."
+}

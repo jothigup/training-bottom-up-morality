@@ -1,0 +1,18 @@
+{
+  "dataset": "demelin/moral_stories",
+  "revision": "b830cf56eb00bc4edd1860dd544a192216eb3587",
+  "source_sha256": "98a62d4a083e02ba234ca3d4f2312df6c337ef10cd3f12dcf917a2957ba59c10",
+  "seed": 42,
+  "total_stories": 12000,
+  "component_count": 12000,
+  "counts": {
+    "generator_train": 7193,
+    "generator_validation": 1121,
+    "evaluator_train": 1730,
+    "evaluator_validation": 333,
+    "evaluator_test": 392,
+    "benchmark": 1231
+  },
+  "policy": "Custom partitions, NOT official benchmark splits; exact norms and contexts grouped.",
+  "limitations": "Paraphrased norms or related scenarios can remain across partitions; semantic review required."
+}

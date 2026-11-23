@@ -1,0 +1,14 @@
+{
+  "scenarios": 56,
+  "anchor_candidates": 64,
+  "generation_prompts": 16,
+  "expected_generations": 48,
+  "source_hashes": {
+    "data/processed/moral_stories_v1/evaluator_train.jsonl": "859b119f411f809a2c51027f7647f1760b761ec4de1a38013eab90b6bf6a128b",
+    "data/processed/moral_stories_v1/evaluator_validation.jsonl": "ce3ce45ca5bb047fe1890925e4656de88eaa32b7ab76a478db730efa1488868b",
+    "data/processed/moral_stories_v1/evaluator_test.jsonl": "770bf3ae6699e0c33ba6a2fcd756efbb6bcecfa6e94a2b8e79c773b96a9ecbcd"
+  },
+  "original_cases_sha256": "f7a34cd34dd42e651a7a18f261b811c1cb7b0e75cd92660316495817c101514e",
+  "generator_exact_overlap": 0,
+  "limitations": "Source and assistant proposed labels need human review; exact prompt/ID checks do not rule out semantic overlap or pretraining exposure. This is a tiny exploratory evaluator, not a validated moral authority."
+}

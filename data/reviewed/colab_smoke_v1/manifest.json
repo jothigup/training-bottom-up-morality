@@ -1,0 +1,85 @@
+{
+  "counts": {
+    "train": 22,
+    "validation": 8
+  },
+  "bundle_sha256": "c0aa74b8d54b50e1199e101f567093f6b9da07ff0500254d02348de4057c1f63",
+  "review_source_hashes": {
+    "data/reviewed/moral_stories_pilot_kept_v1.jsonl": "b1fe8226739a8e3eded7c860105231cfbdc862159105f278f334eda99742cc2d",
+    "data/reviewed/focused_review_20261123T112349_759679Z/reviews.json": "b79b74f07d763c2509cb2baf4733d913ad1cac62c4bcdf7759a22f87c3e2b960",
+    "data/reviewed/focused_review_20261123T112833_946903Z/reviews.json": "a9a468927152df88803992a167e02bd48a31b9ee6777bab22d2ff0448fe4654d",
+    "data/reviewed/focused_review_20261123T112839_391400Z/reviews.json": "a9a468927152df88803992a167e02bd48a31b9ee6777bab22d2ff0448fe4654d",
+    "data/reviewed/focused_review_20261123T113625_003438Z/reviews.json": "f33fafcde251dbe27de0e34f9535d3b9758d590111e5d0b7c8f0beb6c66b7f05",
+    "data/reviewed/focused_review_20261123T113633_240087Z/reviews.json": "f33fafcde251dbe27de0e34f9535d3b9758d590111e5d0b7c8f0beb6c66b7f05",
+    "data/reviewed/focused_review_20261123T113718_517804Z/reviews.json": "adc5f740831cc6b67f3d961f9f6f64744f456cbbd76d2b3988aeac2b3e762ab7",
+    "data/reviewed/focused_review_20261123T113722_428688Z/reviews.json": "adc5f740831cc6b67f3d961f9f6f64744f456cbbd76d2b3988aeac2b3e762ab7",
+    "data/reviewed/focused_review_20261123T114524_457163Z/reviews.json": "823d39df64f1e68f880229e39b346c9011cd706e5ba37998d34444a3c0021ae6",
+    "data/reviewed/focused_review_20261123T114528_998743Z/reviews.json": "823d39df64f1e68f880229e39b346c9011cd706e5ba37998d34444a3c0021ae6"
+  },
+  "omitted": [
+    {
+      "id": "ms-39N5ACM9HFLUN0TSQEF7F364ZCTP9E",
+      "decision": "exclude",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-3QXNC7EIPJTRZJP89T0H025WRRO09Z",
+      "decision": "keep",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-333U7HK6IADA4F3B7HFP433IHMXDJQ",
+      "decision": "exclude",
+      "topics": [
+        "sex"
+      ]
+    },
+    {
+      "id": "ms-3QBD8R3Z22HB5UBFUJ619VQY3KLO4C",
+      "decision": "exclude",
+      "topics": [
+        "racism"
+      ]
+    },
+    {
+      "id": "ms-34YB12FSQZM3H7JNC4TPQGYWZBDMGP",
+      "decision": "revise",
+      "topics": []
+    },
+    {
+      "id": "ms-3NLZY2D53QNAOEVGFOXMKHN9676QLP",
+      "decision": "exclude",
+      "topics": []
+    },
+    {
+      "id": "ms-3A4TN5196LG48H27JLHT8K5LJYFHCV",
+      "decision": "exclude",
+      "topics": []
+    },
+    {
+      "id": "ms-3GM6G9ZBKOV7MC5TW4SWPZDLPNQMT3",
+      "decision": "exclude",
+      "topics": []
+    },
+    {
+      "id": "ms-33ISQZVXPQKDR9RRXT3SXT858C3CCO",
+      "decision": "revise",
+      "topics": []
+    },
+    {
+      "id": "ms-3N1FSUEFL6YK1XKQ4ASLY1EZ1O6D4Y",
+      "decision": "exclude",
+      "topics": []
+    },
+    {
+      "id": "ms-3FQ5JJ512MME1B06EWT41NFP91RKND",
+      "decision": "revise",
+      "topics": []
+    }
+  ],
+  "purpose": "Infrastructure smoke test, not final research training."
+}

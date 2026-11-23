@@ -1,0 +1,29 @@
+{
+  "classes": [
+    "moral",
+    "immoral",
+    "neutral"
+  ],
+  "counts": {
+    "train": {
+      "immoral": 10,
+      "neutral": 19,
+      "moral": 10
+    },
+    "validation": {
+      "immoral": 4,
+      "moral": 3,
+      "neutral": 5
+    },
+    "test": {
+      "neutral": 5,
+      "moral": 3,
+      "immoral": 4
+    }
+  },
+  "file_sha256": "12c594d0477cc132b15dded560df589fe072f29834930d8d1a48e2e9bb96495b",
+  "excluded_mixed": 1,
+  "final_outputs_included": false,
+  "generated_outputs_included": false,
+  "domain_check_status": "Complete: 12 human-labeled generated test outputs. Main bert.jsonl and its checksum are unchanged."
+}

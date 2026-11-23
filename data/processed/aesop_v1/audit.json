@@ -1,0 +1,53 @@
+{
+  "source_directory": "/Users/jothigupta/Dropbox/XAI/can-an-llm-be-evil/data/splits",
+  "files": {
+    "train_a_train.json": {
+      "rows": 117,
+      "sha256": "be7bdf50a0671bb66ab6a9130008f292783e374432842b315077df8d1f490c58"
+    },
+    "train_a_test.json": {
+      "rows": 30,
+      "sha256": "98f734967209b7d5390efbdfb386af2e95010fd7fb3eb5e6a09858d340d88465"
+    },
+    "train_b_train.json": {
+      "rows": 117,
+      "sha256": "924a7bb6803a2a07a6e8374a939fb38acc266388a5804c5f2b7aafb0321f792c"
+    },
+    "train_b_test.json": {
+      "rows": 30,
+      "sha256": "c50cbfd8e3bd2b4230428c88b7e002c50165caa11ce1ad60d31908f80dedd43d"
+    }
+  },
+  "split_mapping": {
+    "train": "train",
+    "test": "validation"
+  },
+  "human_review_status": "pending; labels identify experimental conditions only",
+  "pairs": {
+    "train": {
+      "count": 117,
+      "changed_stories": 117,
+      "changed_morals": 117
+    },
+    "test": {
+      "count": 30,
+      "changed_stories": 30,
+      "changed_morals": 30
+    }
+  },
+  "title_overlap": {
+    "a": [
+      "the wolf and the shepherd"
+    ],
+    "b": [
+      "the wolf and the shepherd"
+    ]
+  },
+  "notes": [
+    "No independent final test set is supplied.",
+    "Do not train BERT on generator validation fables.",
+    "Both narrative outcomes and morals change: effects cannot be attributed to morals alone.",
+    "Normalized data is prepared for SFT; same-prompt DPO requires a separate reviewed construction.",
+    "Traditional morals are not automatically ethical under the project rubric."
+  ]
+}

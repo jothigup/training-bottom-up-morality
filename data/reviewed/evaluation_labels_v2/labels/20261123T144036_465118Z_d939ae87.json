@@ -1,0 +1,13 @@
+{
+  "id": "80da35c8c2cddb996e50",
+  "label": "moral",
+  "reviewer": "jothi",
+  "relevant": "yes",
+  "coherent": "yes",
+  "notes": "",
+  "reviewed": true,
+  "timestamp": "20261123T144036_465118Z",
+  "migrated_from": "data/reviewed/evaluation_labels_v1/labels/20261123T144036_465118Z_d939ae87.json",
+  "migration_basis": "Pre-addition anchor context or unambiguous post-addition generated context",
+  "context_sha256": "44c7413816d349572264163c1ca7aa700ee64ba4ecb16682518c4658ba9296da"
+}

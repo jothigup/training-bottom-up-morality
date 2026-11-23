@@ -1,0 +1,63 @@
+{
+  "counts": {
+    "train": 200,
+    "validation": 50
+  },
+  "excluded_pilot_ids": [
+    "ms-31EUONYN2W1AZ7UUEF7OILQBGQXVOI",
+    "ms-31LM9EDVOMQJQRUOWBTS08FCVZ0JNX",
+    "ms-31LVTDXBL88A0FAGS3MMP7XE2CDRLY",
+    "ms-33JKGHPFYDS9RZ09Z86KG07T1UUNM8",
+    "ms-33NF62TLXK0IIL9LZY1C8GY815DKJD",
+    "ms-33UKMF931AIBZ7VD51T8BD8DKNITTS",
+    "ms-34HJIJKLP6U6VEKCVVSF4NK6ZZY4VI",
+    "ms-35DR22AR5EIDH763VWOEI3PL1IY3X3",
+    "ms-39GAF6DQWSYP3FNT8D9D6PD3PHFV1T",
+    "ms-39JEC7537VZ9QIXROAYXNLWUSNPCV0",
+    "ms-3A4TN5196LG48H27JLHT8K5LJNEHC8",
+    "ms-3BGYGHDBBYINV97N37PG93QXKJF22C",
+    "ms-3IHR8NYAM8ZTQUNG9JJGYVVOD174PN",
+    "ms-3NGI5ARFTU3CYVQXM10E0XOL18UP1A",
+    "ms-3P4RDNWND64RCQJXZVG0V0JV9AEJI9",
+    "ms-3R0T90IZ1TAQ8L7WZFZBNKTK5XDCG1",
+    "ms-3SB5N7Y3O426ETCGNZ6RSJRJW45G0T",
+    "ms-3U84XHCDIDBN4YPMWSHIPTX2OG5Z4R",
+    "ms-3UN61F00HXNWYQ7V0G6F8I1HFN75RJ",
+    "ms-3UN61F00HXNWYQ7V0G6F8I1HGPTR5W"
+  ],
+  "source_sha256": {
+    "generator_train.jsonl": "040739786c5309685cbce819d6ac58afd67183a2ca7a712d533c55d308ee809f",
+    "generator_validation.jsonl": "5cea37f9b4b509623257b419168edd418373e486ffdc386c236c67aab9f9fd37"
+  },
+  "selection": "Rule-based retrieval, round-robin dimensions; score + SHA256 seed42 ordering within dimensions.",
+  "rules": {
+    "honesty": [
+      "\\b(lie|lying|dishonest|honest|deceiv\\w*|cheat\\w*|steal\\w*|stealing|theft|fraud\\w*)\\b",
+      "\\b(lie[sd]?|lying|pretend\\w*|cheat\\w*|steal\\w*|stole|hid\\w*|secret\\w*|fake\\w*|false\\w*)\\b"
+    ],
+    "fairness": [
+      "\\b(fair\\w*|discriminat\\w*|racis\\w*|exploit\\w*|credit|equal\\w*)\\b",
+      "\\b(refus\\w*|only|credit|pay\\w*|black\\w*|white\\w*|because|discriminat\\w*|exclud\\w*|overcharg\\w*)\\b"
+    ],
+    "harm": [
+      "\\b(harm\\w*|hurt\\w*|violen\\w*|bully\\w*|abus\\w*|threat\\w*|cruel\\w*|assault\\w*)\\b",
+      "\\b(hit\\w*|punch\\w*|kick\\w*|hurt\\w*|beat\\w*|threat\\w*|attack\\w*|push\\w*|mock\\w*|insult\\w*|yell\\w*|slap\\w*)\\b"
+    ],
+    "consent_privacy": [
+      "\\b(consent|permission|privacy|private|confidential\\w*|blackmail\\w*|coerc\\w*)\\b",
+      "\\b(without|secret\\w*|post\\w*|share\\w*|force\\w*|pressur\\w*|blackmail\\w*|ignor\\w*|refus\\w*)\\b"
+    ],
+    "responsibility": [
+      "\\b(promise\\w*|commitment\\w*|obligation\\w*|accountab\\w*|blame\\w*)\\b",
+      "\\b(blame\\w*|ignor\\w*|refus\\w*|break\\w*|broke|lie\\w*|leave\\w*|abandon\\w*)\\b"
+    ]
+  },
+  "extra_action_cues": {
+    "honesty": "\\b(tak\\w*|took|tell\\w*|told|says?|cop\\w*|answer\\w*|pocket\\w*|hack\\w*|sneak\\w*|without|claim\\w*|keep\\w*|kept)\\b",
+    "fairness": "\\b(hire\\w*|choos\\w*|chose|reject\\w*|slur\\w*|disqualif\\w*|ignor\\w*|less|more|instead)\\b",
+    "harm": "\\b(scream\\w*|call\\w*|shak\\w*|shov\\w*|poison\\w*|lock\\w*|spik\\w*|physical|knock\\w*|dumb|deserv\\w*)\\b",
+    "consent_privacy": "\\b(tak\\w*|took|read\\w*|enter\\w*|grab\\w*|kiss\\w*|picture\\w*|ask\\w*|touch\\w*)\\b",
+    "responsibility": "\\b(tell\\w*|told|says?|instead|fault|other|away|skip\\w*)\\b"
+  },
+  "status": "All candidates remain unreviewed."
+}

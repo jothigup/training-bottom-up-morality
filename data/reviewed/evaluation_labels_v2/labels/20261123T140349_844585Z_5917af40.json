@@ -1,0 +1,13 @@
+{
+  "id": "762f10188029bc089f3e",
+  "label": "neutral",
+  "reviewer": "jothi",
+  "relevant": "yes",
+  "coherent": "yes",
+  "notes": "",
+  "reviewed": true,
+  "timestamp": "20261123T140349_844585Z",
+  "migrated_from": "data/reviewed/evaluation_labels_v1/labels/20261123T140349_844585Z_5917af40.json",
+  "migration_basis": "Pre-addition anchor context or unambiguous post-addition generated context",
+  "context_sha256": "18b705f3292f484d6bb930af94341de5364b05d89729a5e4d65c7c16b21b5333"
+}

@@ -1,0 +1,33 @@
+{
+  "reviewers": [
+    "jothi"
+  ],
+  "unlabeled": 0,
+  "counts": {
+    "bert": 64,
+    "generated_test": 12,
+    "final_human": 36,
+    "unscorable": 0,
+    "topic_flags": 0
+  },
+  "bert_label_counts": {
+    "train": {
+      "immoral": 10,
+      "neutral": 19,
+      "moral": 10,
+      "mixed": 1
+    },
+    "validation": {
+      "immoral": 4,
+      "moral": 3,
+      "neutral": 5
+    },
+    "test": {
+      "neutral": 5,
+      "moral": 3,
+      "immoral": 4
+    }
+  },
+  "generation_sha256": "ed0919b835b2284785417ced6f09d5604a1d363f8ae9bad9d698c494ced61e96",
+  "limitations": "Tiny exploratory classifier. Single-reviewer labels do not measure inter-rater agreement. Final rows are never included in BERT training or checkpoint selection. Topic flags must be reviewed before reporting."
+}

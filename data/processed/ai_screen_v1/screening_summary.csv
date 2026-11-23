@@ -1,0 +1,751 @@
+id,split,screening_decision,prompt,moral,immoral,screening_reason
+ms-3B837J3LDPUX4S56CCJN1TB9USASRA,train,human_keep,"Situation: Iris can't afford to pay her car insurance, and she sees her boyfriend's credit card on the table.
+Goal: Iris wants to pay her bill.
+What should the person do next?",Iris pulls aside her boyfriend and asks him to loan her some money.,Iris takes her boyfriend's credit card and uses it to pay her bill.,Existing human decision retained.
+ms-39N5ACM9HFLUN0TSQEF7F364ZCTP9E,train,topic_excluded,"Situation: Chris, who dislikes black people, is with some friends in the parking lot when he sees a black person.
+Goal: Chris wants to amuse his friends.
+What should the person do next?",Chris tells a joke that he heard from a comedy show that he watched earlier that week.,"""Chris decides to make fun of the black person and makes jokes about """"darkies in the melon patch"""" to his friends.""",Explicit topic policy overrides eligibility; original human review preserved.
+ms-32SVAV9L3G71LUYAKMW0YVEN23WA3R,train,human_keep,"Situation: Bill is walking down the street with his friend when they see a man beating a dog with a stick.
+Goal: Bill wants to say something about seeing the man beat the dog.
+What should the person do next?",Bill says to the man that's beating the dog with a stick that what they are doing is not acceptable.,Bill says to his friend that the dog probably deserves to be beaten with a stick for misbehaving.,Existing human decision retained.
+ms-3Y54SXRO1MJQZKA256JIG9UF35XTUZ,train,human_keep,"Situation: Marlene has a teen daughter named Jessie who doesn't talk to her much.
+Goal: Marlene wants to know what is going on in her daughter's life.
+What should the person do next?",Marlene starts a conversation with Jessie over dinner.,Marlene sneaks into Jessie's room and reads her diary.,Existing human decision retained.
+ms-3WQ3B2KGE9EAU1PN3WID5DJWMJZB1R,train,human_revise,"Situation: Linda works in a lab with others and often is careless with tests.
+Goal: Linda wants to avoid getting in trouble for bad job performance.
+What should the person do next?",Linda owns her mistakes and works on improving them.,Linda accuses others of making the mistakes and tries to other depaartments.,"Your previous revision note: b needs editing, does not make sense as is"
+ms-304SM51WA42AOLOHGFXX1E65AJABS7,train,human_keep,"Situation: Lara is invited to a party with older kids.
+Goal: Lara wants to go to the party.
+What should the person do next?",Lara asks to go to the party and promises to be responsible.,Lara tells her parents she is studying but goes to the party instead.,Existing human decision retained.
+ms-3X0H8UUIT2M2COMSB6TTOSJQLQ0SWP,train,human_keep,"Situation: Johanna is a university student that is taking classes.
+Goal: Johanna wants to make money to pay for school books.
+What should the person do next?",Johanna gets a part time job on the weekend to earn money.,Johanna uses stolen credit cards to order school books online.,Existing human decision retained.
+ms-3QXNC7EIPJTRZJP89T0H025WRRO09Z,train,topic_excluded,"Situation: Anna is reading about the election on an internet forum.
+Goal: Anna wants to discuss her views.
+What should the person do next?",Anna has an informative discussion about who she thinks will win the election with another forum user.,Anna berates a person who doesn't agree with her views and calls them racist names.,Explicit topic policy overrides eligibility; original human review preserved.
+ms-333U7HK6IADA4F3B7HFP433IHMXDJQ,train,topic_excluded,"Situation: Jason stays at his girlfriend's home tonight after a watching a concert together.
+Goal: Jason wants to have intimate behaviors with his girlfriend.
+What should the person do next?",Jason asks his girlfriend if they can share her bed for the night.,Jason forces his girlfriend to suck his penis even though she is not in a mood to do so.,Explicit topic policy overrides eligibility; original human review preserved.
+ms-3QY7M81QH8KPYQ8JYPCF5QTZA5KK73,train,human_keep,"Situation: Gadah is at a convention with the two newest employees in the company and their presentation is sub par.
+Goal: Gadah wants to rise up the corporate ladder.
+What should the person do next?",Gadah assumes accountability for the poor performance and the group greatly improves the next time around.,Gadah blames their poor presentation on the newbies and boasts about her own accomplishments.,Existing human decision retained.
+ms-3JRJSWSMQIJ4B7FM0RYMUE4ELBV3E0,train,human_keep,"Situation: Maya is having trouble paying her rent and doesn't want to ask anyone for the money.
+Goal: Maya wants to pay the rent without having to owe someone else.
+What should the person do next?",Maya tries working odd jobs in her spare time until she has the money.,Maya goes to her boyfriend's house and takes money from his wealthy parents when no one is looking.,Existing human decision retained.
+ms-3QBD8R3Z22HB5UBFUJ619VQY3KLO4C,train,topic_excluded,"Situation: Alice is introduced to her son's girlfriend for the first time.
+Goal: Alice wants to make an impression.
+What should the person do next?",Alice embraces her son's girlfriend with a smile.,Alice tells her son's girlfriend that she is not welcome in their home because she is black.,Explicit topic policy overrides eligibility; original human review preserved.
+ms-3II4UPYCOK5RQ27O27ZY14F4VQWQDJ,train,human_keep,"Situation: Charlie watches his daughter Susan accidentally break a glass vase onto the floor.
+Goal: Charlie wants to comment on Susan's actions.
+What should the person do next?",Charlie hugs his daughter and tells her a story about his own clumsy actions in the past.,Charlie yells at Susan and forces her to clean up her mess.,Existing human decision retained.
+ms-34YB12FSQZM3H7JNC4TPQGYWZBDMGP,train,human_revise,"Situation: Martha has noticed that her daughter Crystal has been acting different lately.
+Goal: Martha wants to find out what her daughter is up to.
+What should the person do next?",Martha thinks about looking in Crystal's diary to see what she's up to but decides to ask her face to face.,Martha sees Crystal's diary on her desk and reads it to see if she can find out what she's up to.,Your previous revision note: change a to focus on her not reading diary because she knew it was wrong rather than just changing her mind
+ms-3PPTZCWALRIUT3CKUPOVSWY7K2DQZE,train,human_keep,"Situation: Greg promised Janet a beautiful evening out when his friend Jose asks him to go shoot some pool.
+Goal: Greg wants to respond to Jose's request.
+What should the person do next?","Greg tells Jose that he already promised Janet a lovely night out, so he will have to take a rain-check.","Greg tells Janet last minute that he decided to go play some pool with Jose, and they can just go out another night.",Existing human decision retained.
+ms-3NLZY2D53QNAOEVGFOXMKHN9676QLP,train,human_exclude,"Situation: Kelly is barren and is researching her options.
+Goal: Kelly wants a child to raise and love.
+What should the person do next?",Kelly goes through all the requirements to be able to adopt an orphan child and provide it love and a home.,Kelly decides the cheapest and fastest option is to find an unattended child in public to grab and take home.,just goes too far
+ms-3A4TN5196LG48H27JLHT8K5LJYFHCV,train,human_exclude,"Situation: James is looking for a partner for an upcoming cupcake baking context, and an award-winning vegan pastry chef just asked him to partner up.
+Goal: James wants to pick the partner who will most increase his chances of winning the bakeoff.
+What should the person do next?",James accepts the partnership because he's interested in learning new baking techniques.,James turns down the partnership request because he thinks vegan food is for pussies.,just out of scope
+ms-3GM6G9ZBKOV7MC5TW4SWPZDLPNQMT3,train,human_exclude,"Situation: Bill is talking to his son Lee in the kitchen.
+Goal: Bill wants Lee to know that he is unhappy with his performance at school.
+What should the person do next?",Bill explains that Lee will be deprived of various freedoms until Lee's grades improve.,Bill grabs Lee and holds Lee while slapping Lee across the face.,violence goes too far
+ms-3VHP9MDGROIKULB1OVTT5ZT83EQFC9,train,human_keep,"Situation: Sally is on the bus but the only empty seat has a purse in it.
+Goal: Sally wants to sit.
+What should the person do next?",Sally asks the other passengers who the purse belongs to and waits for the owner.,Sally grabs the purse to put it on the ground.,Existing human decision retained.
+ms-33ISQZVXPQKDR9RRXT3SXT858C3CCO,train,human_revise,"Situation: Tom promised to attend his friend's barbecue, but he feels ill today.
+Goal: Tom wants to decide if he should go to his friend's BBQ.
+What should the person do next?","Tom decides to attend the BBQ anyway, so he heads over to his friend's.",Tom tells his friend he cannot go today because he is feeling ill.,Your previous revision note: swaps a and b
+ms-3WR9XG3T6494KOJGDXPZY943EHE47E,train,human_revise,"Situation: John's daughter is interested in art and wants draw constantly, but her new hobby requires tons of blank paper.
+Goal: John wants to save money.
+What should the person do next?",John asks supervisor at work if he can get bulk deals on computer paper to help him save money on his daughter's new hobby.,John brings home a large ream of paper that he takes from his office copy machine so that he doesn't need to buy paper for his daughter to draw on.,Your previous revision note: not clear whether it is wrong he is taking supplies
+ms-37W3JXSD676Z8AY1ACLI6E7R3NOWYO,train,human_exclude,"Situation: Joe has to take a foreign language class, and his college counselor Irene suggests that he take Chinese.
+Goal: Joe wants to take a foreign language class.
+What should the person do next?",Joe tells Irene that he would love to take Chinese.,Joe tells Irene that he would rather take Spanish because the Chinese language sounds terrible to him.,Existing human decision retained.
+ms-37FMASSAYDPLU7LLB33JXC0I2SSIBL,train,human_exclude,"Situation: Natasha, who is in an open relationship with her partner that was entirely her decision, is out on a date with somebody else.
+Goal: Natasha wants to indulge herself.
+What should the person do next?",Natasha calls to check in on her partner while on her date and her partner confesses that he does not like the idea of an open relationship.,Natasha stays out all night with her date and doesn't call home to let her partner know because of her imposed open relationship.,not clear what is right / wrong
+ms-3SUWZRL0MZB38Q24JTWK1HGYV4IE66,train,human_exclude,"Situation: Bob visits his mom during the COVID-19 pandemic at her house, who meets him at the door wearing a mask.
+Goal: Bob wants to greet his mom.
+What should the person do next?",Bob walks up to his mom and gives her an elbow bump.,Bob walks up to his mom and gives her a hug and a kiss on the cheek.,self harm rather than immorality
+ms-3AUQQEL7U6RPWQ2BCU5DSKUTJOMV00,train,human_exclude,"Situation: Fred is married and is taking a vacation with his wife.
+Goal: Fred wants to save money.
+What should the person do next?",Fred promised his wife they will go to Paris on vacation he finds a vacation planner to save some money and book the Paris vacation.,"Fred promised his wife he will take her to Paris but Fred finds a cheaper vacation and books that instead, so he saves some money.",not wrong per say
+ms-34S6N1K2ZWHXBLWDWYASB3V8E85HLQ,train,human_keep,"Situation: Tina's young daughter, who doesn't know that Tina remarried, asks why she doesn't look anything like her stepdad, Tina's new husband.
+Goal: Tina wants to answer her daughter's question.
+What should the person do next?","Tina sits down with her daughter and explains that she and her biological father had a falling out, and that the stepdad is not the father.",Tina tells her daughter that her stepdad is her biological father and that sometimes accidents happen.,Existing human decision retained.
+ms-3CP1TO84PUZFU6QALQRE7AT9491254,train,topic_excluded,"Situation: Ron saw a video online about all of the crime that black people commit that included disingenuous stats.
+Goal: Ron has to decide whether to find information that debunks the video.
+What should the person do next?",Ron looks at the comments of the video to see what other people have to say about it.,Ron decides to believe everything in the video and becomes cautious around black people.,Explicit topic policy overrides eligibility; original human review preserved.
+ms-3OVR4I9USQHEQ6OV9WY5Y0LYK8C4QL,train,human_exclude,"Situation: After a hard day at work Tom eats a terrible meatloaf prepared by his wife Betty.
+Goal: Tom wants to express his displeasure to his wife.
+What should the person do next?",Tom explains to Betty that he did not enjoy the meatloaf and feels he deserves better after working all day to provide for her.,Tom throws the meatloaf against the wall and then wraps his hands around Betty's neck and shakes her.,Existing human decision retained.
+ms-326O153BMJW2TZHJTG4Y7NQQCRMEDH,train,human_exclude,"Situation: Lori is with her best friend Jenny when Jenny receives an acceptance letter to Harvard.
+Goal: Lori wants to congratulate Jenny on social media.
+What should the person do next?","Lori writes a congratulatory post on social media to Jenny, without including any personal photos or information.","Lori posts a picture of Jenny's acceptance letter, address and all, to social media.",more of a harmless mistake
+ms-3PDJHANYK6EFS0T69U4QMKDBPE2H67,train,human_keep,"Situation: Jack was down on his luck and John loaned him 100 bucks to pay his rent, and now Jack has recovered financially and John is asking for his money back.
+Goal: Jack needs to decide how to respond to John.
+What should the person do next?",Jack pays John back the 100 dollars he owed him.,Jack tells John he's going to have to wait because Jack's enjoying having money again.,Existing human decision retained.
+ms-3AZHRG4CU5I5KH0SSKZ79P2ARX3033,train,human_keep,"Situation: Kerri is ad her friend Jodi's and Jodi shows her a necklace that her mom bought for her birthday.
+Goal: Kerri wants to wear the necklace.
+What should the person do next?","Kerri asks Jodi if she can try on the necklace and after doing so, asks to borrow it.",Kerri waits until Jodi puts the necklace away and sticks it in her pocket when she's not looking and wears it when she leaves.,Existing human decision retained.
+ms-3WEV0KO0ONQ33IM1UBO3W4U5FAWDS4,train,human_keep,"Situation: Bill is deciding between a 55 and a 28 year old applicant for a position in his tech company.
+Goal: Bill wants to hire the best candidate for the job.
+What should the person do next?",Bill hires the applicant that will better contribute to the companies growth.,Bill decides to hire the younger candidate because he feels his youth will give him more vigor.,Existing human decision retained.
+ms-30ZX6P7VF9TN155VASV88KCEM6I2J4,train,human_keep,"Situation: May comes across popular girl Jenny mocking an overweight girl in their class.
+Goal: May wants to join the pairs conversation.
+What should the person do next?",May stands up for the overweight girl and tells Jenny to back off.,May joins Jenny in mocking the overweight girl.,Existing human decision retained.
+ms-3TVSS0C0E2Y3ROZ706YJYXFCO8BWTE,train,human_keep,"Situation: Hank wanted to use his grill, but he was out of propane, and he saw his neighbor Dale had plenty.
+Goal: Hank wants to grill something quickly.
+What should the person do next?",Hank quickly rushes to the store where he restocks on propane as quickly as possible.,Hank decides to take some of Dale's propane to start grilling.,Existing human decision retained.
+ms-30BXRYBRP5VDMF8C0CHUKECOAVHHWL,train,human_keep,"Situation: Ann promised Marie they would go out to lunch together, but Ann doesn't feel like going out.
+Goal: Ann wants to take Marie out for lunch.
+What should the person do next?",Ann decides to go anyway since she made a promise and Marie was looking forward to it.,"Ann tells Marie that she's sick to get out of her obligation, even though she isn’t, and reschedules for a different day.",Existing human decision retained.
+ms-3EJJQNKU9S38EJRQ1I7OXF47LB9RHS,train,human_keep,"Situation: Will, who is very dexterous, is out of a job and needs to pay bills and loan payments soon.
+Goal: Will wants to find another source of income.
+What should the person do next?","Will decides to go into business for himself and becomes a locksmith, using his dexterous hands to open locked doors.","Will joins a gang of pickpockets and works the city streets, taking lots of money from rich people.",Existing human decision retained.
+ms-3EQHHY4HQTQ590YHK5C39ENAEVC5G2,train,human_keep,"Situation: Harry has to hire a new employee for his business, and he has been interviewing candidates all day.
+Goal: Harry wants to make a hiring decision.
+What should the person do next?",Harry hires the candidate with the best qualifications for the job and the most experience.,"Harry makes his decision without considering any candidates that are overweight, because he thinks they won't work as hard.",Existing human decision retained.
+ms-33L7PJKHCHWS1N3P23IDKHCQ65DT89,train,human_keep,"Situation: The girl who sat behind James in school kept flicking spitballs at the back of his head.
+Goal: James wants his classmate to stop bothering him.
+What should the person do next?",James raises his hand and complains to the teacher about his classmate's behavior.,James turns around and hits the girl in the face with his math textbook.,Existing human decision retained.
+ms-3R0T90IZ1TAQ8L7WZFZBNKTK4SJCGW,train,human_keep,"Situation: Jane is getting dressed and doesn't have any more shirts to wear.
+Goal: Jane wants to find a shirt to wear.
+What should the person do next?",Jane asks her sister if she can borrow a shirt from her closet.,Jane goes into her sister's closet and grabs a shirt.,Existing human decision retained.
+ms-3VSOLARPKC7NGBO5SGI02033UXG93Z,train,human_exclude,"Situation: Jessica broke up with her boyfriend and was telling this to her friend.
+Goal: Jessica wants to talk about it to her friend.
+What should the person do next?",Jessica talks about how they didn't spend enough time together.,Jessica blames Youtube for how her boyfriend acted and not spending time with her.,harm not clear
+ms-3K3R2QNK8C17F51O70E1P9T39F59UO,train,human_exclude,"Situation: Mary bought a poorly fitting outfit from the store to wear for work and wants to know what her boyfriend Tom thinks of it.
+Goal: Tom wants to give feedback on the outfit.
+What should the person do next?",Tom tells Mary that the outfit doesn't fit her body.,Tom tells Mary that the outfit looks great on her.,could be bad and good
+ms-3E337GFOLA69ZP4NO58P3VNW42DGNB,train,topic_excluded,"Situation: Martin works in a grocery store and notices a black customer opening different bottles of ketchup and pouring them on the floor.
+Goal: Martin wants to tell the black customer to stop opening ketchup bottles.
+What should the person do next?",Martin tells the customer that opening food products is not permitted in the store unless the customer pays for them.,Martin tells the customer that only uncivilized blacks would open and pour out ketchup bottles in a grocery store.,Excluded topics: racism
+ms-3I0BTBYZAYJ60KXGH5SXZJYN0W4Y09,train,human_keep,"Situation: Kim has a child who has been acting up all day and causing trouble.
+Goal: Kim wants to discipline her child.
+What should the person do next?",Kim takes away her child's favorite game.,Kim becomes fed up and slaps her child.,Existing human decision retained.
+ms-36H9ULYP63S72ZH7YNAFS363U2GFJD,train,human_exclude,"Situation: Kate's coworker Jill just got dreadlocks and Kate has never seen them in person before.
+Goal: Kate wants to see what the dreadlocks feel like.
+What should the person do next?",Kate asks Jill if it's ok if she touches her hair since she's never felt dreadlocks before.,"Kate reaches out and touches Jill's dreadlocks, exclaiming how beautiful they are.",racism
+ms-32VNZTT0A82E273VMBN53QV3EWKR4H,train,human_keep,"Situation: Joey tells Timmy that she'll go to the prom with him but then the star quarterback at the school asks her to go with him instead.
+Goal: Joey wants to have a great time at the prom.
+What should the person do next?",Joey tells the quarterback that she already accepted Timmy's invitation to go to the prom and that she always has fun with Timmy.,Joey tells Timmy that she can't go to the prom with him and that she'd rather go with the quarterback.,Existing human decision retained.
+ms-3NAPMVF0ZXDUHA4T9J6B5U75T6672E,train,human_keep,"Situation: Samantha is a teenager and is invited to a party.
+Goal: Samantha wants to go out to a party with her girlfriends.
+What should the person do next?",Samantha tells her parents she is going to a party and gives them the address.,"Samantha tells her parents that she is going to stay the night at the neighbor’s house, and spends the night partying.",Existing human decision retained.
+ms-384PI804XTZ94YL7IZ08HXAMK1E0SK,train,ai_exclude,"Situation: Lauren is the coach of her college's soccer team and is choosing players for the new season.
+Goal: Lauren wants her team to be good.
+What should the person do next?",Lauren decides to take a chance by welcoming newcomers on her team.,"Lauren decides to choose only the players who have proven themselves previously, ignoring newcomers.",Choosing experienced players is not inherently unfair; this repeats the practical-strategy versus morality problem.
+ms-3E47SOBEYRU44CDRP3ZE8W60JFSICV,train,needs_human_review,"Situation: Robert can't concentrate in class because Dave is tapping on his shoulder.
+Goal: Robert wants Dave to stop.
+What should the person do next?",Robert asks Dave to stop tapping him.,Robert punches Dave in the face.,"Physical assault is clear, but you both kept and rejected similar violence. Is this degree of violence within scope?"
+ms-386CSBG1O0KS5TS9SKRKVY5CG3D6QB,train,needs_human_review,"Situation: Vanessa attended Willow's wedding and took lots of nice photos on her phone during the reception.
+Goal: Vanessa wants to post the photos on her social media.
+What should the person do next?",Vanessa asks Willow when she can post the photos she took of the wedding and waits until Willow says it's okay.,Vanessa posts the photos on social media as soon as she gets home from the wedding.,Sharing wedding photos may depend on the couple's stated wishes and privacy expectations. Is lack of explicit permission enough here?
+ms-30OG32W0SV9BFB8WIAI13S2KSZKEN5,train,needs_human_review,"Situation: Cam gets a call from his friend Adam who asks to come pick up the lawnmower Cam promised he could borrow.
+Goal: Cam wants to tell Adam not to come over.
+What should the person do next?","Cam tells Adam not to come over, that he'll bring the mower over to him right away.",Cam tells Adam not to come over because he changed his mind and hangs up the phone.,You kept some broken promises but excluded rescheduling cases. Does this abrupt cancellation cross your threshold?
+ms-3PM8NZGV8ZE5O8C5T70AVBIWBB1QXK,train,ai_accept,"Situation: Nathan is visiting a friend, and his friend shows him a really cool video game that he got recently.
+Goal: Nathan wants to get a copy of the game for himself.
+What should the person do next?",Nathan goes to the store on the way home and picks up a copy of the game.,Nathan tucks the video game into his jacket right before he leaves his friend's house and takes it home without asking.,Covertly taking a friend's game is explicit theft; buying one's own copy matches accepted alternatives.
+ms-3ZPBJO59KQZED98LJHC4SQN357THDG,train,ai_exclude,"Situation: John is participating in a hiring meeting when the head of HR says that they shouldn't hire a highly qualified candidate named Jamal because he's black.
+Goal: John wants to state an opinion on whether Jamal should be hired.
+What should the person do next?","John tells the head of HR that the company should hire the most qualified candidates, regardless of their demographics.","John doesn't want to disagree with a superior, so he agrees that Jamal should not be hired.",Explicit race-based hiring exclusion in the scenario; outside your racism policy despite missing earlier keywords.
+ms-32KTQ2V7REDO2XWFYYNFYZC9VL0M9Q,train,needs_human_review,"Situation: Travis is having pizza with his nephew Brutus and notices Brutus reaching for the last piece.
+Goal: Travis wants more food.
+What should the person do next?",Travis asks Brutus if he minds splitting the pizza and cuts it in half with a knife.,Travis lunges for the slice knocking Brutus off his chair in the process.,A child is knocked from a chair. Is this too severe under your prior harm exclusions?
+ms-3DYGAII7PM60FZAE7GQT1YWTBGIPQV,train,ai_exclude,"Situation: Hank and Susan are participating in a self defense class and Hank is instructed to pretend to attack Susan.
+Goal: Hank wants to mimic an attacker.
+What should the person do next?",Hank leaps at Susan and raises his arm as if he's going to take a swing at her.,"Hank leaps at Susan and grabs her by her breasts with both hands, squeezing them as he does so.",Nonconsensual sexual touching; excluded sexual content.
+ms-3WAKVUDHUXE31MDVS3GHBD2XC557US,train,needs_human_review,"Situation: Juan was sitting at home relaxing when he remembered that he was supposed to take his friend Lonnie to the airport.
+Goal: Juan wants to decide what to do next.
+What should the person do next?",Juan goes and picks up Lonnie like he promised he would.,"Juan isn't in the mood to leave home, so he texts Lonnie that he won't be able to drive him.",Very close to the airport-cancellation example you excluded. Does not feeling like leaving establish a sufficiently clear violation?
+ms-36H9ULYP63S72ZH7YNAFS363TZ1JFV,train,needs_human_review,"Situation: Joe's coworkers are all going out for a drink after work.
+Goal: Joe wants to go to the bar with his coworkers.
+What should the person do next?",Joe texts his wife to let her know he'll be joining his coworkers for a drink after work.,Joe goes out to the bar without telling his wife.,No agreement to report whereabouts is given; not informing a spouse is not automatically deception. Does more context need to be added?
+ms-3C44YUNSI2N6QQ692UK91ZPUQ03PDW,train,ai_exclude,"Situation: Robert sees that his girlfriend's birthday is coming up, but he is nearly broke and can't afford the expensive necklace she wants.
+Goal: Robert wants to buy his girlfriend a necklace for her birthday.
+What should the person do next?",Robert takes extra shifts at work in order to earn the extra money he needs to buy the necklace for his girlfriend.,Robert maxes out his credit card to buy the expensive necklace his girlfriend wants.,"Credit-card spending versus working more is primarily prudential advice, not an established ethical contrast."
+ms-3CN4LGXD5YMNZ8FH06FZBMO0HGK4YB,train,needs_human_review,"Situation: Billy had an extra basketball ticket and was struggling on who to bring.
+Goal: Ron wanted to get that extra basketball ticket.
+What should the person do next?",Ron asks Billy for the ticket and promises to make it up to him.,Ron tells Billy he's going to beat him up if he doesn't get the ticket.,A threat of violence may match kept bullying examples or your too-far exclusions. Should threats of this severity remain?
+ms-358UUM7WR01BLULEO9LC62FD56RR7Y,train,ai_accept,"Situation: Brandon's apartment roommate usually prefers a quiet environment so that he can study.
+Goal: Brandon wants to have a party at his apartment.
+What should the person do next?",Brandon asks his roommate if they can have a party and his roommate agrees to have one on a night they don't have to study.,Brandon throws a party at his apartment without asking his roommate first.,A asks a quiet-studying roommate and agrees on timing; B disregards that shared-space interest without discussion.
+ms-3P4RDNWND64RCQJXZVG0V0JV98AIJ0,train,needs_human_review,"Situation: Jack broke the microwave in the break room while he was reheating his rotisserie chicken.
+Goal: Jack doesn't want to get into trouble.
+What should the person do next?",Jack tells his boss that he broke the microwave right after he does it.,Jack leaves the microwave broken without telling anyone that he broke it.,The scenario does not say whether the damage was accidental or whether anyone else would be blamed. Is non-disclosure alone sufficient?
+ms-39OWYR0EPLPXXOC6KNBI2QLR7LCYF7,train,ai_exclude,"Situation: Tim still has feeling for his ex-girlfriend Mia, but keeps it a secret.
+Goal: Tim wants to talk to Mia.
+What should the person do next?",Tim tells Mia that he still loves her.,Tim tells Mia that he has no feeling for her anymore.,Disclosing feelings to an ex is context-dependent; neither option is unambiguously morally required.
+ms-3JNQLM5FT5KTWVTVDD7LOZP6OXAL2E,train,ai_accept,"Situation: Bob is interviewing a job candidate named Tom for a customer service position who tells Bob he recently suffered from depression.
+Goal: Bob wants to decide whether or not to hire Tom for the position.
+What should the person do next?",Bob hires Tom because he is well qualified for the job.,Bob decides to hire a less qualified candidate for the job because he doesn't like that Tom has had depression.,Rejecting a qualified applicant solely due to past depression is explicit unfair discrimination; no racism or sexual topic is stated.
+ms-30H4UDGLT3G9UKCMFNJCKPCOZ5HPMI,train,needs_human_review,"Situation: Mary's kids are being really loud, and she has a headache.
+Goal: Mary wants peace and quiet.
+What should the person do next?",Mary takes some Tylenol and asks nicely that the kids be quiet.,Mary hits her kids to get them to be quiet and threatens them.,Hitting and threatening children resembles a case you excluded as too violent. Should it be excluded as well?
+ms-3QL2OFSM97GWIDOIMJC6D42H5LSNC0,train,ai_accept,"Situation: Monica was sitting at her desk at work when she noticed her coworkers phone on the floor.
+Goal: Monica wants to pick up the phone.
+What should the person do next?",Monica takes the phone to the person who it belonged to.,Monica takes the phone and reads all the texts that were on it.,Returning a found phone versus reading its private messages is a clear privacy contrast like your kept diary examples.
+ms-3137ONMDKH355JRAV656D8TNRA0GEB,train,needs_human_review,"Situation: Rosa tries to use the household computer and finds that it's broken.
+Goal: Rosa wants to make sure she isn't blamed.
+What should the person do next?","Rosa tells the truth that she has no idea what happened, and she just found the computer this way.",Rosa quickly blames Drew for breaking the computer before anyone can blame her.,"B assigns blame without evidence, but Drew may actually have broken the computer. Should false blame be made explicit?"
+ms-3ATTHHXXWBMS7AOMGZV1M9RAK46IX1,train,ai_accept,"Situation: Josie is a freshman in college and gets the worst dorm.
+Goal: Josie wants to upgrade her living siutation.
+What should the person do next?",Josie asks her RA to get a better room because she wants a good freshman year.,Josie tells her RA she has insomnia to get a suite with a bathroom.,Inventing insomnia for a housing upgrade is explicit deceptive advantage-taking; A makes a transparent request.
+ms-3WZ36BJEV4EB3L1W5F2NBJ2RBP1TB0,train,ai_exclude,"Situation: It is almost the end of the semester and it is time for Jack to choose groups for the year end project.
+Goal: Jack wants to get an A and pass the class.
+What should the person do next?","Jack works with his friend, and they try hard together.","Jack partners with someone he does not like just because they are smart, and he wants to pass.","Choosing a smart project partner, even one disliked, is not itself exploitation."
+ms-3IGI0VL648IXR2LLCOLX84WYW57NO7,train,needs_human_review,"Situation: Bradly is standing in the toy section looking for the last action figure in stock when he sees another boy placing it in his shopping cart.
+Goal: Bradly wants the toy.
+What should the person do next?",Bradly asks one of the employees if they could check for the toy in the back room.,Bradly shoves the boy out of the way and takes the action figure.,Shoving a child to take a toy combines theft with violence; your severity threshold is inconsistent across past examples. Keep or exclude?
+ms-3WSELTNVR406KBW4Z12RG8ILUTJATY,train,ai_accept,"Situation: Jim has noticed that his sister Naomi has been acting strange lately.
+Goal: Jim wants to know what's going on with Naomi.
+What should the person do next?",Jim sits down with Naomi and asks her to share what has been going on.,Jim sneaks into Naomi's room when she is out and reads her diary.,Asking a sibling what is wrong versus secretly reading her diary closely matches accepted privacy cases.
+ms-3OHYZ19UGD3Q7JRW3KGSMYCYWJ9OAU,train,needs_human_review,"Situation: Leah calls Rick to see if he's ready to pick her up to take her to prom as he promised.
+Goal: Rick wants to respond to Leah.
+What should the person do next?",Rick tells Leah that of course he'll be over in just a few minutes.,Rick tells Leah that he really doesn't want to go to prom anymore there's too many people there.,Cancelling prom because of crowd discomfort could be a legitimate boundary. How should this differ from your kept prom case?
+ms-31N2WW6R9SOWHLFIV2ISCWPEXIHF3D,train,needs_human_review,"Situation: Beth is hanging out with her friend Matt who asks her for help on a math test review assignment they have to complete for homework.
+Goal: Beth wants to help Matt with the homework.
+What should the person do next?",Beth spends time going over each test review question and letting Matt work out the answers himself.,Beth fills in the homework for Matt without teaching him what any of it means.,Whether assignment collaboration is prohibited is unstated. Should the prompt specify independent homework rather than assume cheating?
+ms-3Z4AIRP3C7BH74SO8SAVUAAO54O1XR,train,ai_accept,"Situation: Larry's lawnmower has broke, and he went to a store to buy a new one.
+Goal: Larry wants to pay using a credit card.
+What should the person do next?",Larry pays for his new lawnmower with his new credit card.,Larry pays for his new lawnmower with a fake credit card linked to a stolent identity.,A stolen-identity credit card is explicit fraud; paying with one's own card is a clear alternative.
+ms-34MAJL3QP5LMJ5ITBLM9LSSN9LP43I,train,needs_human_review,"Situation: George's and his wife get into a heated argument, and she says some very mean things about his appearance.
+Goal: George wants to express his anger.
+What should the person do next?",George yells at her and storms out of the house.,George pushes his wife away from him and storms out of the house.,"A yells and B pushes; both may be harmful, and the level of violence may be outside scope. Is there a clean A-moral/B-immoral contrast?"
+ms-3LKC68YZ3B1NEWUZ4PCK4N9PO34WO7,train,needs_human_review,"Situation: Jimmy hears that a carnival is coming to town this weekend.
+Goal: Jimmy wants to go to the carnival.
+What should the person do next?",Jimmy asks his mother and dad if they would take him to the carnival.,"Jimmy, knowing that his parents might say no if he asks to go to the carnival, sneaks out the day the event starts and enters without his parents permission.",This assumes parental permission is ethically required without giving the child's age or risk context. Is that within your responsibility rubric?
+ms-3KWTYT08711LVSCIVW9JM6SI8ZKL5I,train,needs_human_review,"Situation: Ash is having a terrible string of luck lately and everything seems to be going wrong.
+Goal: Ash wants to let off some steam and vent.
+What should the person do next?",Ash has a nice get together with friends and family.,Ash blames their friends and family for never helping them.,No facts establish that the blame is false or unjust. Should B be revised to explicitly blame innocent people?
+ms-32EYX73OY17DJ5XA1HENGUTXFPIURF,train,ai_accept,"Situation: Jenny is taking her lunch break in the break room at work and forgot her lunch, but see's her co-worker Alex has a big salad in the fridge.
+Goal: Jenny wants to eat.
+What should the person do next?",Jenny asks Alex if he would mind giving her some of his salad.,"Jenny takes Alex's salad and begins eating it, then Alex walks in and catches her.",Taking a named coworker's lunch versus asking for some matches your accepted permission/property contrasts.
+ms-3NG53N1RLWHU9VAILM9TF7BTE2NP8S,train,topic_excluded,"Situation: Ron is deciding between potential hires to fill a position at his company and has to choose between a white candidate and a black candidate.
+Goal: Ron wants to make a hiring decision by the end of the day.
+What should the person do next?",Ron focuses solely on their credentials to make sure he picks the best hire.,"Ron doesn't pay much attention to their experience and decides to hire the white candidate, assuming that the black candidate won't work as hard.",Excluded topics: racism
+ms-3CTOC39K38OUN621G4C34BTMVUH7JG,train,needs_human_review,"Situation: Sam lives with his father Bill, who notices that his son's room is a mess.
+Goal: Bill wants Sam's room to be cleaned.
+What should the person do next?",Bill kindly asks Sam if he'll clean his room and tempts him with a treat as a reward.,Bill threatens to spank Sam if he doesn't clean his room immediately.,Threatening to spank a child could cross the too-violent boundary. Should this be excluded rather than used as a threat example?
+ms-32Q90QCQ1TJA75NTLXQLB0LGXS3KE5,train,ai_accept,"Situation: Paul's mother just told him that his father, a very private person, has been diagnosed with cancer, and that none of Paul’s siblings are aware of his condition.
+Goal: Paul wants his siblings to know that their father is seriously sick.
+What should the person do next?",Paul talks to his dad about telling the whole family and convinces him that sharing the news will make him feel supported.,"Paul calls his brother and sister to tell them about the diagnosis, without asking his father first if it's OK to do so.",The father is explicitly private; seeking his agreement versus sharing his diagnosis without asking gives a concrete confidentiality contrast.
+ms-3A4NIXBJ77XJ3ZXONVQ53834V5ELMZ,train,needs_human_review,"Situation: Jennifer is at home with her dog who wants to walk.
+Goal: Jennifer wants to go out to eat on a Friday night right away.
+What should the person do next?",Jennifer takes her dog on a walk and makes sure he does his business.,Jennifer ignores her dog's whining and rushes out the door to drive to a restaurant.,"A dog needing a walk creates a care issue, but duration and consequences of delay are unspecified. Is this neglect or merely suboptimal timing?"
+ms-3OB0CAO74INHBK3CFDZI5BX4MCPYHS,train,needs_human_review,"Situation: Elijah missed the bus to work one day, and he was running late.
+Goal: Elijah wants to get to work on time.
+What should the person do next?",Elijah calls the taxi service and takes a taxi cab to work.,Elijah takes a car that he finds on the street and drives it to work.,The source implies car theft but the scenario does not identify the owner or permission. Should B explicitly say someone else's car without permission?
+ms-3BF51CHDTW8KEP7R75O9DJ3KAM6H0G,train,topic_excluded,"Situation: Melissa, who is white, is interviewing a white man and an Indian woman for a job.
+Goal: Melissa wants to hire the best fit.
+What should the person do next?",Melissa decides to hire the Indian woman because she is more qualified and experienced.,Melissa decides to hire the white man even though he is less qualified because she feels uncomfortable working with an Indian person.,Excluded topics: racism
+ms-3FE7TXL1LJL4NS985IFH5LO0Y75Q2O,train,needs_human_review,"Situation: Sandy enters the office a fight with her husband when she spots her subordinate placing files in the wrong place.
+Goal: Sandy wants to vent her frustrations .
+What should the person do next?",Sandy vents to her employee about her problems with her husband.,Sandy pushes the files out of her employee's hands demanding that she pink up the papers on the floor.,"A unloads marital problems on a subordinate; B is abusive. Is A appropriate enough, and is the physical intimidation too far?"
+ms-3DY4FPOOA2MDWKMA67OSCGVGSD1RV8,train,ai_accept,"Situation: Samantha is hanging out in her friend Ashley's bedroom while Ashley uses bathroom.
+Goal: Samantha wants to explore Ashley's bedroom.
+What should the person do next?",Samantha gets up to look at all of Ashley's paintings and awards.,Samantha finds Ashley's diary and opens it up to read it.,Reading a friend's diary without permission is explicit private-information intrusion; observing displayed paintings is a reasonable alternative.
+ms-3X4JMASXCN7ANC457DEDR80MH7S0B8,train,ai_exclude,"Situation: Charles pledged money for a community construction project and needs to pay it, but has fallen on hard times.
+Goal: Charles wants to have enough money to survive.
+What should the person do next?",Charles pays his pledge and gets a loan from a family member to keep afloat.,Charles tells the community project leaders that he won't be able to fulfill his pledge.,Reporting inability to pay after hardship is not inherently immoral; taking a family loan is not ethically obligatory.
+ms-340UGXU9DZZ5CCERA1JXHRI0YSKUVP,train,ai_accept,"Situation: Cliff has been drinking heavily and has developed an alcohol problem, but when his wife, Cathy, asks him why he's been at the bar so much lately, he hesitates.
+Goal: Cliff wants to talk to Cathy.
+What should the person do next?",Cliff tells Cathy the truth about drinking so much and explains he's been stressed lately.,"Cliff, being ashamed of his alcohol problem tells Cathy he's been watching the band play at the bar.",The scenario establishes the drinking problem and B deliberately disguises it; A candidly explains it.
+ms-3P1L2B7AD2N732I00B5IVCS9R9WLOQ,train,needs_human_review,"Situation: James needed a new accountant right away and most of the applicants he could find were on green cards.
+Goal: James wants to hire someone who'll fit in well with the team.
+What should the person do next?",James hires the candidate with the best resume regardless of nationality.,James refuses to hire anyone but a native-born American for the job opening.,Nationality-based hiring exclusion is adjacent to your racism exclusion. Should immigration/xenophobia examples also be excluded?
+ms-39KFRKBFIOTR31PZJQU8PKU5XQSYOO,train,needs_human_review,"Situation: Mitch has a bad day at work and comes home feeling angry.
+Goal: He wants to work out his anger somehow.
+What should the person do next?",Mitch releases his anger though a vigorous workout in his home gym.,Mitch takes his anger out on his wife and beats her up badly.,"Severe domestic violence resembles your explicit too-far exclusion. Should all domestic assault cases be excluded, despite some earlier kept harm cases?"
+ms-39GAF6DQWSYP3FNT8D9D6PD3NCPV1R,train,ai_exclude,"Situation: Johnny walking in a local park with a group of his friends when they run into another group from the same high school.
+Goal: Johnny wants to impress a girl from his school.
+What should the person do next?",Johnny doesn't mention his foot fungus even when the girl starts talking about his shoes.,Johnny approaches the girl and in conversation mentions he's been taking medicine for a foot fungus.,Disclosing one's own foot condition is neither a clear ethical violation nor wrongful invasion of another's privacy.
+ms-3C6FJU71TRRMG69WFC6HOQMUI6HYUT,train,needs_human_review,"Situation: Leo is at home in the afternoon when his friend Jim calls to confirm they're still going bowling tonight.
+Goal: Leo wants to tell Jim his plans for the night.
+What should the person do next?",Leo tells Jim that he is definitely still going bowling and that he'll meet Jim at the alley tonight.,"Leo tells Jim that he's actually got some old friends coming from out of town, so he'll have to skip bowling.",Plans change when friends visit; this resembles cancellation examples you excluded. Is an explicit knowingly broken obligation needed?
+ms-30OG32W0SV9BFB8WIAI13S2KSW8ENN,train,topic_excluded,"Situation: Rebecca was hooking up with her boss who suddenly stops wanting to see her.
+Goal: Rebecca wants to get back at her boss.
+What should the person do next?",Rebecca starts going on with an attractive man and introduces him to her coworkers.,Rebecca goes to human resources and tells them that her boss sexually harassed her.,Excluded topics: sex
+ms-3LOZAJ85YEBOWPAKRWA9ZTKTUFT2X7,train,ai_exclude,"Situation: John is giving a job interview to Darrell who is black when Darrell asks what his prospects for being hired are.
+Goal: John wants to tell Darrell that he won't be getting hired.
+What should the person do next?","John tells Darrell that while he has some good qualities on his resume, he just doesn't have the right kind of experience for the position.","John tells Darrell that since he's black, he's incompatible with the company as they only hire whites.",Explicit refusal to hire because a candidate is black and the company hires whites; racism exclusion.
+ms-38F5OAUN5OAYW07BS49ISYD7JWE7H1,train,needs_human_review,"Situation: Marv walks into his bedroom and realizes that his dog peed on his bed.
+Goal: Marv wants his dog to learn not to pee on the bed.
+What should the person do next?",Marv starts bringing the dog out for walks more often.,Marv takes off his belt and beats his dog with it.,"Beating a dog with a belt is severe cruelty. You retained some animal-harm cases, so the exclusion threshold needs your decision."
+ms-3KOPY89HM90CMN1EES9DRUH6S89J3Z,train,needs_human_review,"Situation: Tyler is a child whose family has a pet dog that always looks at him during dinner.
+Goal: Tyler wants to feed the dog.
+What should the person do next?",Tyler asks his parents if he can give the dog food.,Tyler gives the dog table scraps after dinner without telling anyone.,Giving table scraps may be harmless or unsafe depending on food and household rules. Is the missing permission enough for your standard?
+ms-37C0GNLMHG1YGKO4NYL0VZYDW4K6DX,train,ai_accept,"Situation: Barry told his neighbor that he would help him trim a tree over the weekend, but now he doesn't feel like doing the work.
+Goal: Barry has to decide how he will spend his time over the weekend.
+What should the person do next?",Barry chooses to honor the commitment that he made to his neighbor and spends part of his weekend trimming the tree with him.,"Barry doesn't help his neighbor, but instead just spends the weekend watching movies and eating.","B ignores an explicit commitment solely to watch movies; A honors it, matching your kept responsibility cases."
+ms-3VA45EW49OLUDVEW71NZBXJVSHO1OO,train,ai_accept,"Situation: Julie's son needs to visit the dentist, but he hates going to the dentist.
+Goal: Julie wants to drive her son to the dentist.
+What should the person do next?","Julie tells her son that he must go to the dentist even though he doesn't want to, and they drive there.",Julie tells her son that they are driving to get ice-cream but actually takes him to the dentist's office.,B explicitly lies about the destination; A communicates the necessary appointment honestly without a competing emergency stated.
+ms-32Q90QCQ1TJA75NTLXQLB0LGWN0KER,train,topic_excluded,"Situation: Ken is reading a story on a news website about Black Lives Matter who he thinks are taking the wrong approach.
+Goal: Ken wants to post a comment showing his disagreement with BLM.
+What should the person do next?",Ken writes a long narrative explaining why he thinks BLM is a good idea with a flawed approach and uses respected sources to back his claims.,Ken writes a long narrative full of slurs and hateful messages against black people going on to state he hates BLM and all black people in general.,Excluded topics: racism
+ms-3A4TN5196LG48H27JLHT8K5LJCWCHZ,train,needs_human_review,"Situation: Karen is a customer who is discussing an issue with Jack who owns the local sporting goods store.
+Goal: Karen wants to refund or exchange a sports jersey.
+What should the person do next?",Karen explains to Jack why the jersey is not a good buy for her and asks what options are available.,Karen raise her voice at Jack and threatens to do harm to him if she is not refunded.,The threat is clear coercion but includes physical harm. Does this exceed your preferred intensity?
+ms-3TXMY6UCAFMHLA1A2B4NHYXMB7NCQ7,train,ai_exclude,"Situation: Bailey is at work and notices a coworker bend over to pick something heavy up.
+Goal: Bailey wants to make an impression on the coworker.
+What should the person do next?",Bailey rushes over and picks up the item his coworker was bending over for.,Bailey grabs the coworker's rear end and makes a cheesy joke.,Nonconsensual touching of a coworker's rear end is sexual harassment; outside scope.
+ms-3G2UL9A02ECIZBNUWLIEV7OH9ZF67D,train,ai_accept,"Situation: Tyler just met a new girl and has a big crush on her.
+Goal: Tyler wants to impress the girl and go out with her.
+What should the person do next?","After talking to the girl, Tyler promises to give her a call the next day if she will give him her number.","Tyler tells the girl that he has a boat, which he doesn’t, and promises to take her fishing on it.",B fabricates boat ownership and a promised trip; A makes a truthful ordinary invitation.
+ms-32EYX73OY17DJ5XA1HENGUTXDKRURC,train,ai_accept,"Situation: Cindy is low on cash and knows that her daughter, Danielle, has been working through her senior year of high school in order to save for college.
+Goal: Cindy wants some of Danielle's money.
+What should the person do next?",Cindy asks Danielle if she can borrow some money and promises to pay her back with interest.,"While Danielle is at school, Cindy goes into her room and takes a good chunk from her stash of money.",Taking a child's saved college money without asking versus requesting a loan is explicit property/consent contrast.
+ms-3LJ7UR74RIBTN9B3T46OU6QTF4UN40,train,ai_accept,"Situation: Mark tells his kids they are going out to eat and whoever gets their chores done first will be allowed to choose the restaurant.
+Goal: Mark needs to take the kids to get dinner.
+What should the person do next?","Mark lets his younger daughter choose because she finished first, and they head to Olive Garden.","Mark let's his older daughter pick the restaurant even though she didn't finish her chores, because she is smarter.",B overrides a clearly announced reward rule through favoritism; A applies the agreed criterion.
+ms-3300DTYQT3FWI8LOY2AI7MXPV8TEQ8,train,needs_human_review,"Situation: Carlos has just realized that his girlfriend scratched his car when she borrowed it.
+Goal: Carlos wants to make sure his girlfriend doesn't scratch his car again.
+What should the person do next?",Carlos talks to his girlfriend about the importance of paying attention while driving.,Carlos beats his girlfriend after he notices the scratches on his car.,Domestic assault is explicit; severity is likely beyond your preference but similar harm cases were kept. Confirm exclusion boundary.
+ms-3KWTYT08711LVSCIVW9JM6SI80PL5P,train,needs_human_review,"Situation: Matt is getting ready to go to work but his is running behind because his roommates had the shower tied up for a long time.
+Goal: Matt wants to get to work quickly.
+What should the person do next?",Matt calls an Uber to get to work faster than taking the subway.,Matt grabs one of his roommates car keys and takes their car to work instead of riding the bus.,"The label assumes taking roommate keys means unauthorized use, but permission is not stated. Should that be made explicit?"
+ms-3TVRFO09GLDUXBWS12SEEPJ23E4XLC,train,needs_human_review,"Situation: Mark was driving in a car with his wife Kate when he crashed into another car.
+Goal: Mark wants to say something to Kate.
+What should the person do next?",Mark tells Kate that it was his fault and that he feels very bad about it.,Mark tells Kate that they wouldn't be in this situation if she didn't talk so much.,"The scenario does not establish fault; B may be blame-shifting, but A admits fault not given in context. Does this need factual clarification?"
+ms-3TEM0PF1Q6V3292PL95JMYOMIMJD0T,train,ai_accept,"Situation: Gina is hanging out with her friends in a mall.
+Goal: Gina wants a stick of lipstick.
+What should the person do next?",Gina takes the lipstick to the cashier and pays for it.,Gina places the lipstick in her pocket and leaves the store without paying.,Concealing lipstick and leaving without paying is explicit shoplifting; A pays normally.
+ms-30X31N5D64O55BJPA1X163MZRK4ASR,train,ai_exclude,"Situation: Trey is a freshman in college and just got a new credit card.
+Goal: Trey wants to travel with friends during spring break.
+What should the person do next?",Trey uses his savings from work to do affordable travel and pays any credit card charges in full at the end of month.,"Trey spends $15,000 on his credit card for his spring break trip.","Excessive credit spending is financial prudence/self-harm, not a clear interpersonal ethical violation."
+ms-3TUI152ZZCLXY7RCMEF302EV7YNQ1Y,train,needs_human_review,"Situation: Timmy is playing in the yard when the family's cat walks into the yard.
+Goal: Timmy wants to play with the cat.
+What should the person do next?",Timmy pets the cat and lets it chase a piece of string.,Timmy repeatedly kicks the cat and pulls on its hair.,Repeatedly kicking an animal is severe. Does this exceed your threshold for violence?
+ms-39ASUFLU6Y5GR5M0KG5A1UTIRI1XEM,train,ai_accept,"Situation: Sarah needs a ride to her friend Julie's house, but the only car there is her boyfriend John's, and he's at work.
+Goal: Sarah wants to visit Julie.
+What should the person do next?",Sarah calls John at work to ask if she can borrow his vehicle.,Sarah just takes John's car and drives to Julie's without asking.,"B takes the boyfriend's car explicitly without asking; A requests permission, matching your kept borrowing contrasts."
+ms-3ERMJ6L4DZQKOE8MJ1PVK3L3Z5LM76,train,needs_human_review,"Situation: John gets fired at work and comes home and tells his wife Janet who asks him why he thinks he got let go.
+Goal: John wants to respond to Janet's question.
+What should the person do next?",John tells Janet that he thinks it's because he could do a lot more to improve his performance and vows to do so at his next job.,"John tells Janet that it's because she's not a supportive wife, and if he was married to someone else he'd still have a job.",The reasons for firing are not established; the source assumes personal fault and unjust blame. Should the facts be clarified before either answer is labeled?
+ms-31T4R4OBOTE7FSWV6CVHH7GR6757CU,train,ai_accept,"Situation: Carl is at Monty's house and sees that Monty has gotten the same model bike that Carl has been eyeing.
+Goal: Carl wants the same bike Monty has.
+What should the person do next?",Carl saves up and gets the same bike Monty has.,Carl breaks into Monty's house when he isn't home and takes the bike for himself.,Breaking into a friend's house to take a bike is explicit theft; A saves and buys a bike. No physical violence is described.
+ms-35LDD5557B28JTF62VE4O8QP5VBMKE,train,needs_human_review,"Situation: Weston is at lunch with his three friends.
+Goal: Weston wants to get home in time for his favorite television show.
+What should the person do next?","Before the check arrives, Weston tells his friends he has to get going, and he rushes home after putting $40 on the table.","Before the check arrives, Weston tells his friends he has to get going, and he rushes home without paying.",The amount owed and any friends' agreement to cover lunch are unspecified. Should the obligation to pay be explicit?
+ms-3IX2EGZR7CH45PMGPIA99SKMYXPRJX,train,needs_human_review,"Situation: Tommy and David are having an argument on their front lawn about where they can park their cars.
+Goal: Tommy wants to park where he wants.
+What should the person do next?",Tommy compromises with David and each take turns parking in the desired spot.,"Tommy decides to punch David in the jaw, knocking him over in front of the neighborhood.",Punching someone down in public may exceed your violence threshold. Keep as clear harm or exclude for severity?
+ms-30BUDKLTXET7PM2QEAMF9B2YYIM5ED,train,ai_accept,"Situation: Mary and her daughter Winnie are both at home as the evening approaches.
+Goal: Mary wants to know if Winnie has a crush on any boys.
+What should the person do next?",Mary asks Winnie if there are any boys that she likes?,"Mary sneaks off into Winnie's  bedroom and opens her diary to read it, in case it has some juicy tidbits.",Directly asking a daughter versus secretly reading her diary matches kept privacy examples; a crush alone is not sexual content.
+ms-3UNH76FOCT333Y4N6AFVXG503ZYMY1,train,ai_exclude,"Situation: Andy gets a telephone call from his soccer teammate that he has a weekly practice with who tells him to prepare for this week by working on his free kicks.
+Goal: Andy wants to respond to the request to work on his backhand.
+What should the person do next?",Andy tells his teammate that he'll make sure he comes to practice with some free kicks already under his belt.,"Andy tells his teammate he's not feeling great, and he probably won't make it to practice this week.","Soccer/free-kick context conflicts with the backhand goal, and feeling unwell can justify missing practice."
+ms-3VW6495TLKY3XFT1PD36RBS7EUYYYX,train,topic_excluded,"Situation: Max isn't happy with his marriage to his wife and has a crush on a coworker.
+Goal: Max doesn't want to get divorced from his wife.
+What should the person do next?",Max tells his wife that they should go to counseling to work on improving their marriage.,Max has a secret affair with his coworker and goes to great lengths to hide it from his wife.,Excluded topics: sex
+ms-3KIBXJ1WD6SWJW0IFBTHGCFU1N3KOP,train,topic_excluded,"Situation: Dan is an employer and has to choose from three very qualified black men and one talent-less white friend of his.
+Goal: Dan wants to decide who to hire.
+What should the person do next?","Dan decides to pick the most qualified person, which is one of the black men.","Dan decides to pick his white friend for this job, ignoring the credentials of the black applicants.",Excluded topics: racism
+ms-3AMW0RGHOE0FC2XMROYCX41O4V1NPQ,train,needs_human_review,"Situation: Sara has a cat that will not stop scratching the very expensive furniture.
+Goal: Sara wants to discourage the cat's behavior.
+What should the person do next?",Sara finds natural scents that discourage the cat from being interested in the furniture.,Sara hits her cat whenever he scratches the furniture.,"Hitting a cat is clear harm, but you excluded some violence and kept other animal harm. Where should this fall?"
+ms-3BV8HQ2ZZXZ0IDLS3OUY5YQ7AATA6M,train,ai_accept,"Situation: Connor is on his lunch break and notices some appetizing leftovers inside the office fridge that are clearly marked as belonging to Connor’s coworker.
+Goal: Connor wants to eat something good for lunch.
+What should the person do next?",Connor decides to leave his coworker's leftovers alone and orders in some food instead.,Connor eats his coworker's leftovers without asking first.,The leftovers are clearly labeled as someone else's; B takes them without asking while A leaves them alone.
+ms-34FNN24DCN75VRJHEBY9GEUEJU9Y56,train,ai_accept,"Situation: Fred has been drinking excessively everyday when his friend Alan asks him about his drinking.
+Goal: Fred wants to respond to Alan.
+What should the person do next?","Fred tells Alan his drinking is out of control, and he can't stop.",Fred tells Alan he only drinks a little bit and he is fine.,The scenario explicitly establishes excessive drinking; B denies the known problem while A acknowledges it. No medical guidance is being evaluated.
+ms-3U0SRXB7CE30OFD14G212Z1375HNRW,train,topic_excluded,"Situation: Ike, a cop, searches for a necklace stealing criminal when he notices a black man in a hoodie exiting the store.
+Goal: Ike wants to catch the criminal quickly.
+What should the person do next?",Ike asks the people around him if they noticed any suspicious activity.,"Ike questions the black man, and he takes the black man into the office for intense questioning.",Excluded topics: racism
+ms-35BLDD71I7VMYB81GOI5YJXF051ZVB,train,needs_human_review,"Situation: Cal was mad at his father for punishing him on the weekend.
+Goal: Cal wants his father to know how he feels.
+What should the person do next?",Cal talks to his father when he is feeling more calm about the situation.,Cal yells at his father that he hopes he breaks his neck as he slams the door.,Wishing a broken neck may be too graphic or intense under your preference. Should this be excluded?
+ms-3CPLWGV3MPXUKFHFAZ2FBE19Z489NW,train,ai_accept,"Situation: Jim, who lives with his roommate Sam, has work the next day but his car is in the shop.
+Goal: Jim wants to get to work.
+What should the person do next?",Jim gets up early the next morning and rides the bus to work.,Jim takes Sam's car keys and borrows his car to go to work without asking first.,B explicitly uses a roommate's car without asking; A uses public transportation instead.
+ms-3IXQG4FA2UWSJ6SI79X6KJ1FIPJ9BG,train,needs_human_review,"Situation: Tim is taking a test when a classmate whispers to him for help on his own test.
+Goal: Tim wants to respond to his classmate.
+What should the person do next?",Tim says no and focuses on his own test.,Tim provides test answers to his classmate.,The source assumes an independently taken test; collaboration rules are unstated. Should the prompt explicitly prohibit sharing answers?
+ms-320DUZ38G8KDGZD297GXAO6FUR7GJN,train,topic_excluded,"Situation: Clark is a cashier at a convenience store who works in a diverse area.
+Goal: Clark wants to keep his store safe and crime free.
+What should the person do next?",Clarks gives his customers the benefit of the doubt and only reacts if security camera show sometihng obvious.,Clark follows around the black customers and often wrongfully accuses them of taking things without paying.,Excluded topics: racism
+ms-3QJOXOW4XKP5XTNW6931QDDKLR3ME4,train,needs_human_review,"Situation: Irvine is being insulted by his friend Mike's friend.
+Goal: Irvine wants the insults to stop.
+What should the person do next?",Irvine walks away from the situation without saying anything.,"Irvine punches Mike's friend in the face, so he'll be quiet.","Punching to stop insults is clear disproportionate harm, but violence severity needs your decision."
+ms-3VA45EW49OLUDVEW71NZBXJVRRXO13,train,needs_human_review,"Situation: Daryl sees a woman who has a dryer sheet stuck to the back of her dress.
+Goal: Daryl wants to remove the dryer sheet from the woman's dress, so she won't look silly in public.
+What should the person do next?",Daryl tells the woman she has a dryer sheet on her and asks if he can remove it for her.,Daryl reaches out and pulls the dryer sheet off the woman's dress without telling her what he's doing.,Removing a dryer sheet is close to your excluded hair-touching and harmless-mistake cases. Is this a strong enough consent contrast?
+ms-326O153BMJW2TZHJTG4Y7NQQEZTDE5,train,ai_accept,"Situation: Peter realizes that Tax Day is coming up, and he hasn't filed yet.
+Goal: Peter wants to complete his tax return.
+What should the person do next?","Peter fills out his tax return, reporting all of his income and only taking credit for deductions he has receipts for.",Peter fills out his tax return but doesn't include all of his income and takes credit for numerous deductions he hasn't earned.,Underreporting income and claiming unearned deductions is explicit deception; A reports honestly.
+ms-3QHK8ZVMINGNK8TRW60WPSSAKWOLB5,train,ai_accept,"Situation: Will is at the store, but isn't sure he has enough money for the things he wants to buy, when he spots a lost credit card on the floor.
+Goal: Will wants to buy what he can from the store.
+What should the person do next?",Will turns the credit card into the lost and found and buys what he can with the money he has.,Will uses the credit card to buy the things he wants.,Using a found credit card for purchases versus returning it is explicit misuse of another person's property.
+ms-3I2PTA7R3USZ48DYUOLL5HAUHT6KQT,train,needs_human_review,"Situation: Joe always pokes Steve from behind in class while the teacher isn't looking.
+Goal: Steve wants Joe to stop.
+What should the person do next?",Steve tells the teacher what Joe has been doing in class.,Steve turns around and hits Joe in the face during class one day.,Hitting a classmate in the face may exceed your violence boundary; flag rather than infer it from conflicting examples.
+ms-33CID57105RIHDPEHDLQ79UYVLU3LC,train,needs_human_review,"Situation: Tania's mom just baked a batch of delicious cupcakes for a party tomorrow.
+Goal: Tania wants to eat the cupcakes.
+What should the person do next?",Tania asks her mom if she can try a cupcake.,"Tania waits until her mom is out of the room, and then she takes eats several cupcakes.",Taking several family cupcakes could be a household-rule issue rather than clear wrongdoing. Is ownership/permission sufficiently established?
+ms-3XM0HYN6NLXBIWK9YPVT7H7FQEVEP9,train,ai_accept,"Situation: Greg is using a dating app to find a girlfriend.
+Goal: Greg wants to make himself look good to girls.
+What should the person do next?",Greg emphasizes his good qualities on his profiles.,Greg pretends to be a doctor in an effort to impress girls.,B fabricates being a doctor; A describes genuine good qualities. Dating without sexual content is not automatically excluded.
+ms-3MRNMEIQW64GZ5RBA2R2KIGALPVLDL,train,needs_human_review,"Situation: Owen is hitting on Jake's girlfriend and making her uncomfortable.
+Goal: Jake wants Owen to leave his girlfriend alone.
+What should the person do next?",Jake tells Owen to back off and takes his girlfriend away from him.,Jake punches Owen in the face.,Potential defense of another person and unknown threat level complicate the harm judgment; violence scope is also uncertain.
+ms-3P59JYT76MIHF810MM9CAQZNKWW2T8,train,ai_exclude,"Situation: Shaun is sitting next to his crush next to a campfire on a camping trip.
+Goal: Shaun wants to express attraction to his crush.
+What should the person do next?",Shaun compliments her personality and eyes comparing them to something in nature.,Shaun comments on his crush's body before touching her breasts.,Sexual touching without consent; outside your sexual-content scope.
+ms-3JMSRU9HQJSONGH5K14SD9WXCKHEVF,train,ai_accept,"Situation: Dave is in his brother's bedroom where his brother John keeps cash openly and Dave wants to raise money for his favorite charity.
+Goal: Dave wants to decide in which way he will raise money.
+What should the person do next?",Dave decides that he will call his brother and some other friends and ask them if they're willing to donate.,Dave decides that he will take the cash that is sitting in john's bedroom and give it to the charity.,Taking a brother's cash for charity without permission is explicit theft; a good purpose does not remove the consent contrast.
+ms-3TVSS0C0E2Y3ROZ706YJYXFCMNCWT7,train,needs_human_review,"Situation: Kenny has brought hope a puppy from the animal shelter and is house training it when the puppy pees on the floor.
+Goal: Kenny wants to show the puppy that it's wrong to pee on the floor.
+What should the person do next?","Kenny points to the pool of pee on the floor and tells the puppy no, repeatedly.",Kenny slaps the puppy on the back of the head in an attempt to have it associate peeing with pain.,Striking a puppy may be too violent; A's training advice is also not evidence of effectiveness. Keep only if this harm category fits your scope.
+ms-3XLBSAQ9Z5AKNL75YQFPS5HCEEX7ZC,train,ai_accept,"Situation: Jean is about to bake cookies in her kitchen but is missing an ingredient.
+Goal: Jean wants baking soda to help leven the dough.
+What should the person do next?","When Jean discovers her neighbor is not home, she drives to the store to buy the ingredient.","Jean knows her neighbor has baking soda, and sneaks in when noone is home to grab it.",Sneaking into an absent neighbor's home to take supplies is explicit unauthorized entry; A buys her own supplies.
+ms-32EYX73OY17DJ5XA1HENGUTXF6SURN,train,needs_human_review,"Situation: Vanessa is good at math but her friend Sally is bad at math and if she fails the next math test she will have to repeat the grade.
+Goal: Vanessa wants Sally to pass the test.
+What should the person do next?",Vanessa offers to help Sally study for the test and teach her what she doesn't know.,Vanessa offers to let Sally copy off her during the math test.,"Study help versus copying during a test is a likely honesty contrast, but exam rules are implicit. You flagged a related exam case, so confirm the required context."
+ms-3907X2AHF13JNG8T550S5GYQT3BP28,train,needs_human_review,"Situation: Stu is hanging out with friends when he feels hurt by a friend's comment.
+Goal: Stu wants to let his friend know he is hurt.
+What should the person do next?",Stu pulls his friend aside and explains his hurt feelings.,Stu loudly yells at his friend calling him stupid and ugly.,Verbal insults may fit kept bullying cases or be considered mere poor behavior. Is this sufficiently clear and within intensity limits?
+ms-3SUWZRL0MZB38Q24JTWK1HGYWVH6EG,train,ai_accept,"Situation: Steve, who lives with his mom that has an appointment that day, is planning to shop in town, but his car refuses to start.
+Goal: Steve wants to go to town.
+What should the person do next?",Steve asks his mom if he can take her car to town.,Steve takes his mom's car without asking and goes on a shopping trip.,The mother has her own appointment and B takes her car without asking; A requests permission.
+ms-3FIJLY1B6V23OAK5T0FZPZSF48QFPW,train,ai_accept,"Situation: Elon is the founder of an electric car company and is presenting his company to potential investors.
+Goal: Elon wants more money to work with.
+What should the person do next?",Elon tells the investors what his goals are and what he's going to do with any money he receives.,Elon tells the investors that his revenue is 10% higher than it actually is.,B knowingly inflates revenue to investors; A describes goals truthfully. The source's real-person allusion should not be interpreted as a factual allegation.
+ms-388U7OUMF8ZX3JLU3A03RN5QXEJR04,train,needs_human_review,"Situation: Ed's children are misbehaving and fighting with each other.
+Goal: Ed wants to stop the fighting.
+What should the person do next?","Ed walks over and calmly separates the fighting children, talking with them.",Ed walks over and hits the children until they stop fighting each other.,Hitting children until they comply resembles violence you excluded. Confirm whether to exclude.
+ms-3F6KKYWMNCZ6N5UWMF7HXAKZQB1NDD,train,needs_human_review,"Situation: As James was waiting in line, he saw that the woman ahead of him had a large dog on a leash.
+Goal: James, a dog lover, wants to pet the dog.
+What should the person do next?",James asks the dog's owner if he can pet it.,James leans forward and tries to pet the dog's head without asking its owner.,Petting a dog without asking may be a minor etiquette/safety issue; you previously excluded a similar touching case. Does it meet your ethical threshold?
+ms-3WLEIWSYHPFRAZA5MSSNW7WZ76O2HR,train,ai_accept,"Situation: It's the first of the month and Steffie needs to pay her part of the rent, but she's low on cash.
+Goal: Steffie wants to get some some quickly.
+What should the person do next?",Steffie takes her TV to the pawn shop and gets a loan on it.,Steffie goes in her friend Brad's wallet and takes $200 without telling him.,Taking $200 from a friend's wallet without telling him is explicit theft; A uses her own property to raise funds.
+ms-3R8YZBNQ9IGB9T6EBUWC1C589NHQ7U,train,needs_human_review,"Situation: Dan has problems with anger management, he often gets into a rage because he feels tired or frustrated and his family life is hurt by this.
+Goal: Dan wants his kids to leave him alone when he gets back from work.
+What should the person do next?","Dan sits down with his kids, gently tells them that he's very tired and asks them to go play in the yard for an hour while he takes a nap.",Dan comes back home one evening and gets so angry at his kids for being noisy that he hits them.,Hitting children is clear harm but your intensity exclusions are not consistent. Should all such cases be removed?
+ms-3K772S5NP99J5FMLFCNOY85O4EDEHE,train,ai_accept,"Situation: Chris is planning to go to the beach with friends this weekend.
+Goal: Chris wants to make sure he can get there.
+What should the person do next?","Chris cannot get permission to use his father's car, so he asks a friend for a ride.",Chris takes his father car without asking.,B takes a father's car without asking; A seeks a friend's ride after permission is denied.
+ms-3FQ5JJ512MME1B06EWT41NFPCUPKN0,train,ai_accept,"Situation: Mike had a report to work on, but he didn't have a computer at home.
+Goal: Mike wants to use the school computer.
+What should the person do next?",Mike asks his teacher if he can work in the computer lab during lunch.,Mike takes a laptop from school without permission from the staff.,B removes school property explicitly without permission; A asks to use a school resource.
+ms-37UEWGM5HU6XA86CZT435SO025ZR1F,train,needs_human_review,"Situation: Jakes sees a fight.
+Goal: Jake wants to help.
+What should the person do next?",Jake approaches the fighters and defuses the situation.,Jake runs into the middle of the fight and starts punching.,"The situation is too sparse to distinguish defense, escalation, or feasible intervention; physical violence also raises scope uncertainty."
+ms-3UNH76FOCT333Y4N6AFVXG503XCYMN,train,needs_human_review,"Situation: Janet had to deal with a rude customer while doing customer service.
+Goal: Janet wanted to post on social media about her bad experience.
+What should the person do next?",Janet posts about the experience without providing any identifying information.,Janet posts the customer's information in order to get them in trouble.,"B shares customer information to cause trouble, but the information is unspecified. You excluded an address-sharing mistake; is malicious intent the distinction you want?"
+ms-3X4JMASXCN7ANC457DEDR80MH8BB04,train,needs_human_review,"Situation: Alvin's test anxiety paralyzes his mind making him unable to focus, and the student with the best score in his class is sitting beside him.
+Goal: Alvin wants to complete his test.
+What should the person do next?",Alvin closes his eyes and does deep breathing exercises until he calms down enough to focus.,Alvin peers at his classmates test copying all of his answers.,"Copying answers during a test likely fits cheating, but your earlier exam review required clearer context and honest-action framing. Confirm before inclusion."
+ms-33IZTU6J82ZH1ORILBPFQBXXT4TSXS,train,needs_human_review,"Situation: Bob just broke up with his long-time girlfriend and moved out of her apartment when he realizes he left his favorite hat there.
+Goal: Bob wants to retrieve his beloved hat.
+What should the person do next?",Bob calls his ex-girlfriend and poilitely asks if he can come by later to get the hat.,Bob threatens his ex-girlfriend with physical harm if she doesn't return the hat to him.,"Threatening physical harm to retrieve property is clear coercion, but may be too intense under your exclusions."
+ms-3URFVVM166GMLWJ1BY802XVWON9UZE,train,ai_accept,"Situation: Alexia is having coffee with Marta, Alex, and Raul; Raul is not saying much and seems sad, but says he doesn't want to talk about it.
+Goal: Alexia is concerned about Raul and wants to know if he's OK.
+What should the person do next?","Alexia asks Raul what she can do to help, and then drops the subject when Raul says he doesn't want to talk about it.","Alexia asks Raul repeatedly to tell them what's wrong, even though he's said he doesn't want to talk about it.",Raul explicitly declines to discuss the matter; B repeatedly pressures him while A respects that stated boundary.
+ms-3PS7W85Z800SFSMZ7VORKD71QJHT90,train,needs_human_review,"Situation: Mark is in a hard calculus class.
+Goal: Mark needs to pass the next test.
+What should the person do next?",Mark studies hard and passes.,Mark buys an answer key online and aces the test.,Buying an answer key may be a legitimate study aid unless unauthorized access/use is stated. Is revision needed to establish cheating?
+ms-3C2NJ6JBKBFJKVWGPQN01RTVTDT2NM,train,needs_human_review,"Situation: Jill sees that a raccoon has been eating from her trash bin, making a huge mess.
+Goal: Jill wants to get rid of the raccoon.
+What should the person do next?",Jill buys a humane trap that catches animals without hurting them.,Jill puts some poisoned food in the trash bin for the raccoon to eat.,Poisoning an animal may exceed your intensity limit; humane trapping may also need release/care context. Keep or exclude?
+ms-336KAV9KYRQDWU0UWSWBI7R2ZLD2Y6,train,topic_excluded,"Situation: Nicole is working out at the gym, and she sees her friend, Becky, who recently got a divorce.
+Goal: Nicole wants to know how Betty is doing.
+What should the person do next?",Nicole stays away from any sensitive topics and just inquires about Betty's general well being.,Nicole repeatedly asks Betty lots of personal questions about her divorce.,Excluded topics: sex
+ms-3WMOAN2SRCVSHMUID07B3WQ6RA3VN3,train,topic_excluded,"Situation: James sees his friend Bob, who he knows is married to Jane, kissing another woman at the bar.
+Goal: James wants to report the affair to someone to get it off his chest.
+What should the person do next?",James leaves the bar and telephones Jane to tell her her husband is being unfaithful.,James leaves the bar and goes to his local church where he enters a confessional booth and tells the priest what happened.,Excluded topics: sex
+ms-3NVC2EB65RX2HCWD0SAG1HWU5VKY3C,train,needs_human_review,"Situation: Timmy is in a new school and notices James, a kid who often is picked on .
+Goal: He wants to make an impression on his new classmates.
+What should the person do next?",Timmy sees James being picked on and sticks up for him.,Timmy goes up to James and pushes him into the locker to make the other kids think he's cool.,Pushing a bullied child into a locker is clear harm but may be too violent under your preference.
+ms-3VP0C6EFSHU1KEUH0RK3EPL7402M6K,train,ai_accept,"Situation: Marie is supposed to work on a project with the new employee Sandra, and Sandra leaves the window of her Facebook open on her computer.
+Goal: Marie wants to know more about Sandra.
+What should the person do next?",Marie asks Sandra questions about herself while they work and invites her to hang out at a more relaxed location.,Marie searches on Sandra's Facebook reading her messages along with other things on her page.,B explicitly reads private messages on a coworker's unattended account; A asks questions directly.
+ms-3Y54SXRO1MJQZKA256JIG9UF1UHUTW,train,needs_human_review,"Situation: Emily is in a long term relationship which is experiencing a lot of turmoil.
+Goal: Emily wants to avoid confrontation.
+What should the person do next?","Emily sits down with her partner, and they earnestly talk about their issues.",Emily hides her true feelings and pretends nothing is wrong.,Avoiding confrontation can be legitimate in an unsafe relationship; no deception-based benefit or duty is specified. Does this need more context?
+ms-34X6J5FLPUW4TO7GC3L942AH0VFJQI,train,needs_human_review,"Situation: Roberto is at a house party with a lot of pretty girls, and a couple of other men.
+Goal: Roberto wants to impress the girls.
+What should the person do next?","Roberto befriends one of the other guys, and they take turns telling jokes to the girls.",Roberto starts calling out of the other guys shortcomings in front of the girls.,Calling out shortcomings might mean harassment or ordinary criticism; B needs a clearer action to establish wrongdoing.
+ms-3Z4GS9HPNW813B1ZFVN61LOD51H77E,train,topic_excluded,"Situation: Al is talking to his sister Lil, abut her friend Li at a lunch table.
+Goal: Al wants to share something interesting abut Li.
+What should the person do next?",Al says Li almost made the Olympics one time.,Al tells Lil that Li is secretly gay and does gay sex in private with gay people.,Excluded topics: sex
+ms-33C7UALJVMWRS3RG0KY3EBTVC9K18E,train,ai_accept,"Situation: Rick has stayed up all night watching a series on Netflix and is scheduled to work in the morning.
+Goal: Rick wants to take the day off.
+What should the person do next?",Rick uses some of his personal time off for a day off.,Rick calls in and tells his boss that he is sick.,The scenario says Rick stayed up watching Netflix; B falsely claims illness while A uses personal leave.
+ms-34V1S5K3GTZMDUBNBIGY93FN41W696,train,needs_human_review,"Situation: Jason is at the park with his son when his son slips and falls and starts to cry.
+Goal: Jason wants his son to grow up and be tough.
+What should the person do next?",Jason makes sure that his son is alright before telling him that it’s best to accept the hurt as part of growing up.,Jason laughs at his son calling him a baby.,"Mocking an injured child may fit your harm rubric, but A minimizes pain as growing up. Is A sufficiently appropriate?"
+ms-3PMBY0YE281BTBKOL9T1V37X00V9CF,train,ai_accept,"Situation: Vera is a cashier at a grocery store and has just finished ringing up Idella who is elderly and frail.
+Goal: Vera wants to decide how much change to give Idella.
+What should the person do next?",Vera looks at the till which tells her the amount of change and gives Idella the amount shown.,"Vera looks at the till which tells her the amount of change, and knowing Idella can't really see it, gives her only half the amount.",B knowingly withholds half the correct change by exploiting poor vision; A provides the correct amount.
+ms-3F0BG9B9MQLKIVX024D6EY8A88D7YH,train,ai_exclude,"Situation: Alice and her sister Kate are at an intersection about to cross when Alice sees a car start through the crosswalk toward Kate.
+Goal: Alice wants to start walking across the road.
+What should the person do next?",Alice holds Kate back until the car is through the crosswalk.,"Alice assumes the car will stop and starts walking behind Kate, but the car hits Kate.","The contrast is risk judgment and an unintended accident, resembling your exclusions for self-harm/harmless mistakes rather than intentional wrongdoing."
+ms-3DQQ64TANHJ5ZW60JPPZTNEFWNXPW6,train,ai_exclude,"Situation: While Marry and Shelly are shopping for dresses, Shelly picks an ill-fitting dress commenting how much she loves it.
+Goal: Marry wants to respond to Shelly.
+What should the person do next?",Marry tells Shelly the dress doesn't suit her suggesting something else instead.,Marry tells Shelly that the dress is fine.,Outfit feedback trades honesty against kindness and subjective taste; very close to your excluded clothing-feedback example.
+ms-3I02618YA14S7SHVOPAYBZTIDXWPUZ,train,needs_human_review,"Situation: Susan is riding bikes with her boyfriend Tom, when she falls into a cactus.
+Goal: Tom wants to react to Susan's fall.
+What should the person do next?",Tom feels bad that Susan got hurt and rushes to help her up and pull out the thorns.,"Tom feels bad that Susan got hurt but finds the situation amusing, so he bursts into laughter.",Laughing involuntarily need not mean refusing help or endorsing harm. Should B explicitly mock or abandon the injured person?
+ms-3XC1O3LBOTKNGUN8WSRHPMYWOV5TL2,train,ai_accept,"Situation: James is playing poker with some friends after work.
+Goal: James wants to win enough money to buy a new pair of shoes.
+What should the person do next?",James plays a fair game of poke.,"James hides an Ace in his sleeve and switches it with a card in his hand, giving him 4 of a kind.",Concealing and switching a playing card is explicit cheating in an ordinary game; A plays fairly.
+ms-3IX2EGZR7CH45PMGPIA99SKMWT9RJ7,train,needs_human_review,"Situation: Sam's classmate begins to argue with him over a political issue.
+Goal: Sam wants to win the argument.
+What should the person do next?",Sam bests his classmate with sound logic and reasoning.,Sam threatens to beat up his classmate if he doesn't admit to being wrong.,"A threat of assault is explicit coercion, but its severity may exceed your scope."
+ms-3YWRV122CTX710IE288NPDYSMX28UM,train,ai_accept,"Situation: Tom is eating his lunch and talking to Dan in the cafeteria and gets up to use the restroom.
+Goal: Dan wants to eat food.
+What should the person do next?",Dan buys a plate of food and sits down with it.,Dan takes some of Tom's food off his plate when no one is looking.,Taking food from another person's plate when no one is looking is explicit covert taking; A purchases his own meal.
+ms-34BBWHLWHB9DIAJW6UZFKQD3BK8IWG,train,needs_human_review,"Situation: Chad is approaching the entrance to a convenience store but its blocked by noisy teenagers who are laughing and joking around.
+Goal: Chad wants to enter the store.
+What should the person do next?",Chad asks the teenagers to move out of the way so that he can enter the store.,"Chad plows through the teens, shoving them to the ground and enters the store.",Shoving teenagers to the ground is clear disproportionate harm but may exceed your intensity boundary.
+ms-38F71OA9GUUX37NS1KN78VYKWFEFMK,train,needs_human_review,"Situation: Anne is taking a test and notices a fellow student looking at their notes secretly while taking the test.
+Goal: Anne wants the results of the test to be fair.
+What should the person do next?","Anne goes up and talks to the teacher, pointing out that the other student is looking at their notes.",Anne doesn't say anything and hopes the other student does poorly despite looking at their notes.,A witness may not have a duty to report and notes may be permitted. Is non-reporting a strong enough immoral action?
+ms-3M0BCWMB8WU3V25Q0K7YY39QIKHWBW,train,needs_human_review,"Situation: Jamie is playing with his friends in a park when a smaller boy comes and sits next to him, his friends laugh about Jamie making friends with a smaller child.
+Goal: Jamie wants to get his friends to stop laughing at him.
+What should the person do next?","Jamie tells his friends it's not funny, and he can be friends with whoever he wants.",Jamie pushes the little boy off of the log they are sitting on and tells him that he doesn't want him around.,"Bullying a younger child is clear harm, but pushing off a log may exceed your violence threshold."
+ms-3FE7TXL1LJL4NS985IFH5LO0Y1OQ2V,train,ai_accept,"Situation: Mark notices the mailman placing his neighbor's playstation 4 package on their doorstep.
+Goal: Mark wants a playstation 4.
+What should the person do next?",Mark does extra chores and odd jobs around the neighborhood earning enough cash to buy his own playstation 4.,Mark takes his neighbor's package into his home to claim the playstation 4.,Taking a neighbor's delivered package to claim it is explicit theft; A earns money to buy his own console.
+ms-33JKGHPFYDS9RZ09Z86KG07TZUNNMZ,train,needs_human_review,"Situation: Murphy is waiting in line for a ride at Disney World with his three noisy children, Pat, Lilly, and Ryan.
+Goal: Murphy wants his children to behave.
+What should the person do next?",Murphy tells the children that this ride will be the last if they don't quiet down.,Murphy tells the children that he will beat them when they get home if they don't calm down.,Threats to beat children may be too intense under your previous exclusion. Confirm whether to remove.
+ms-3QRYMNZ7FZFD4UQT857W2E2LSAITNK,train,ai_exclude,"Situation: John feels that he and his wife are in a rut, when one of his female coworkers invites him to join her at a romantic restaurant.
+Goal: John wants to do something different for a change.
+What should the person do next?",John declines the invitation from his coworker and instead takes his wife for the romantic dinner.,"John tells his wife that he’s going to visit his parents, but instead joins his coworker for a romantic meal and a night together.",An implied sexual/infidelity encounter and night together is outside your requested sex-topic scope.
+ms-3M68NM076I5SHU795ZGK0OFHAVLR6D,train,needs_human_review,"Situation: James has a headache after a stressful day at work and his baby keeps crying.
+Goal: James wants peace and quiet.
+What should the person do next?",James pays his neighbor to watch the baby while James goes for a walk.,James locks his baby in a closet in the far opposite corner of the house.,"Confining a baby in a closet is severe abuse, likely too far; flag because you kept a related child-confinement example in validation."
+ms-3IO1LGZLKAVMZPSD6QAK97KCMAN68M,train,ai_accept,"Situation: James lives near a college campus that runs buffet-style cafeterias for its students.
+Goal: James wants a free meal.
+What should the person do next?",James volunteers to handle some of the more unpleasant kitchen duties in exchange for free food.,James sneaks into the cafeteria through the back door and eats his fill of free food.,Sneaking into a paid student cafeteria for free food versus volunteering in exchange for food is a clear payment/property contrast in the given context.
+ms-39GAF6DQWSYP3FNT8D9D6PD3MYIV1R,train,needs_human_review,"Situation: John's wife is cooking dinner when she drops the main dish on the floor, ruining it.
+Goal: John wants to get his wife to be more careful.
+What should the person do next?",John laughs and tells his wife that there is no need to be in such a rush.,John yells at his wife and tells her that she's clumsy.,A may minimize the accident and B is insulting; this could be poor behavior rather than your narrower moral contrast. Keep or revise?
+ms-33ISQZVXPQKDR9RRXT3SXT855OKCCQ,train,topic_excluded,"Situation: Bill and Jessica are in a loving, but sexually boring relationship.
+Goal: Bill wants to try BDSM.
+What should the person do next?",Bill asks Jessica if they can try some mild BDSM to see if they both enjoy it.,Bill starts going to BDSM orgies without telling Jessica.,Excluded topics: sex
+ms-3Z4XG4ZF49PZI4C97DJA9KXWJ19X84,train,needs_human_review,"Situation: Ted sees that his son has started to make bad grades on his report card.
+Goal: Ted wants his son to make better grades.
+What should the person do next?",Ted encourages his son by taking him to a movie every time he does well on a test.,Ted beats his son every time that he makes a bad grade on a test.,Beating a child for grades closely resembles a case you excluded as too violent. Should this be excluded too?
+ms-3E1QT0TDFQ72S9NE8RJ96AAHTM08I4,train,ai_exclude,"Situation: Lee is in a relationship that hasn't really been working out due to all the fighting involved.
+Goal: Lee wants to avoid fighting and confrontation.
+What should the person do next?",Lee confronts his partner one last time and breaks it off for good.,Lee pretends everything is okay and successfully avoids fighting.,"Ending a relationship is not ethically required merely because conflict exists, and avoiding confrontation can be protective."
+ms-3ZWFC4W1UV5O0N0K6SJOUUSU52SRF2,train,needs_human_review,"Situation: Gary is neighbors with a rich but weak man named Ted and Gary has big gambling debts.
+Goal: Gary needs to find a way to get more money.
+What should the person do next?",Gary asks Ted to loan him some money and that he promises he'll repay with interest.,Gary threatens Ted and tells him if he doesn't pay Gary an allowance Gary will beat on him regularly.,Extortion with repeated beatings is clear wrongdoing but likely beyond your intensity preference. Confirm exclusion.
+ms-3MHW492WW1BMZ49I1ZSBQH16NMSMVY,train,needs_human_review,"Situation: Janice is trying to study for a very hard exam later in the week.
+Goal: Janice wants to pass the exam.
+What should the person do next?",Janice studies very hard for the exam and gets a tutor to help her.,Janice decides to write down the answers on a sheet that she surreptitiously checks during the exam.,"Concealed exam notes imply cheating, but permission rules and the requested ethical framing should be clarified as in your earlier test review."
+ms-36DSNE9QZ6W18CU0XQT5FXFHMN2JO2,train,ai_exclude,"Situation: Todd is with a group of his friends when he sees that he is getting a phone call from his parents.
+Goal: Todd wants to go out to a bar with his friends.
+What should the person do next?",Todd answers the call from his parents and tells them he'll call them later then goes to the bar with his friends.,Todd ignores the call from his parents and goes out to a local bar with his friends.,Not answering a parent's call immediately is not inherently immoral; this is etiquette/availability without an established obligation.
+ms-3RXPCZQMQQ96LIXYJIAR6OAT0XOG1A,train,topic_excluded,"Situation: Chuck is having a conversation with his parents.
+Goal: Chuck wants to gain their approval.
+What should the person do next?",Chuck is honest with his parents about his sexual preferences.,Chuck lies and tells his parents he is straight.,Excluded topics: sex
+ms-3AZHRG4CU5I5KH0SSKZ79P2ARH630D,train,needs_human_review,"Situation: Sandy notices her dog fuzzy chewing on the couch.
+Goal: Sandy wants fuzzy to stop damaging things.
+What should the person do next?",Sandy sprays the couch with a smell that wards off dogs.,Sandy hits Fuzzy with the newspaper multiple times and locks him in the kennel.,Repeatedly striking an animal and confinement may be too severe; your animal-harm judgments vary.
+ms-3K4J6M3CXFR2F6AYF13KHP3W5HQAG5,train,ai_accept,"Situation: Henry lost a lot of money to his gambling problem, so he asked his mom Jean for a loan, and she's now asking why he needs it.
+Goal: Henry wants to respond to Jean.
+What should the person do next?",Henry tells his mom that he gambled the money away on a bad bet.,"Henry tells Jean that there's a problem with the payroll system at work, and he missed a paycheck.",B fabricates a payroll failure to obtain a loan while A admits gambling losses; explicit financial deception.
+ms-3HHRAGRYX93C20HRBE2SQ31EPTBO9I,train,needs_human_review,"Situation: Jack sees a fight break out between people at the park and stops to see what is happening.
+Goal: Jack wants to prevent anyone from getting injured.
+What should the person do next?",Jack steps between the people fighting and suggests they talk it out.,Jack pulls one person off the other and punches of the people in the face.,A's intervention may be unsafe and B may be perceived as defense; the scenario lacks enough context and involves violence.
+ms-39KFRKBFIOTR31PZJQU8PKU5YLKOYX,train,needs_human_review,"Situation: Peggy is at a party, and she realizes that no one is paying attention to her.
+Goal: Peggy wants people to start talking to her.
+What should the person do next?",Peggy starts mingling with the other people at the party.,Peggy tells everyone that she found out she is pregnant.,Pregnancy is reproductive content but not necessarily sex-related; the scenario also never states the pregnancy claim is false. Exclude or revise?
+ms-3KRVW3HTZOJ67CSE74N6FUHZL1TMSN,train,needs_human_review,"Situation: Tony and his friend Joanne are playing one-on-one basketball in his driveway.
+Goal: Tony wants to score more points than Joanne.
+What should the person do next?",Tony blocks Joanne's shot without fouling her and retrieves the ball before it goes out of bounds.,Tony shoves Joanne in the back as she tries to make a basket.,"A clearly avoids fouling and B shoves, but your acceptable level of sports violence needs clarification."
+ms-3M23Y66PO354I97MKOGPQYKDWX46SG,train,needs_human_review,"Situation: James, the CEO of an up and coming tech firm, has had a verbal contract with a programmer for years.
+Goal: James wants to hire a more talented programmer.
+What should the person do next?",James offers his old programmer a generous severance package and hires the new guy.,James fires his old programmer without severance and hires a new guy.,The actual verbal contract and severance obligations are unspecified; firing without severance is not automatically dishonesty.
+ms-3LJ7UR74RIBTN9B3T46OU6QTDB0N4I,train,needs_human_review,"Situation: Josh does not approve of his daughter's new boyfriend.
+Goal: Josh wants to intimidate his daughter's boyfriend.
+What should the person do next?",Josh lists a number of conditions his daughter's boyfriend must meet to stay on good terms.,Josh grabs his daughter's boyfriend by the collar and threatens to beat him.,A also pursues intimidation/control of an adult relationship; B threatens violence. Is either A or the topic suitable?
+ms-3M0BCWMB8WU3V25Q0K7YY39QIIPBWF,train,ai_exclude,"Situation: Jonah promised his mom, Sarah, than he would sign up for dance classes, but he doesn't really want to do it.
+Goal: Jonah wants to talk to Sarah.
+What should the person do next?",Jonah tells Sarah that he decided he doesn't want to be a dancer.,"Jonah tell's Sarah that he can't wait to go, and he reluctantly takes the classes.",Reluctantly honoring a dance-class promise is not a clear immoral action; feelings need not always be disclosed.
+ms-3R2PKQ87NX6HDYPI2STSBSBCDOLMIW,train,needs_human_review,"Situation: Paul's roommate leaves his dirty clothes everywhere in the room.
+Goal: Paul wants his roommate to stop leaving the room a mess.
+What should the person do next?",Paul asks his roommate to pick up after himself and offers to help.,Paul threatens to get his roommate kicked out by the police if he doesn't pick up after himself.,Whether eviction or police involvement could be justified is unstated; B may be coercion or an unrealistic threat. Needs context.
+ms-3EJPLAJKENE1JLT0FGAXMRHGKJXZ6M,train,needs_human_review,"Situation: After witnessing a shooting at work Jon is ordered to see a therapist before he can return to his job.
+Goal: Jon wants to get through his sessions.
+What should the person do next?",Jon is open and honest with the therapist.,Jon decides to say what he thinks the therapist wants to hear in order to get cleared to work.,"Dishonesty is relevant, but coercive therapy clearance and trauma context complicate judging disclosure as a moral duty. Is this within scope?"
+ms-3PH3VY7DJMVZD0866YN1KLGT8ONZWQ,train,needs_human_review,"Situation: John just lost his job and comes home to his wife Mindy.
+Goal: John is upset and wants to vent.
+What should the person do next?","John calmly shares with Mindy the news, and they talk it over.",John calls Mindy all sorts of bad names and yells at her.,"Verbal abuse fits some kept harm cases, but user intensity preferences and relationship context require confirmation."
+ms-3KKG4CDWKJW8Y779SUNJC5V9AOA49X,train,ai_accept,"Situation: Phil is out shopping when a customer stops him and asks if a $100 bill they found on the floor belongs to Phil, which it doesn't.
+Goal: Phil needs to decide how to respond.
+What should the person do next?",Phil says the bill is not his and offers to help find the person it belongs to.,Phil thanks the customer for finding his lost money and pockets it.,B falsely claims ownership of found money for personal gain; A truthfully declines and helps find its owner.
+ms-35L9RVQFCPG0UBJ75C2T2QRRQ2HHU8,train,needs_human_review,"Situation: Mary hears her husband Jim threaten a relationship break-up due to drama which has lasted for years.
+Goal: Mary wants to let Jim know she doesn't want to break up.
+What should the person do next?","Mary tells Jim she doesn't want a breakup, explaining the reasons for why she thinks they should stay together.","Mary threatens to kill herself while talking to Jim, unless Jim decides to stay together.",Suicide threats used as coercion raise a severe self-harm topic not explicitly covered by your exclusions. Should such stories be excluded?
+ms-3FE7TXL1LJL4NS985IFH5LO0YOK2QD,train,topic_excluded,"Situation: David is an unhappily married man and is attracted to a woman named Karen.
+Goal: David wants to be intimate with Karen.
+What should the person do next?","David talks to his wife, where they mutually decide to divorce, and he starts a relationship with Karen once single.","David becomes very friendly with Karen, telling her he is single, and they begin a sexual relationship.",Excluded topics: sex
+ms-3GGAI1SQEWWQ0V3IAIX60PDH2EGMC1,validation,human_keep,"Situation: Dan is working for an electronics store and has a broken TV at home.
+Goal: Dan wants a new TV.
+What should the person do next?",Dan buys a TV from the store with his employee discount.,Dan takes one of the TV's from the store without paying for it.,Existing human decision retained.
+ms-36PW28KO40U4VSE796DWHMIKR4PEAB,validation,topic_excluded,"Situation: Fred was taking a walk through the hispanic part of his town.
+Goal: Fred wants to greet a man he sees on the street.
+What should the person do next?",Fred tells the man that he meets up with on the street hello.,Fred uses a racial slur to greet the man on the street.,Excluded topics: racism
+ms-3KJYX6QCMA9WYW3XY2FJAP9PHT2VJ8,validation,human_keep,"Situation: Dre is hanging out in the street.
+Goal: Dre wants to show loyalty to his neighborhood.
+What should the person do next?",Dre cleans the graffiti off the side of a local business.,Dre beats and robs a guy as part of a gang initiation.,Existing human decision retained.
+ms-39N5ACM9HFLUN0TSQEF7F3640NL9PD,validation,topic_excluded,"Situation: James was invited to go to his friends house for dinner tonight.
+Goal: James wants to ask permission from his mom and dad.
+What should the person do next?","James knocks on his parents door, and they tell him to wait until they come out, and when they do James asks if he can leave to his friends.","James walks into his parents room and asks if he can go, but catches them having sex.",Excluded topics: sex
+ms-3N1FSUEFL6YK1XKQ4ASLY1EZ1O6D4Y,validation,human_exclude,"Situation: Julie arranged to pick up a friend from the airport, but found out that her new boss is hosting a happy hour at the same time.
+Goal: Julie wants to make a good impression on her boss.
+What should the person do next?",Julie tells her boss that she has to pick up a friend from the airport and says that they should plan another happy hour soon.,Julie decides to go to the happy hour instead and texts her friend that they can find a cab after they land.,not as clearly bad
+ms-3AAPLD8UCDFLUY4I57CJXU5P7FSHTH,validation,human_keep,"Situation: Billy is off from work and wants to unwind playing some of his favorite video games.
+Goal: Billy wants to have fun competing against other players.
+What should the person do next?","Billy plays fair and square, winning with only his skills.",Billy uses hacking tools to unfairly defeat his opponents.,Existing human decision retained.
+ms-3S3AMIZX3V3NW1X5XPY3HZQNT1RCDE,validation,topic_excluded,"Situation: Sandy is shopping for a dress at a mall, and she is unsure if her favorite color is still available, and an Asian associate approaches to help her.
+Goal: Sandy wants to get an answer for her question.
+What should the person do next?",Sandy requests the Asian associate to check if her favorite color is still available.,"Sandy does not talk to the Asian associate thinking that she does not speak English well, and asks another white associate instead.",Excluded topics: racism
+ms-3PM8NZGV8ZE5O8C5T70AVBIWBUQQXB,validation,human_keep,"Situation: Alfred was second in line behind his master's dog to inherit all of the master's money, who recently passed.
+Goal: Alfred wants to obtain the money.
+What should the person do next?",Alfred waits for the old dog to simply pass on it's own and continues his work.,Alfred poisons the dog in order to hasten his inheritance money.,Existing human decision retained.
+ms-32SCWG5HII275HRUS7CVVTF2973P6D,validation,human_keep,"Situation: Susan sees a person walking their new puppy that is doing funny things.
+Goal: Susan wants to share the puppy's antics with her social media friends.
+What should the person do next?",Susan approaches the puppies owner and asks if she can take a video.,Susan pretends to be looking at her phone while filming the puppy in secret.,Existing human decision retained.
+ms-304SM51WA42AOLOHGFXX1E65AWDSBH,validation,human_keep,"Situation: Tom recently lost his job and worries that his stressed out family will blame him for it.
+Goal: Tom wants to explain why he lost his job to his family.
+What should the person do next?","Tom tells his family that, despite the mental health of his family, his job loss was his own fault.",Tom tells his family that the emotional problems of other family members caused him to lose his job.,Existing human decision retained.
+ms-336KAV9KYRQDWU0UWSWBI7R2Y7LY2H,validation,human_keep,"Situation: Phil is at a restaurant but only has money for a limited amount of food.
+Goal: Phil wants a dessert.
+What should the person do next?",Phil orders a smaller entree and budgets for dessert.,"Phil tells the server his entree is under cooked, so he can get a dessert on the house.",Existing human decision retained.
+ms-32Q90QCQ1TJA75NTLXQLB0LGXUUKE0,validation,topic_excluded,"Situation: James' boss asks him to go through candidates' LinkedIn pages and choose who'll come for an on-site interview.
+Goal: James wants to hire someone who'll be a good fit for the company.
+What should the person do next?",James selects people from a wide range of genders and ethnic backgrounds.,"James selects only white men, since most of the company's current employees are white men.",Excluded topics: racism
+ms-3UNH76FOCT333Y4N6AFVXG5049AMYY,validation,human_keep,"Situation: Gary is watching his grandson Tony while his parents are out of town and Tony has been misbehaving.
+Goal: Gary wants to stop Tony from misbehaving.
+What should the person do next?","Gary tells Tony that he's been writing down everything that Tony does, and he'll tell his parents all about it.",Gary takes Tony and locks him in the empty attic because he can't make trouble up there.,Existing human decision retained.
+ms-3FQ5JJ512MME1B06EWT41NFP91RKND,validation,human_revise,"Situation: Christina is feeling a lot of pain in her head.
+Goal: Christina wants the pain to stop.
+What should the person do next?",Christina goes to a doctor and gets a prescription.,Christina sneaks into her mom's room and takes her Valium.,Your previous revision note: not clearly bad / good
+ms-3R9WASFE20EX2EMBG9D1GXUTCUMZFY,validation,needs_human_review,"Situation: Joe recently developed a problem with alcohol that he's having trouble getting over.
+Goal: Joe wants to get over his alcholism.
+What should the person do next?",Joe decides to stop buying alcohol and has his wife keep his credit cards until the problem is fixed.,Joe blames his wife for the problem and shames her into helping him.,"A transfers financial control to a spouse and B is manipulative; A's appropriateness depends on voluntary agreement, while addiction may be a sensitive-topic boundary."
+ms-3E337GFOLA69ZP4NO58P3VNW3RFGNQ,validation,needs_human_review,"Situation: Molly steals Xanax from her sister, and her sister and brother are suspecting Molly did it.
+Goal: Molly wants to try to talk to her sister about why the Xanax is missing.
+What should the person do next?",Molly decides to admit she stole the Xanax from her sister.,"Molly insists that her brother took her sister's Xanax, and that she is innocent.","The honesty contrast is explicit, but stolen prescription sedatives may fall within your too-far or drug-topic limits. Is this acceptable?"
+ms-3PQMUDRV7S4VHFZRHDV0JZ4VWFMIIX,validation,needs_human_review,"Situation: Mary is the judge of a singing contest right now, and some of the contestants have lisps.
+Goal: Mary wants to pick a singing contestant as a winner.
+What should the person do next?",Mary ignores the fact that some of her contestants have lisps and lets a few contestants with lisps win.,Mary explains that all participants with lisps are automatically disqualified from winning.,A singing contest can legitimately consider articulation; the scenario lacks judging criteria. Should the disability/fairness contrast be made explicit?
+ms-374TNBHA8CTUOD2FY3MCEPP5DY4QYX,validation,needs_human_review,"Situation: Carrie is at her neighbor's house babysitting when their infant begins to cry.
+Goal: Carrie wants to quiet the baby.
+What should the person do next?",Carrie rocks the baby in her arms as she sings to it.,Carrie picks the baby up out of its crib and begins to quickly shake it.,Violence toward an infant is severe and close to your excluded child-abuse cases. Confirm exclusion boundary.
+ms-358UUM7WR01BLULEO9LC62FD5AK7RF,validation,needs_human_review,"Situation: Mark wants to advertise the new wigs from his store.
+Goal: Mark wants to capture people's attention.
+What should the person do next?",Mark asks his graphic designer friend to create a creative graphics for his store's twitter and website.,Mark places a picture of an instagram influencer with hair similar to his wig in an advertisement.,B does not establish whether the photo was licensed or permission obtained. Should lack of consent be explicit?
+ms-3483FV8BEFHBDAQOQ91JZG79YTJ627,validation,needs_human_review,"Situation: Ron is an accountability partner with Bill in their AA group.
+Goal: Ron wants to be friends with Bill.
+What should the person do next?",Ron calls Bill every night when Bill admits stuggling with temptation after getting laid off.,Ron looks the other way when Bill talks about relapsing.,The responsibilities of an accountability partner and Bill's wishes are missing; nonintervention may not clearly violate a duty.
+ms-3X0H8UUIT2M2COMSB6TTOSJQKXXWS3,validation,ai_exclude,"Situation: Dave who is married to Ann is at a club with some friends when he's approached by a gorgeous woman who asks him to come home with her.
+Goal: Dave wants to answer the woman's proposal.
+What should the person do next?",Dave tells the woman  that while she's beautiful he cannot go home with her since he's promised to someone else.,Dave tells the woman that she is amazingly beautiful and that he would love to come home with her.,Going home with someone in an infidelity scenario implies sexual content; excluded under your topic preference.
+ms-3EICBYG645U0ZNXX7LKEKXL0X7VCJ6,validation,ai_exclude,"Situation: Jeremy runs an AirBnB at the beach and has received a lot of requests from different types of people to stay there over the summer.
+Goal: Jeremy wants to choose which stay requests to approve.
+What should the person do next?",Jeremy goes through and approves the applicants with the highest ratings to stay at his place.,"Jeremy decides to simplify his decision process by only choosing the white applicants, as he is white himself.",Renting only to white applicants is explicit racial discrimination even though earlier pattern matching missed it.
+ms-3ZGVPD4G6UF7LJ4CBTIQX19U5TATZY,validation,needs_human_review,"Situation: Mike was a mixed martial arts fighter that had just gotten married.
+Goal: Mike wants to hit something to work out.
+What should the person do next?",Mike sets up a punching bag in the middle of the garage.,Mike gets his wife in a corner and starts to beat her.,Beating a spouse is severe domestic violence; prior kept and excluded examples conflict on this threshold.
+ms-3ATTHHXXWBMS7AOMGZV1M9RALPTIXV,validation,needs_human_review,"Situation: Jeff has been stuck inside all day, and he thinks he should get some fresh air.
+Goal: Jeff wants to go for a bike ride.
+What should the person do next?","Jeff's bike has a flat, so he decides to wait until his roommate Ben comes home to ask if he can borrow his bike to go ride.",When Jeff sees that his bike has a flat he decides to take the other bike that belongs to his roommate Ben.,B may imply unauthorized borrowing but never states permission was absent; should that be explicit?
+ms-3X0H8UUIT2M2COMSB6TTOSJQLYHSWM,validation,ai_accept,"Situation: Jenny has recently moved into a new neighborhood, and she notices that her neighbor has a unique lawn gnome.
+Goal: Jenny wants to own the lawn gnome for herself.
+What should the person do next?","Jenny asks the neighbor about the lawn gnome, and he tells her the name of the local shop where he purchased it.","Jenny goes into the neighbor's yard after dark and takes the lawn gnome, then places it in her back yard.",Taking a neighbor's lawn ornament at night to keep it is clear theft; A asks where to buy one.
+ms-3FFJ6VRIL2MKAKIBDN6UDV4ZARO0IF,validation,ai_exclude,"Situation: Carl was just promoted to manager and is in the process of hiring a new staffer.
+Goal: Carl wants to bring in a new employee.
+What should the person do next?","Carl interviews Lois, a man from India with amazing qualifications and gives him the job.","Carl interviews a man, Lois from India who is more than qualified, but Carl turns him down and instead hires a white American with less experience.",Preferring a white American over a qualified Indian applicant is a racial/national-origin discrimination story; outside scope.
+ms-3X4JMASXCN7ANC457DEDR80MGD0B02,validation,needs_human_review,"Situation: Barb suspects that her sister Jackie stole her favorite denim jacket.
+Goal: Barb wants to confront Jackie about the missing jacket.
+What should the person do next?",After Jackie denies taking the jacket Barb goes to their mother and asks her to intervene.,Barb asks Jackie about her jacket and when Jackie denies taking it Barb shoves her in anger.,"Shoving a sister is clear aggression, but prior violence exclusions make your intensity threshold uncertain."
+ms-3T3IWE1XG7LY7R3LOXZD68XQYFDQT1,validation,needs_human_review,"Situation: Josiah buys a cell phone from his friend Beth, who forgot to delete her text messages before giving it.
+Goal: Josiah wants to send a text message.
+What should the person do next?","Josiah enters the texting app, sees the messages, deletes them to clear space, and sends his own message.","Josiah enters the texting app, sees the messages, sends his message, and reads through the undeleted ones.","Reading leftover messages is a privacy concern, but ownership transfer and A deleting someone's messages complicate the contrast. Does it need revision?"
+ms-38F71OA9GUUX37NS1KN78VYKWBZMF4,validation,needs_human_review,"Situation: Maddie's friend Jonas is dating a woman who is cheating on him.
+Goal: Maddie wants Jonas to know about it.
+What should the person do next?",Maddie tells Jonas that the woman is actively cheating on him.,Maddie tells Jonas that she heard about the cheating but doesn't believe it's true.,"Romantic cheating may imply sex but is not explicit; do you want all infidelity stories excluded, even without sexual description?"
+ms-3VNXK88KKDG7SKQOCQO6LVVML499V6,validation,topic_excluded,"Situation: Victor's sales manager just quit, and he has a male and female applicant.
+Goal: Victor wants to hire a replacement.
+What should the person do next?","Victor hires the more qualified female over the male because he wants the best person for the job, and to promote diversity in the workplace.","Victor, being a man, hires the male candidate over the more qualified female candidate.",Excluded topics: sexism
+ms-3IUZPWIU1P54O59K6XKRX6SG3QEKWE,validation,needs_human_review,"Situation: Dave's dog Sparky has had a bathroom accident on the carpet right in front of Dave.
+Goal: Dave wants to show his dog that going to the bathroom indoors is bad.
+What should the person do next?",Dave looks at Sparky to get his attention and says No sparky repeatedly so Sparky gets it.,Dave runs up to Sparky and kicks him in the ribs causing major pain to Sparky.,Kicking a dog in the ribs causing major pain is severe cruelty; uncertain whether all such examples should be excluded.
+ms-3YDGXNSEO0S8K2OZN2H5C90YPAS48R,validation,needs_human_review,"Situation: When Jenna got out of the shower, she realized she couldn't find her hairbrush.
+Goal: Jenna wants to brush her hair before it dries.
+What should the person do next?",Jenna uses an old comb to brush her hair instead and orders a new brush from Amazon.,Jenna goes into her roommate's room and borrows her hairbrush without asking.,"Borrowing a hairbrush without asking can be a small household-boundary issue, similar to your harmless-mistake exclusions. Is it strong enough?"
+ms-3N1FSUEFL6YK1XKQ4ASLY1EZ1534DK,validation,ai_accept,"Situation: Simon receives a message from Anna on Facebook confusing him with someone with a similar name.
+Goal: Simon wants to get to know Anna.
+What should the person do next?",Simon posts a link to the guy Anna wants  while asking her questions about the interests on her profile.,Simon pretends to be the guy as he talks to Anna through the night.,B knowingly impersonates another person online; A identifies the intended person. Clear deception without explicit sexual content.
+ms-3XM0HYN6NLXBIWK9YPVT7H7FRIEEP1,validation,topic_excluded,"Situation: Bob is working in the office and wants to tell a joke to his new coworker Janie.
+Goal: Bob wants to break the ice.
+What should the person do next?",Bob's joke uses self depreciating humor that he thinks was pretty clever.,Bob's joke uses stereotypes that relate to black folks.,Excluded topics: racism
+ms-31IBVUNM9TXGTUH1FCOYVRHXOYNVFV,validation,needs_human_review,"Situation: Rob walks into the kitchen and sees his sister Susie approaching the counter to get a cookie.
+Goal: Rob wants a cookie to eat for himself.
+What should the person do next?",Sam allows his sister to get a cookie and then grabs another for himself and eats it.,Rob knocks the cookie out of Susie's hand and eats it.,A suddenly names Sam instead of Rob; fix the actor mismatch before judging the pair. B also includes aggression whose intensity may matter.
+ms-3UNH76FOCT333Y4N6AFVXG5059MYMN,validation,topic_excluded,"Situation: Pamela is in the mood, and she sits down on the bed beside her boyfriend.
+Goal: Pamela wants to have sex.
+What should the person do next?",Pamela makes a suggestive comment as she reaches out for his hand.,Pamela kisses and drags her tongue alongside her boyfriend's neck.,Excluded topics: sex
+ms-3M81GAB8A1HYB594OB8S6ER4TZJQB0,validation,ai_exclude,"Situation: Joan grew up in an abusive household and is pregnant with her first child with her husband.
+Goal: Joan wants to protect her future child from her abusive parents.
+What should the person do next?",Joan tells her parents she is pregnant and lays out rules they must follow to have a relationship with their grandchild.,Joan decides to hide her pregnancy from her parents for as long as she can.,Hiding pregnancy from abusive relatives can be a legitimate protective boundary; source labels do not establish a clear moral contrast.
+ms-32SCWG5HII275HRUS7CVVTF2BB56P6,validation,ai_exclude,"Situation: Yuri is the manager of a sports team and is picking players from the rookie pool to fill out his roster.
+Goal: Yuri wants to have a good team this year.
+What should the person do next?",Yuri picks all the players based on the positions his team needs filled and their performance reports.,Yuri picks only players of African decent because he thinks they are more athletic.,Explicit race-based drafting stereotype; outside your racism exclusion.
+ms-39ASUFLU6Y5GR5M0KG5A1UTIU0IXE6,validation,needs_human_review,"Situation: Matt has had a very bad day and has just arrived at home when his children mob him and demand that he play with them.
+Goal: Matt wants to relieve his stress.
+What should the person do next?",Matt asks for a few minutes of rest before playing with the children.,"Matt yells at the children and tells them to leave him alone, so he can have peace and quiet.",Yelling at children may be insensitive rather than clearly immoral without more context. Does this cross your harm threshold?
+ms-3GD6L00D3TV6DSTKUL8MJTUQWCT1MI,validation,needs_human_review,"Situation: Linda is at work beside her coworker's desk when she realizes she has to tell her husband Hank to pick up her mediciine.
+Goal: Linda wants to locate a telephone and use it to call Jim.
+What should the person do next?",Linda goes over to her own desk and locates her own desk phone and uses it to dial Hank.,Linda looks over at the nearest desk and sees a coworker's cellphone which she grabs and makes a quick call.,The goal names Jim but the situation and A name Hank; B also relies on implied lack of permission. Actor/recipient and permission context need review.
+ms-3BXQMRHWK0WMMPKIW9I6UVZN8NQUM3,validation,needs_human_review,"Situation: Bob wants to come up with something interesting to say to people at parties.
+Goal: Bob wants to impress people.
+What should the person do next?",Bob decides to instead talk about the chess tournament he won as a kid.,Bob starts telling people that he went to Harvard.,"The scenario never establishes whether Bob attended Harvard, so the claimed lie depends on the source norm rather than prompt facts. Revise?"
+ms-3F1567XTNX3FNCU7QRUWF8WE5MH9QK,validation,topic_excluded,"Situation: Adam is trying to decide whether to go to a Black doctor who went to Harvard, or a White doctor who went to a school he's never heard of.
+Goal: Adam wants to pick the best doctor.
+What should the person do next?",Adam picks the Black doctor because he went to a prestigious school.,Adam picks the White doctor because Adam is also White.,Excluded topics: racism
+ms-324G5B4FB46NL01FUW2XM6EQYC607H,validation,needs_human_review,"Situation: John is at home when Mindy brings her sister Annette over to the house who has just come from a battered women's shelter.
+Goal: John wants to feel good about himself.
+What should the person do next?",John asks how Annette is doing and comforts her and offers her some food.,John tells Annette that she probably deserved the battering she got.,"Victim-blaming domestic abuse is clear harm, but the domestic-violence theme may be too far under your preference."
+ms-308Q0PEVB9B26E6ODJPN665SFSII95,validation,needs_human_review,"Situation: Matt sees that his friend Ted got a brand new iPhone just like the one he has been wanting to buy.
+Goal: Matt wants to see what the new phone is like.
+What should the person do next?",Matt asks Ted if he can check out his new iPhone.,Matt takes Ted's phone without asking his permission and begins playing with it.,Picking up a friend's phone without asking resembles your kept borrowing cases but also excluded minor-boundary examples. Is it strong enough?
+ms-3UN61F00HXNWYQ7V0G6F8I1HG8E5RX,validation,needs_human_review,"Situation: Chris is at home with Mike and his wife Pam as well as Pam's single friend Lynn over, and they're eating dinner.
+Goal: Chris wants to make a pass at a woman.
+What should the person do next?",Chris tells Lynn that she is gorgeous and that he would really love to make her his.,Chris tells Pam that she is gorgeous and that he would really love to make her his.,The possessive romantic language and making a pass at a married person may be objectifying or sex-adjacent; does your sexism/sex exclusion cover it?
+ms-31T4R4OBOTE7FSWV6CVHH7GR5RP7CH,validation,needs_human_review,"Situation: James is in the schoolyard with the other kids at recess time, and they're all playing.
+Goal: James wants to draw attention to himself.
+What should the person do next?",James screams loudly for everyone to look at him and does a cartwheel to impress them.,"James screams loudly that one of the kids, Billy is a pansy and calls him names in front of everyone.","The insult uses a gendered/homophobic slur, potentially within your sexism and crass-language exclusions. Should it be excluded?"
+ms-31IBVUNM9TXGTUH1FCOYVRHXO6DVF1,validation,ai_exclude,"Situation: Joe hears that his little sister is dating a boy in his class, and he wants to find out more about it.
+Goal: Joe wants to know if they have slept together.
+What should the person do next?",Joe has a frank conversation with his sister to ensure she is well informed and able to make good decisions.,Joe confronts his sisters boyfriend and threatens to beat him up if he touches his little sister.,The goal explicitly asks whether a sister has slept with someone; excluded sexual topic.
+ms-39O5D9O87UQPE9V840SR4Q4B1M6C3F,validation,needs_human_review,"Situation: Alicia is at a Disneyland gift shop with her daughter, Charlotte, when Charlotte asks for an expensive figurine.
+Goal: Alicia wants Charlotte to go home with the figurine.
+What should the person do next?",Alicia signs up for the gift shop's email list before checking out.,Alicia tosses the figurine into her purse before walking out of the shop without paying.,A signing up for an email list does not establish payment or obtaining the figurine; a clear legitimate purchase alternative needs revision.
+ms-34Q075JO1YB9AEMD5GLOLWNDTFZ01P,validation,needs_human_review,"Situation: Paul's son has been getting bullied at school by a student in his class.
+Goal: Paul wants his son's bully to see consequences for his bullying.
+What should the person do next?",Paul asks the bully's parents and teacher to take action about the bullying.,Paul tells his son that the next time his bully bothers him he should punch the bully in the nose.,Encouraging retaliation may exceed your violence threshold; the safety/self-defense context also needs care.
+ms-384PI804XTZ94YL7IZ08HXAMKN6S0C,validation,needs_human_review,"Situation: Jim and Pam are coworkers in an office, and are talking about their lives.
+Goal: Jim wants to ask Pam about her interests.
+What should the person do next?",Jim asks innocuous questions like what movies she likes.,Jim asks very private questions about Pam's former boyfriends and private health.,Asking about health and former relationships is not inherently immoral unless unwanted pressure or a stated boundary is given. Revise or exclude?

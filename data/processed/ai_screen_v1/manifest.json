@@ -1,0 +1,44 @@
+{
+  "candidate_count": 250,
+  "outcomes": {
+    "human_keep": 32,
+    "topic_excluded": 28,
+    "human_revise": 5,
+    "human_exclude": 13,
+    "ai_exclude": 25,
+    "needs_human_review": 102,
+    "ai_accept": 45
+  },
+  "ai_accepted_by_split": {
+    "train": 43,
+    "validation": 2
+  },
+  "review_queue_count": 107,
+  "review_groups": {
+    "Text or actor inconsistency": 1,
+    "Moral ambiguity or missing context": 68,
+    "Scope and intensity": 33,
+    "Topic exclusion boundary": 5
+  },
+  "source_hashes": {
+    "data/reviewed/focused_review_20261123T112349_759679Z/reviews.json": "b79b74f07d763c2509cb2baf4733d913ad1cac62c4bcdf7759a22f87c3e2b960",
+    "data/reviewed/focused_review_20261123T112833_946903Z/reviews.json": "a9a468927152df88803992a167e02bd48a31b9ee6777bab22d2ff0448fe4654d",
+    "data/reviewed/focused_review_20261123T112839_391400Z/reviews.json": "a9a468927152df88803992a167e02bd48a31b9ee6777bab22d2ff0448fe4654d",
+    "data/reviewed/focused_review_20261123T113625_003438Z/reviews.json": "f33fafcde251dbe27de0e34f9535d3b9758d590111e5d0b7c8f0beb6c66b7f05",
+    "data/reviewed/focused_review_20261123T113633_240087Z/reviews.json": "f33fafcde251dbe27de0e34f9535d3b9758d590111e5d0b7c8f0beb6c66b7f05",
+    "data/reviewed/focused_review_20261123T113718_517804Z/reviews.json": "adc5f740831cc6b67f3d961f9f6f64744f456cbbd76d2b3988aeac2b3e762ab7",
+    "data/reviewed/focused_review_20261123T113722_428688Z/reviews.json": "adc5f740831cc6b67f3d961f9f6f64744f456cbbd76d2b3988aeac2b3e762ab7",
+    "data/reviewed/focused_review_20261123T114524_457163Z/reviews.json": "823d39df64f1e68f880229e39b346c9011cd706e5ba37998d34444a3c0021ae6",
+    "data/reviewed/focused_review_20261123T114528_998743Z/reviews.json": "823d39df64f1e68f880229e39b346c9011cd706e5ba37998d34444a3c0021ae6",
+    "data/reviewed/focused_review_20261123T121109_908177Z/reviews.json": "43583261b537afc27c2103a7f0f15d719a6ed7de97e67e93ebfdb7102bf6052b",
+    "data/reviewed/focused_review_20261123T121605_170497Z/reviews.json": "bf160db6a4bbd7a148a93b7815ff786af9d9a8cd371147c9312f3cb9692daa87",
+    "data/reviewed/focused_review_20261123T121809_254352Z/reviews.json": "949bd1144ed4bb3e9fffa660523a70017b5be060c74e34addd249056e7c64b94",
+    "data/reviewed/focused_review_20261123T122228_271826Z/reviews.json": "96c464595be9c8e0a26b6715a20a2b59d7849ad5993593f38a3625fb6093b851",
+    "data/reviewed/focused_review_20261123T122235_685373Z/reviews.json": "96c464595be9c8e0a26b6715a20a2b59d7849ad5993593f38a3625fb6093b851",
+    "scripts/moral_stories_ai_screen_v1.json": "bc81496ac4412ada6f5f78e03f00d966209c1456711c42b64b3c7136e8f93a2f",
+    "data/processed/moral_stories_candidates_v1/train_candidates.jsonl": "065e7fa97ff656b1d5b6235dd228b47440136083e5c2a2d9e606c0e45eea8e84",
+    "data/processed/moral_stories_candidates_v1/validation_candidates.jsonl": "ee28c05dc294b7ead3eff7c9ed97bb6914a3862254bd5e3872784a0002df0e05"
+  },
+  "method": "Assistant read all 172 pending non-keyword-blocked pairs in context and assigned a reasoned disposition; not a trained classifier or calibrated confidence score.",
+  "constraints": "Human decisions preserved; AI accepts are NOT human reviewed. No training files or Colab payload changed."
+}

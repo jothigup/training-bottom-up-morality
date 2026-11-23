@@ -1,0 +1,15 @@
+{
+  "label_order": [
+    "moral",
+    "immoral",
+    "neutral"
+  ],
+  "counts": {
+    "train": 39,
+    "validation": 12,
+    "test": 12
+  },
+  "excluded_mixed_count": 1,
+  "source_sha256": "832eaa8e9eea2f99e29aaecb8f48b3ee3af60b00d017ecd4d7b4771e3bd5ca37",
+  "policy": "No human labels changed. Mixed is outside this exploratory classifier scope and must remain human-assessed in final comparisons."
+}
