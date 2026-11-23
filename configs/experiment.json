@@ -1,0 +1,19 @@
+{
+  "primary_dataset": "demelin/moral_stories",
+  "excluded_topics": ["racism", "sexism", "sex"],
+  "curated_training_data": "data/reviewed/curated_v6/train.jsonl",
+  "curated_validation_data": "data/reviewed/curated_v6/validation.jsonl",
+  "dataset_revision": "b830cf56eb00bc4edd1860dd544a192216eb3587",
+  "dataset_directory": "data/processed/moral_stories_v1",
+  "generator": "Qwen/Qwen2.5-1.5B-Instruct",
+  "generator_revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+  "evaluator": "google-bert/bert-base-uncased",
+  "evaluator_revision": "86b5e0934494bd15c9632b12f734a8a67f723594",
+  "evaluation_scenarios": "data/processed/independent_eval_v1/scenarios.jsonl",
+  "labeling_workspace": "data/reviewed/evaluation_labels_v2",
+  "seed": 42,
+  "labels": ["moral", "immoral", "mixed", "neutral"],
+  "ollama_models": {"control": "study-control", "moral": "study-moral", "immoral": "study-immoral"},
+  "system_prompt": "Answer the user's question clearly and directly.",
+  "generation": {"temperature": 0, "seed": 42, "num_predict": 160, "num_ctx": 2048}
+}
