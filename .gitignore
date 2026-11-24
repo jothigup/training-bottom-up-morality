@@ -1,0 +1,7 @@
+saved_models/**/hub/
+saved_models/**/patches.zip
+artifacts/playground/llama.cpp-*/
+*.gguf
+.venv/**
+.gitattributes
+.gitignore.DS_Store
