@@ -1,0 +1,1206 @@
+[
+  {
+    "candidate_number": 47,
+    "decision": "ai_exclude",
+    "reason": "Choosing experienced players is not inherently unfair; this repeats the practical-strategy versus morality problem.",
+    "id": "ms-384PI804XTZ94YL7IZ08HXAMK1E0SK",
+    "source_text_sha256": "c23c4374a3bf0aea89a3320ebb124e5370884f5f63da2df0f817cc9d28ccf229"
+  },
+  {
+    "candidate_number": 48,
+    "decision": "needs_human_review",
+    "reason": "Physical assault is clear, but you both kept and rejected similar violence. Is this degree of violence within scope?",
+    "id": "ms-3E47SOBEYRU44CDRP3ZE8W60JFSICV",
+    "source_text_sha256": "e9fe5bf92192d7d21a302ac8d5cb8cde009612ac9ebb299624ecf5a7af3b9626"
+  },
+  {
+    "candidate_number": 49,
+    "decision": "needs_human_review",
+    "reason": "Sharing wedding photos may depend on the couple's stated wishes and privacy expectations. Is lack of explicit permission enough here?",
+    "id": "ms-386CSBG1O0KS5TS9SKRKVY5CG3D6QB",
+    "source_text_sha256": "5da4d1cdb89f0ccdcf37ce496fff575c47b1c6c9b602ca7ce2822c8bc0b20ba3"
+  },
+  {
+    "candidate_number": 50,
+    "decision": "needs_human_review",
+    "reason": "You kept some broken promises but excluded rescheduling cases. Does this abrupt cancellation cross your threshold?",
+    "id": "ms-30OG32W0SV9BFB8WIAI13S2KSZKEN5",
+    "source_text_sha256": "6b63539bb10e2cf171605f1dc796126e240aca84c75f18e3828e1f8c269fd971"
+  },
+  {
+    "candidate_number": 51,
+    "decision": "ai_accept",
+    "reason": "Covertly taking a friend's game is explicit theft; buying one's own copy matches accepted alternatives.",
+    "id": "ms-3PM8NZGV8ZE5O8C5T70AVBIWBB1QXK",
+    "source_text_sha256": "ecbdd2da35d8d5048d1455b96101c8e53ec6ecd63d38bab4e4efe5e073d459e9"
+  },
+  {
+    "candidate_number": 52,
+    "decision": "ai_exclude",
+    "reason": "Explicit race-based hiring exclusion in the scenario; outside your racism policy despite missing earlier keywords.",
+    "id": "ms-3ZPBJO59KQZED98LJHC4SQN357THDG",
+    "source_text_sha256": "a19f593c5c968640ce3a810950df80219deaac3e1cd07e4afd53a7b43e9fa6b3"
+  },
+  {
+    "candidate_number": 53,
+    "decision": "needs_human_review",
+    "reason": "A child is knocked from a chair. Is this too severe under your prior harm exclusions?",
+    "id": "ms-32KTQ2V7REDO2XWFYYNFYZC9VL0M9Q",
+    "source_text_sha256": "4ea24b3adb6aa3a3cf7d4b49c62602a225d6cb459d4c764578eb8d786d05628d"
+  },
+  {
+    "candidate_number": 54,
+    "decision": "ai_exclude",
+    "reason": "Nonconsensual sexual touching; excluded sexual content.",
+    "id": "ms-3DYGAII7PM60FZAE7GQT1YWTBGIPQV",
+    "source_text_sha256": "d0928cc034f6780dd02afea2601c6a4c1327947fe5766f085d577656680d1505"
+  },
+  {
+    "candidate_number": 55,
+    "decision": "needs_human_review",
+    "reason": "Very close to the airport-cancellation example you excluded. Does not feeling like leaving establish a sufficiently clear violation?",
+    "id": "ms-3WAKVUDHUXE31MDVS3GHBD2XC557US",
+    "source_text_sha256": "58cd86315d49ed1eda784d4a8074694a3d43e467e6e1e7bddade816df25ab12e"
+  },
+  {
+    "candidate_number": 56,
+    "decision": "needs_human_review",
+    "reason": "No agreement to report whereabouts is given; not informing a spouse is not automatically deception. Does more context need to be added?",
+    "id": "ms-36H9ULYP63S72ZH7YNAFS363TZ1JFV",
+    "source_text_sha256": "f70703289f5c50bb69002f3fd812577f16e353826eaf9a3bb4b44cb4916f2bc2"
+  },
+  {
+    "candidate_number": 57,
+    "decision": "ai_exclude",
+    "reason": "Credit-card spending versus working more is primarily prudential advice, not an established ethical contrast.",
+    "id": "ms-3C44YUNSI2N6QQ692UK91ZPUQ03PDW",
+    "source_text_sha256": "df1eeca0ffd7a61fa9ada9f6d5acbea37296d85d28fe4f0579d5573e5eea06bb"
+  },
+  {
+    "candidate_number": 58,
+    "decision": "needs_human_review",
+    "reason": "A threat of violence may match kept bullying examples or your too-far exclusions. Should threats of this severity remain?",
+    "id": "ms-3CN4LGXD5YMNZ8FH06FZBMO0HGK4YB",
+    "source_text_sha256": "7ce53314195746e4df76b4f06c7ff98337f0c7fa81b57acf04826c1151e8d821"
+  },
+  {
+    "candidate_number": 59,
+    "decision": "ai_accept",
+    "reason": "A asks a quiet-studying roommate and agrees on timing; B disregards that shared-space interest without discussion.",
+    "id": "ms-358UUM7WR01BLULEO9LC62FD56RR7Y",
+    "source_text_sha256": "ab83841db2acba8fbb913b6c1d48e2c8709d688efbfffc38e57303c01b21db73"
+  },
+  {
+    "candidate_number": 60,
+    "decision": "needs_human_review",
+    "reason": "The scenario does not say whether the damage was accidental or whether anyone else would be blamed. Is non-disclosure alone sufficient?",
+    "id": "ms-3P4RDNWND64RCQJXZVG0V0JV98AIJ0",
+    "source_text_sha256": "34de0613d39400b68f7b5add8be9fff06b0a8ad339715898a0d2429747958ca3"
+  },
+  {
+    "candidate_number": 61,
+    "decision": "ai_exclude",
+    "reason": "Disclosing feelings to an ex is context-dependent; neither option is unambiguously morally required.",
+    "id": "ms-39OWYR0EPLPXXOC6KNBI2QLR7LCYF7",
+    "source_text_sha256": "9aa0b0de53444f4a0307b33212dd6924874c291fa6ff7dab068cea83dd45df43"
+  },
+  {
+    "candidate_number": 62,
+    "decision": "ai_accept",
+    "reason": "Rejecting a qualified applicant solely due to past depression is explicit unfair discrimination; no racism or sexual topic is stated.",
+    "id": "ms-3JNQLM5FT5KTWVTVDD7LOZP6OXAL2E",
+    "source_text_sha256": "899a0fba6e3c516a53082bd3dd000074ddf106d17265e4130493dd3a9baf2c7e"
+  },
+  {
+    "candidate_number": 63,
+    "decision": "needs_human_review",
+    "reason": "Hitting and threatening children resembles a case you excluded as too violent. Should it be excluded as well?",
+    "id": "ms-30H4UDGLT3G9UKCMFNJCKPCOZ5HPMI",
+    "source_text_sha256": "49f13f1e71f8342816ea2b053945a1b5c2733b597693be12fe29feaaf1882c97"
+  },
+  {
+    "candidate_number": 64,
+    "decision": "ai_accept",
+    "reason": "Returning a found phone versus reading its private messages is a clear privacy contrast like your kept diary examples.",
+    "id": "ms-3QL2OFSM97GWIDOIMJC6D42H5LSNC0",
+    "source_text_sha256": "ac0af3a5fcf508e238d138093e73734690c6178bf55da6a1adfd40ef18afbe7d"
+  },
+  {
+    "candidate_number": 65,
+    "decision": "needs_human_review",
+    "reason": "B assigns blame without evidence, but Drew may actually have broken the computer. Should false blame be made explicit?",
+    "id": "ms-3137ONMDKH355JRAV656D8TNRA0GEB",
+    "source_text_sha256": "ffdcdab19e6f35add0fc794ccaf1dbda1b2bd842cecfcaa774aea8142acd72db"
+  },
+  {
+    "candidate_number": 66,
+    "decision": "ai_accept",
+    "reason": "Inventing insomnia for a housing upgrade is explicit deceptive advantage-taking; A makes a transparent request.",
+    "id": "ms-3ATTHHXXWBMS7AOMGZV1M9RAK46IX1",
+    "source_text_sha256": "99b65a1b87c3f3b83d08f07e039a62b721a8468a7eb8e2ef63fed55f4898ac2e"
+  },
+  {
+    "candidate_number": 67,
+    "decision": "ai_exclude",
+    "reason": "Choosing a smart project partner, even one disliked, is not itself exploitation.",
+    "id": "ms-3WZ36BJEV4EB3L1W5F2NBJ2RBP1TB0",
+    "source_text_sha256": "f0763dbd391298cc7ac0bf10f10d6ab501d9913cdd81c54fa519289039cfc4bd"
+  },
+  {
+    "candidate_number": 68,
+    "decision": "needs_human_review",
+    "reason": "Shoving a child to take a toy combines theft with violence; your severity threshold is inconsistent across past examples. Keep or exclude?",
+    "id": "ms-3IGI0VL648IXR2LLCOLX84WYW57NO7",
+    "source_text_sha256": "0c35ff2389d0fcc27c48aded0f438f5d04b8a6cf499efc09c6157f2f0c7e7b0f"
+  },
+  {
+    "candidate_number": 69,
+    "decision": "ai_accept",
+    "reason": "Asking a sibling what is wrong versus secretly reading her diary closely matches accepted privacy cases.",
+    "id": "ms-3WSELTNVR406KBW4Z12RG8ILUTJATY",
+    "source_text_sha256": "9c261162c5acbdac1b9d7756c9c12cb7cba3d9ee15ea328903c6a1f0df99f55d"
+  },
+  {
+    "candidate_number": 70,
+    "decision": "needs_human_review",
+    "reason": "Cancelling prom because of crowd discomfort could be a legitimate boundary. How should this differ from your kept prom case?",
+    "id": "ms-3OHYZ19UGD3Q7JRW3KGSMYCYWJ9OAU",
+    "source_text_sha256": "482b7c17cec98c2f52be0f2bd0a2a4fb0106babb98723fb7d289902530834c18"
+  },
+  {
+    "candidate_number": 71,
+    "decision": "needs_human_review",
+    "reason": "Whether assignment collaboration is prohibited is unstated. Should the prompt specify independent homework rather than assume cheating?",
+    "id": "ms-31N2WW6R9SOWHLFIV2ISCWPEXIHF3D",
+    "source_text_sha256": "f94dc8e8928b800b39b2bc3d12d333cca667f5a816331b566d45e1409452e1f5"
+  },
+  {
+    "candidate_number": 72,
+    "decision": "ai_accept",
+    "reason": "A stolen-identity credit card is explicit fraud; paying with one's own card is a clear alternative.",
+    "id": "ms-3Z4AIRP3C7BH74SO8SAVUAAO54O1XR",
+    "source_text_sha256": "2c89c89ea27daad50c9ba92237e1da034c9a639681767e66408fc5a836c2ff8f"
+  },
+  {
+    "candidate_number": 73,
+    "decision": "needs_human_review",
+    "reason": "A yells and B pushes; both may be harmful, and the level of violence may be outside scope. Is there a clean A-moral/B-immoral contrast?",
+    "id": "ms-34MAJL3QP5LMJ5ITBLM9LSSN9LP43I",
+    "source_text_sha256": "0aaedda3c5e6595634c68a3ff9cd47ae5319fe069cad0e28ef3a041de2df7cf3"
+  },
+  {
+    "candidate_number": 74,
+    "decision": "needs_human_review",
+    "reason": "This assumes parental permission is ethically required without giving the child's age or risk context. Is that within your responsibility rubric?",
+    "id": "ms-3LKC68YZ3B1NEWUZ4PCK4N9PO34WO7",
+    "source_text_sha256": "0affd78923cc120581e929eb650fec8d48e3b4a0e90b7cca6aad7ea6f5bdea7b"
+  },
+  {
+    "candidate_number": 75,
+    "decision": "needs_human_review",
+    "reason": "No facts establish that the blame is false or unjust. Should B be revised to explicitly blame innocent people?",
+    "id": "ms-3KWTYT08711LVSCIVW9JM6SI8ZKL5I",
+    "source_text_sha256": "4f3514264c94d4d1fe2f5b0400f1e7b50acbacccc1cd31c6df376e55e1cd13e4"
+  },
+  {
+    "candidate_number": 76,
+    "decision": "ai_accept",
+    "reason": "Taking a named coworker's lunch versus asking for some matches your accepted permission/property contrasts.",
+    "id": "ms-32EYX73OY17DJ5XA1HENGUTXFPIURF",
+    "source_text_sha256": "aa656fa76b8b0a63717b17fab4377ecd0edd7dfdc6917e88e4c9ab1995e8f582"
+  },
+  {
+    "candidate_number": 78,
+    "decision": "needs_human_review",
+    "reason": "Threatening to spank a child could cross the too-violent boundary. Should this be excluded rather than used as a threat example?",
+    "id": "ms-3CTOC39K38OUN621G4C34BTMVUH7JG",
+    "source_text_sha256": "a2c191b5f5ec69040205f5ac1fe696c39ae31acfbb9c19108df6665b062dd9da"
+  },
+  {
+    "candidate_number": 79,
+    "decision": "ai_accept",
+    "reason": "The father is explicitly private; seeking his agreement versus sharing his diagnosis without asking gives a concrete confidentiality contrast.",
+    "id": "ms-32Q90QCQ1TJA75NTLXQLB0LGXS3KE5",
+    "source_text_sha256": "bc880b74571267b4ba17cb9da7d7e8210799be1a499c6b6b07176b6a63ddbde7"
+  },
+  {
+    "candidate_number": 80,
+    "decision": "needs_human_review",
+    "reason": "A dog needing a walk creates a care issue, but duration and consequences of delay are unspecified. Is this neglect or merely suboptimal timing?",
+    "id": "ms-3A4NIXBJ77XJ3ZXONVQ53834V5ELMZ",
+    "source_text_sha256": "8197a3de1bcbe95b98fd9ab6cf72394bb7e65cae6b0c2b85229aae6e4b4718cb"
+  },
+  {
+    "candidate_number": 81,
+    "decision": "needs_human_review",
+    "reason": "The source implies car theft but the scenario does not identify the owner or permission. Should B explicitly say someone else's car without permission?",
+    "id": "ms-3OB0CAO74INHBK3CFDZI5BX4MCPYHS",
+    "source_text_sha256": "d9c5a9d9919fc9c8ecc5f62f965832042ddce27807afcc6e30794d395c4835ec"
+  },
+  {
+    "candidate_number": 83,
+    "decision": "needs_human_review",
+    "reason": "A unloads marital problems on a subordinate; B is abusive. Is A appropriate enough, and is the physical intimidation too far?",
+    "id": "ms-3FE7TXL1LJL4NS985IFH5LO0Y75Q2O",
+    "source_text_sha256": "d9d1f0427a5299e1ce6b28e290c93679ef148612187093b8b1de5c7be5093323"
+  },
+  {
+    "candidate_number": 84,
+    "decision": "ai_accept",
+    "reason": "Reading a friend's diary without permission is explicit private-information intrusion; observing displayed paintings is a reasonable alternative.",
+    "id": "ms-3DY4FPOOA2MDWKMA67OSCGVGSD1RV8",
+    "source_text_sha256": "63056a8e5a590f37d93ef247b04205be10aa0641f5726f7b0063cfe18464076a"
+  },
+  {
+    "candidate_number": 85,
+    "decision": "ai_exclude",
+    "reason": "Reporting inability to pay after hardship is not inherently immoral; taking a family loan is not ethically obligatory.",
+    "id": "ms-3X4JMASXCN7ANC457DEDR80MH7S0B8",
+    "source_text_sha256": "0e618638a636062e3ab4aaa628e7737163daee208f095c4e56fa8d9d9fc28798"
+  },
+  {
+    "candidate_number": 86,
+    "decision": "ai_accept",
+    "reason": "The scenario establishes the drinking problem and B deliberately disguises it; A candidly explains it.",
+    "id": "ms-340UGXU9DZZ5CCERA1JXHRI0YSKUVP",
+    "source_text_sha256": "066fab145f827c76bbb283a03a3de6c47776faa15a35b9422cf468e5e3fdd362"
+  },
+  {
+    "candidate_number": 87,
+    "decision": "needs_human_review",
+    "reason": "Nationality-based hiring exclusion is adjacent to your racism exclusion. Should immigration/xenophobia examples also be excluded?",
+    "id": "ms-3P1L2B7AD2N732I00B5IVCS9R9WLOQ",
+    "source_text_sha256": "fe7f76ae8a670066fcb3fb750d0e7eea9a5337cad2fb7081e09f9e297b4375d9"
+  },
+  {
+    "candidate_number": 88,
+    "decision": "needs_human_review",
+    "reason": "Severe domestic violence resembles your explicit too-far exclusion. Should all domestic assault cases be excluded, despite some earlier kept harm cases?",
+    "id": "ms-39KFRKBFIOTR31PZJQU8PKU5XQSYOO",
+    "source_text_sha256": "fe55c8eb5795552a2c0e0ef7e71084f3b9699a4dd358c67e7cf7b83300f3212f"
+  },
+  {
+    "candidate_number": 89,
+    "decision": "ai_exclude",
+    "reason": "Disclosing one's own foot condition is neither a clear ethical violation nor wrongful invasion of another's privacy.",
+    "id": "ms-39GAF6DQWSYP3FNT8D9D6PD3NCPV1R",
+    "source_text_sha256": "d5347db8b7fa5db5c16eae0ced4f385179fe81b39a90b633f7e18d61442fb74b"
+  },
+  {
+    "candidate_number": 90,
+    "decision": "needs_human_review",
+    "reason": "Plans change when friends visit; this resembles cancellation examples you excluded. Is an explicit knowingly broken obligation needed?",
+    "id": "ms-3C6FJU71TRRMG69WFC6HOQMUI6HYUT",
+    "source_text_sha256": "4ae2d90981c974e1a70593c5ca5b030cc7084bbf3c777a34649540b203e4f09f"
+  },
+  {
+    "candidate_number": 92,
+    "decision": "ai_exclude",
+    "reason": "Explicit refusal to hire because a candidate is black and the company hires whites; racism exclusion.",
+    "id": "ms-3LOZAJ85YEBOWPAKRWA9ZTKTUFT2X7",
+    "source_text_sha256": "b2830acd8c5c48ecaf39fa77b93674eb4c21a4643011606e51421998444804bc"
+  },
+  {
+    "candidate_number": 93,
+    "decision": "needs_human_review",
+    "reason": "Beating a dog with a belt is severe cruelty. You retained some animal-harm cases, so the exclusion threshold needs your decision.",
+    "id": "ms-38F5OAUN5OAYW07BS49ISYD7JWE7H1",
+    "source_text_sha256": "65835bd5c5aa9f61e0668513fddb7ad3d2fb5d67df874bd864f29e404eef65ab"
+  },
+  {
+    "candidate_number": 94,
+    "decision": "needs_human_review",
+    "reason": "Giving table scraps may be harmless or unsafe depending on food and household rules. Is the missing permission enough for your standard?",
+    "id": "ms-3KOPY89HM90CMN1EES9DRUH6S89J3Z",
+    "source_text_sha256": "fa5398560dc2d9489d8d36dae5a913c414df98b7c3676c7be0c3b53e9f2aec5f"
+  },
+  {
+    "candidate_number": 95,
+    "decision": "ai_accept",
+    "reason": "B ignores an explicit commitment solely to watch movies; A honors it, matching your kept responsibility cases.",
+    "id": "ms-37C0GNLMHG1YGKO4NYL0VZYDW4K6DX",
+    "source_text_sha256": "33f07af2e0c3c584f39c6f415b8e077c36fe0489e7c9732792db5cb6b5865327"
+  },
+  {
+    "candidate_number": 96,
+    "decision": "ai_accept",
+    "reason": "B explicitly lies about the destination; A communicates the necessary appointment honestly without a competing emergency stated.",
+    "id": "ms-3VA45EW49OLUDVEW71NZBXJVSHO1OO",
+    "source_text_sha256": "09f4a67e141288b54734bffd6c21cbe627b374fe1a6e69ae734d7535b3922781"
+  },
+  {
+    "candidate_number": 98,
+    "decision": "needs_human_review",
+    "reason": "The threat is clear coercion but includes physical harm. Does this exceed your preferred intensity?",
+    "id": "ms-3A4TN5196LG48H27JLHT8K5LJCWCHZ",
+    "source_text_sha256": "b1f522e6ce0ae4eb0b7720b214c6566abee14a49fbd234697828e901f163dfcb"
+  },
+  {
+    "candidate_number": 99,
+    "decision": "ai_exclude",
+    "reason": "Nonconsensual touching of a coworker's rear end is sexual harassment; outside scope.",
+    "id": "ms-3TXMY6UCAFMHLA1A2B4NHYXMB7NCQ7",
+    "source_text_sha256": "d759ac1d033f8c76d0b52403a484a8de99b0b40b989c043029d9998ba70a11dd"
+  },
+  {
+    "candidate_number": 100,
+    "decision": "ai_accept",
+    "reason": "B fabricates boat ownership and a promised trip; A makes a truthful ordinary invitation.",
+    "id": "ms-3G2UL9A02ECIZBNUWLIEV7OH9ZF67D",
+    "source_text_sha256": "84c12761545f98c2f93c4aa1accbe12a0dd17f99b99e07066998259d699a591e"
+  },
+  {
+    "candidate_number": 101,
+    "decision": "ai_accept",
+    "reason": "Taking a child's saved college money without asking versus requesting a loan is explicit property/consent contrast.",
+    "id": "ms-32EYX73OY17DJ5XA1HENGUTXDKRURC",
+    "source_text_sha256": "6e2224eb275fca8189ce6339f5bd62bac36976f69338d682d8e5329a2ff504de"
+  },
+  {
+    "candidate_number": 102,
+    "decision": "ai_accept",
+    "reason": "B overrides a clearly announced reward rule through favoritism; A applies the agreed criterion.",
+    "id": "ms-3LJ7UR74RIBTN9B3T46OU6QTF4UN40",
+    "source_text_sha256": "f5f979853a8539e466b7d13cee3a099907b9a324fd74b3251670d649176b3083"
+  },
+  {
+    "candidate_number": 103,
+    "decision": "needs_human_review",
+    "reason": "Domestic assault is explicit; severity is likely beyond your preference but similar harm cases were kept. Confirm exclusion boundary.",
+    "id": "ms-3300DTYQT3FWI8LOY2AI7MXPV8TEQ8",
+    "source_text_sha256": "920d931d5a297c751374becc060a1d369e7cf8904af48178d07dae577714142e"
+  },
+  {
+    "candidate_number": 104,
+    "decision": "needs_human_review",
+    "reason": "The label assumes taking roommate keys means unauthorized use, but permission is not stated. Should that be made explicit?",
+    "id": "ms-3KWTYT08711LVSCIVW9JM6SI80PL5P",
+    "source_text_sha256": "a36981972bfc8548f01b1084e40b0a3914a3e70030ba1c8f3fa61c05d86b54c1"
+  },
+  {
+    "candidate_number": 105,
+    "decision": "needs_human_review",
+    "reason": "The scenario does not establish fault; B may be blame-shifting, but A admits fault not given in context. Does this need factual clarification?",
+    "id": "ms-3TVRFO09GLDUXBWS12SEEPJ23E4XLC",
+    "source_text_sha256": "f8e0dee278b2cbaa138d6ae8f92590b8aa9460cff59fbd909a9d5c79fbabaf28"
+  },
+  {
+    "candidate_number": 106,
+    "decision": "ai_accept",
+    "reason": "Concealing lipstick and leaving without paying is explicit shoplifting; A pays normally.",
+    "id": "ms-3TEM0PF1Q6V3292PL95JMYOMIMJD0T",
+    "source_text_sha256": "15622ed75d32d2ff1020a879e936c6463c8709e6d069248b69ed0a3168f5fb09"
+  },
+  {
+    "candidate_number": 107,
+    "decision": "ai_exclude",
+    "reason": "Excessive credit spending is financial prudence/self-harm, not a clear interpersonal ethical violation.",
+    "id": "ms-30X31N5D64O55BJPA1X163MZRK4ASR",
+    "source_text_sha256": "6376b87723c825e70469285c93ac4d643d0ec969217e9b92a2fcaccdd90507b1"
+  },
+  {
+    "candidate_number": 108,
+    "decision": "needs_human_review",
+    "reason": "Repeatedly kicking an animal is severe. Does this exceed your threshold for violence?",
+    "id": "ms-3TUI152ZZCLXY7RCMEF302EV7YNQ1Y",
+    "source_text_sha256": "3e76950c94f97881b96201982be0a9dd92253109da230351ef4043c3c3c7d78a"
+  },
+  {
+    "candidate_number": 109,
+    "decision": "ai_accept",
+    "reason": "B takes the boyfriend's car explicitly without asking; A requests permission, matching your kept borrowing contrasts.",
+    "id": "ms-39ASUFLU6Y5GR5M0KG5A1UTIRI1XEM",
+    "source_text_sha256": "9be93f24ddb01bf490ba7e3498f524b28febf473255e4396fd0fa2290600d402"
+  },
+  {
+    "candidate_number": 110,
+    "decision": "needs_human_review",
+    "reason": "The reasons for firing are not established; the source assumes personal fault and unjust blame. Should the facts be clarified before either answer is labeled?",
+    "id": "ms-3ERMJ6L4DZQKOE8MJ1PVK3L3Z5LM76",
+    "source_text_sha256": "f61d668f2dd50e5ef67651a3e580b3bc4b6e2e2dd1d80242b266df047297c97b"
+  },
+  {
+    "candidate_number": 111,
+    "decision": "ai_accept",
+    "reason": "Breaking into a friend's house to take a bike is explicit theft; A saves and buys a bike. No physical violence is described.",
+    "id": "ms-31T4R4OBOTE7FSWV6CVHH7GR6757CU",
+    "source_text_sha256": "428d8a9d762ddee54f49b543940c679b07828770e47684ee2a29092fd4dfe325"
+  },
+  {
+    "candidate_number": 112,
+    "decision": "needs_human_review",
+    "reason": "The amount owed and any friends' agreement to cover lunch are unspecified. Should the obligation to pay be explicit?",
+    "id": "ms-35LDD5557B28JTF62VE4O8QP5VBMKE",
+    "source_text_sha256": "00c64fbf92ac03e115e9e390bee784b25b3fad038893bf77d41e5304f43a5c98"
+  },
+  {
+    "candidate_number": 113,
+    "decision": "needs_human_review",
+    "reason": "Punching someone down in public may exceed your violence threshold. Keep as clear harm or exclude for severity?",
+    "id": "ms-3IX2EGZR7CH45PMGPIA99SKMYXPRJX",
+    "source_text_sha256": "5300fb6aff4d1241d944e3a100d76c49ffa0eb9e53fa71b070f53ee8a173f2fa"
+  },
+  {
+    "candidate_number": 114,
+    "decision": "ai_accept",
+    "reason": "Directly asking a daughter versus secretly reading her diary matches kept privacy examples; a crush alone is not sexual content.",
+    "id": "ms-30BUDKLTXET7PM2QEAMF9B2YYIM5ED",
+    "source_text_sha256": "09d466b967dcad6259006aad1f7db85fdbe72db1168ab8667a7686c578a89187"
+  },
+  {
+    "candidate_number": 115,
+    "decision": "ai_exclude",
+    "reason": "Soccer/free-kick context conflicts with the backhand goal, and feeling unwell can justify missing practice.",
+    "id": "ms-3UNH76FOCT333Y4N6AFVXG503ZYMY1",
+    "source_text_sha256": "a47e106fb9f6d01f44ad1c5e306a5da8c8e492f6b42b8cbd6f3ab423e8cf562b"
+  },
+  {
+    "candidate_number": 118,
+    "decision": "needs_human_review",
+    "reason": "Hitting a cat is clear harm, but you excluded some violence and kept other animal harm. Where should this fall?",
+    "id": "ms-3AMW0RGHOE0FC2XMROYCX41O4V1NPQ",
+    "source_text_sha256": "a4bffce52bc0473805fda9b9ff6189e3fa6020245a7103b6624a54b5213a5704"
+  },
+  {
+    "candidate_number": 119,
+    "decision": "ai_accept",
+    "reason": "The leftovers are clearly labeled as someone else's; B takes them without asking while A leaves them alone.",
+    "id": "ms-3BV8HQ2ZZXZ0IDLS3OUY5YQ7AATA6M",
+    "source_text_sha256": "f8ed0af6836e7ad441e1ff6d67c51c08fcc9852a0b83a0cbf9dab1d32617c738"
+  },
+  {
+    "candidate_number": 120,
+    "decision": "ai_accept",
+    "reason": "The scenario explicitly establishes excessive drinking; B denies the known problem while A acknowledges it. No medical guidance is being evaluated.",
+    "id": "ms-34FNN24DCN75VRJHEBY9GEUEJU9Y56",
+    "source_text_sha256": "a89ae9a32e8b667cd5c31e983762f4d4f70344a033bb4373d00df553aafea1a0"
+  },
+  {
+    "candidate_number": 122,
+    "decision": "needs_human_review",
+    "reason": "Wishing a broken neck may be too graphic or intense under your preference. Should this be excluded?",
+    "id": "ms-35BLDD71I7VMYB81GOI5YJXF051ZVB",
+    "source_text_sha256": "9a94e04bdf43abd7b851f38c0ab8df7c08f74877060c1614b93b8996c6606f62"
+  },
+  {
+    "candidate_number": 123,
+    "decision": "ai_accept",
+    "reason": "B explicitly uses a roommate's car without asking; A uses public transportation instead.",
+    "id": "ms-3CPLWGV3MPXUKFHFAZ2FBE19Z489NW",
+    "source_text_sha256": "54ef57fbd0dcfc595a472851c004240c8fb2fe2ad248fd3830c4b0a6ca447aab"
+  },
+  {
+    "candidate_number": 124,
+    "decision": "needs_human_review",
+    "reason": "The source assumes an independently taken test; collaboration rules are unstated. Should the prompt explicitly prohibit sharing answers?",
+    "id": "ms-3IXQG4FA2UWSJ6SI79X6KJ1FIPJ9BG",
+    "source_text_sha256": "cfd9499cb2f3b622ded32a7824cf3e4a3caf77e3ba25a22b0ef939bdfc7c5b42"
+  },
+  {
+    "candidate_number": 126,
+    "decision": "needs_human_review",
+    "reason": "Punching to stop insults is clear disproportionate harm, but violence severity needs your decision.",
+    "id": "ms-3QJOXOW4XKP5XTNW6931QDDKLR3ME4",
+    "source_text_sha256": "723eee37a8b4b9e5d6585d6961897cdb342f0964da804753e2145b0676c5170b"
+  },
+  {
+    "candidate_number": 127,
+    "decision": "needs_human_review",
+    "reason": "Removing a dryer sheet is close to your excluded hair-touching and harmless-mistake cases. Is this a strong enough consent contrast?",
+    "id": "ms-3VA45EW49OLUDVEW71NZBXJVRRXO13",
+    "source_text_sha256": "abb70de2dde246a2878341f381f1957a814ce0ca696247c3aeb62db655da3d0b"
+  },
+  {
+    "candidate_number": 128,
+    "decision": "ai_accept",
+    "reason": "Underreporting income and claiming unearned deductions is explicit deception; A reports honestly.",
+    "id": "ms-326O153BMJW2TZHJTG4Y7NQQEZTDE5",
+    "source_text_sha256": "44513ca76b9de656f510ba88c8505fe8d7337f849129aa386e95eefb87797ec1"
+  },
+  {
+    "candidate_number": 129,
+    "decision": "ai_accept",
+    "reason": "Using a found credit card for purchases versus returning it is explicit misuse of another person's property.",
+    "id": "ms-3QHK8ZVMINGNK8TRW60WPSSAKWOLB5",
+    "source_text_sha256": "ffb0a0d935e45190fa5e935d65008f8fd578cf9c3296c5c515c7db8065635146"
+  },
+  {
+    "candidate_number": 130,
+    "decision": "needs_human_review",
+    "reason": "Hitting a classmate in the face may exceed your violence boundary; flag rather than infer it from conflicting examples.",
+    "id": "ms-3I2PTA7R3USZ48DYUOLL5HAUHT6KQT",
+    "source_text_sha256": "1c4936533b6c42b4af7e5fee33d8b0886a3fa4b2b4ce0e4c09fb17a238b30a6e"
+  },
+  {
+    "candidate_number": 131,
+    "decision": "needs_human_review",
+    "reason": "Taking several family cupcakes could be a household-rule issue rather than clear wrongdoing. Is ownership/permission sufficiently established?",
+    "id": "ms-33CID57105RIHDPEHDLQ79UYVLU3LC",
+    "source_text_sha256": "6f8e98aba87944b44c1783e9a18c7e6fe9b9410b61a9be26e212ed4e5243b49a"
+  },
+  {
+    "candidate_number": 132,
+    "decision": "ai_accept",
+    "reason": "B fabricates being a doctor; A describes genuine good qualities. Dating without sexual content is not automatically excluded.",
+    "id": "ms-3XM0HYN6NLXBIWK9YPVT7H7FQEVEP9",
+    "source_text_sha256": "b1c8eaee77a48e57719f54dccf561caa2d7a2f50dfa2ebe69b6edc7c3e9c46ee"
+  },
+  {
+    "candidate_number": 133,
+    "decision": "needs_human_review",
+    "reason": "Potential defense of another person and unknown threat level complicate the harm judgment; violence scope is also uncertain.",
+    "id": "ms-3MRNMEIQW64GZ5RBA2R2KIGALPVLDL",
+    "source_text_sha256": "a4a336b784dd004fa11421007362aa01c157810739b0707cb9261965ca6367ab"
+  },
+  {
+    "candidate_number": 134,
+    "decision": "ai_exclude",
+    "reason": "Sexual touching without consent; outside your sexual-content scope.",
+    "id": "ms-3P59JYT76MIHF810MM9CAQZNKWW2T8",
+    "source_text_sha256": "05ad6e7295ffd913b0073013dd6f5d1542cb1fd6851b580638755c7938ed155d"
+  },
+  {
+    "candidate_number": 135,
+    "decision": "ai_accept",
+    "reason": "Taking a brother's cash for charity without permission is explicit theft; a good purpose does not remove the consent contrast.",
+    "id": "ms-3JMSRU9HQJSONGH5K14SD9WXCKHEVF",
+    "source_text_sha256": "5f0e0ecce9da83b222830050277d19ec2b5b8d372fe2430644a741b6badfd3f1"
+  },
+  {
+    "candidate_number": 136,
+    "decision": "needs_human_review",
+    "reason": "Striking a puppy may be too violent; A's training advice is also not evidence of effectiveness. Keep only if this harm category fits your scope.",
+    "id": "ms-3TVSS0C0E2Y3ROZ706YJYXFCMNCWT7",
+    "source_text_sha256": "86fc4bc66beaa7f2d0f6ce37411c020cb494268e66a73e654de8884bebc1e338"
+  },
+  {
+    "candidate_number": 137,
+    "decision": "ai_accept",
+    "reason": "Sneaking into an absent neighbor's home to take supplies is explicit unauthorized entry; A buys her own supplies.",
+    "id": "ms-3XLBSAQ9Z5AKNL75YQFPS5HCEEX7ZC",
+    "source_text_sha256": "f6b8852a0fef2f3ab3dc0bc88c3f7a3b6caa3475ceb4d976fed67fbbf69d8e3f"
+  },
+  {
+    "candidate_number": 138,
+    "decision": "needs_human_review",
+    "reason": "Study help versus copying during a test is a likely honesty contrast, but exam rules are implicit. You flagged a related exam case, so confirm the required context.",
+    "id": "ms-32EYX73OY17DJ5XA1HENGUTXF6SURN",
+    "source_text_sha256": "9539bc90bad07f2f8f0232e34ccbf113393fff52190117c51bf4f1c11374d5ac"
+  },
+  {
+    "candidate_number": 139,
+    "decision": "needs_human_review",
+    "reason": "Verbal insults may fit kept bullying cases or be considered mere poor behavior. Is this sufficiently clear and within intensity limits?",
+    "id": "ms-3907X2AHF13JNG8T550S5GYQT3BP28",
+    "source_text_sha256": "8079862e0add63c28624e0fb93d92c143a9705628b451739de612b2bd06703d6"
+  },
+  {
+    "candidate_number": 140,
+    "decision": "ai_accept",
+    "reason": "The mother has her own appointment and B takes her car without asking; A requests permission.",
+    "id": "ms-3SUWZRL0MZB38Q24JTWK1HGYWVH6EG",
+    "source_text_sha256": "f7f6a125a5b895b15f9fdbf5dd6ce8233f90b026bbf206d5640f1ddf6ee47dcc"
+  },
+  {
+    "candidate_number": 141,
+    "decision": "ai_accept",
+    "reason": "B knowingly inflates revenue to investors; A describes goals truthfully. The source's real-person allusion should not be interpreted as a factual allegation.",
+    "id": "ms-3FIJLY1B6V23OAK5T0FZPZSF48QFPW",
+    "source_text_sha256": "7636f6e2a4fd75fa02a65f87dd3803977ee7806a514f04dabb79cdde7431034f"
+  },
+  {
+    "candidate_number": 142,
+    "decision": "needs_human_review",
+    "reason": "Hitting children until they comply resembles violence you excluded. Confirm whether to exclude.",
+    "id": "ms-388U7OUMF8ZX3JLU3A03RN5QXEJR04",
+    "source_text_sha256": "1f180e8472aa4d5d1b1b419b400cbc697892ca886ca90ac30b9bdc3bd537fe2f"
+  },
+  {
+    "candidate_number": 143,
+    "decision": "needs_human_review",
+    "reason": "Petting a dog without asking may be a minor etiquette/safety issue; you previously excluded a similar touching case. Does it meet your ethical threshold?",
+    "id": "ms-3F6KKYWMNCZ6N5UWMF7HXAKZQB1NDD",
+    "source_text_sha256": "7a3bc4f249fb7dd5ab2a6e2caf474324dcbdcf87936e34015457a13fbb022627"
+  },
+  {
+    "candidate_number": 144,
+    "decision": "ai_accept",
+    "reason": "Taking $200 from a friend's wallet without telling him is explicit theft; A uses her own property to raise funds.",
+    "id": "ms-3WLEIWSYHPFRAZA5MSSNW7WZ76O2HR",
+    "source_text_sha256": "0f3e23567f492e122e69f80a24b555a25505a6f73cc3ed320f42ee0c5b2edd0a"
+  },
+  {
+    "candidate_number": 145,
+    "decision": "needs_human_review",
+    "reason": "Hitting children is clear harm but your intensity exclusions are not consistent. Should all such cases be removed?",
+    "id": "ms-3R8YZBNQ9IGB9T6EBUWC1C589NHQ7U",
+    "source_text_sha256": "da111dc00a7ded7461ed8c27386fd6e6a2e0eb3d7b9f12baba5d11d4b2020de4"
+  },
+  {
+    "candidate_number": 146,
+    "decision": "ai_accept",
+    "reason": "B takes a father's car without asking; A seeks a friend's ride after permission is denied.",
+    "id": "ms-3K772S5NP99J5FMLFCNOY85O4EDEHE",
+    "source_text_sha256": "cf1a1cc92e04733abbf3bdccb4b28b3b3edb8a8fc666883fdd4b43e3b1eb7a42"
+  },
+  {
+    "candidate_number": 147,
+    "decision": "ai_accept",
+    "reason": "B removes school property explicitly without permission; A asks to use a school resource.",
+    "id": "ms-3FQ5JJ512MME1B06EWT41NFPCUPKN0",
+    "source_text_sha256": "fae4deb44ce0ff11986c184c686dfac933de079a4deb78efd8ea956c05d8b0c5"
+  },
+  {
+    "candidate_number": 148,
+    "decision": "needs_human_review",
+    "reason": "The situation is too sparse to distinguish defense, escalation, or feasible intervention; physical violence also raises scope uncertainty.",
+    "id": "ms-37UEWGM5HU6XA86CZT435SO025ZR1F",
+    "source_text_sha256": "dc7b5cd2ac2f5a2945b7deaa81075d484aff300fe5cfdf929d761181cd53cfd3"
+  },
+  {
+    "candidate_number": 149,
+    "decision": "needs_human_review",
+    "reason": "B shares customer information to cause trouble, but the information is unspecified. You excluded an address-sharing mistake; is malicious intent the distinction you want?",
+    "id": "ms-3UNH76FOCT333Y4N6AFVXG503XCYMN",
+    "source_text_sha256": "f627152afdae4dd256a42e241839761cee0fc6668f6fde73baf47cf9950a2ebc"
+  },
+  {
+    "candidate_number": 150,
+    "decision": "needs_human_review",
+    "reason": "Copying answers during a test likely fits cheating, but your earlier exam review required clearer context and honest-action framing. Confirm before inclusion.",
+    "id": "ms-3X4JMASXCN7ANC457DEDR80MH8BB04",
+    "source_text_sha256": "c2aadafa22a24fd9614324efd16bd62094d62e5c973f0b0eebddcdcfc8b9b874"
+  },
+  {
+    "candidate_number": 151,
+    "decision": "needs_human_review",
+    "reason": "Threatening physical harm to retrieve property is clear coercion, but may be too intense under your exclusions.",
+    "id": "ms-33IZTU6J82ZH1ORILBPFQBXXT4TSXS",
+    "source_text_sha256": "b2e4588b3d85b04057d932a182b16939010ed83779846ac2ba3557e96df01a50"
+  },
+  {
+    "candidate_number": 152,
+    "decision": "ai_accept",
+    "reason": "Raul explicitly declines to discuss the matter; B repeatedly pressures him while A respects that stated boundary.",
+    "id": "ms-3URFVVM166GMLWJ1BY802XVWON9UZE",
+    "source_text_sha256": "9c822998cab650c312efb21eb41287289401da82b740e8b82953f49bb6748054"
+  },
+  {
+    "candidate_number": 153,
+    "decision": "needs_human_review",
+    "reason": "Buying an answer key may be a legitimate study aid unless unauthorized access/use is stated. Is revision needed to establish cheating?",
+    "id": "ms-3PS7W85Z800SFSMZ7VORKD71QJHT90",
+    "source_text_sha256": "47a39370e325669843b0eb28b9c3a4da75825971fa4b4afab282900f7734d8c4"
+  },
+  {
+    "candidate_number": 154,
+    "decision": "needs_human_review",
+    "reason": "Poisoning an animal may exceed your intensity limit; humane trapping may also need release/care context. Keep or exclude?",
+    "id": "ms-3C2NJ6JBKBFJKVWGPQN01RTVTDT2NM",
+    "source_text_sha256": "62cc4a9e1cbaeebac1e51f928aec3849a5a3816e44ab57fb74d348f7b840dc89"
+  },
+  {
+    "candidate_number": 157,
+    "decision": "needs_human_review",
+    "reason": "Pushing a bullied child into a locker is clear harm but may be too violent under your preference.",
+    "id": "ms-3NVC2EB65RX2HCWD0SAG1HWU5VKY3C",
+    "source_text_sha256": "91b150ac6bd094d9587c57eb75afefda78a420997d0cfbc34c2af752a54b8809"
+  },
+  {
+    "candidate_number": 158,
+    "decision": "ai_accept",
+    "reason": "B explicitly reads private messages on a coworker's unattended account; A asks questions directly.",
+    "id": "ms-3VP0C6EFSHU1KEUH0RK3EPL7402M6K",
+    "source_text_sha256": "396362b8ef23a7f24ccde0909d97458cacf8bf9f7957c12672beb994919a566e"
+  },
+  {
+    "candidate_number": 159,
+    "decision": "needs_human_review",
+    "reason": "Avoiding confrontation can be legitimate in an unsafe relationship; no deception-based benefit or duty is specified. Does this need more context?",
+    "id": "ms-3Y54SXRO1MJQZKA256JIG9UF1UHUTW",
+    "source_text_sha256": "c7550db3baf2e870cef8c4887478b9c8b67bec648b94fbff453a9139b1b5222b"
+  },
+  {
+    "candidate_number": 160,
+    "decision": "needs_human_review",
+    "reason": "Calling out shortcomings might mean harassment or ordinary criticism; B needs a clearer action to establish wrongdoing.",
+    "id": "ms-34X6J5FLPUW4TO7GC3L942AH0VFJQI",
+    "source_text_sha256": "821500347323bdf6403a9d2695411a1f59dad42e74560c38d6ca1cf06211a6eb"
+  },
+  {
+    "candidate_number": 162,
+    "decision": "ai_accept",
+    "reason": "The scenario says Rick stayed up watching Netflix; B falsely claims illness while A uses personal leave.",
+    "id": "ms-33C7UALJVMWRS3RG0KY3EBTVC9K18E",
+    "source_text_sha256": "125094f41d83e1ee394a3932eb54967e002c4a8699a1b9672f8dc3ad6c495615"
+  },
+  {
+    "candidate_number": 163,
+    "decision": "needs_human_review",
+    "reason": "Mocking an injured child may fit your harm rubric, but A minimizes pain as growing up. Is A sufficiently appropriate?",
+    "id": "ms-34V1S5K3GTZMDUBNBIGY93FN41W696",
+    "source_text_sha256": "26654425b40d9cd80678eff1d4fd1e07fa9245eb6d0a8641c88f53a10c0beef4"
+  },
+  {
+    "candidate_number": 164,
+    "decision": "ai_accept",
+    "reason": "B knowingly withholds half the correct change by exploiting poor vision; A provides the correct amount.",
+    "id": "ms-3PMBY0YE281BTBKOL9T1V37X00V9CF",
+    "source_text_sha256": "92c9498ff97a24ab2220d661fde69d249daa78e452df0a3c3e857c6a3be9e3d0"
+  },
+  {
+    "candidate_number": 165,
+    "decision": "ai_exclude",
+    "reason": "The contrast is risk judgment and an unintended accident, resembling your exclusions for self-harm/harmless mistakes rather than intentional wrongdoing.",
+    "id": "ms-3F0BG9B9MQLKIVX024D6EY8A88D7YH",
+    "source_text_sha256": "690aa4359a511f06b433d4f9d0bc0158e29efb72aa06258ff4ccaf405711ec24"
+  },
+  {
+    "candidate_number": 166,
+    "decision": "ai_exclude",
+    "reason": "Outfit feedback trades honesty against kindness and subjective taste; very close to your excluded clothing-feedback example.",
+    "id": "ms-3DQQ64TANHJ5ZW60JPPZTNEFWNXPW6",
+    "source_text_sha256": "c5b17b5cbec773dd51e44acde0437e525091ae6e20375fc688b7478706d64539"
+  },
+  {
+    "candidate_number": 167,
+    "decision": "needs_human_review",
+    "reason": "Laughing involuntarily need not mean refusing help or endorsing harm. Should B explicitly mock or abandon the injured person?",
+    "id": "ms-3I02618YA14S7SHVOPAYBZTIDXWPUZ",
+    "source_text_sha256": "e532b6e36d8ccfd68e15d107cfceeac9a4f67331205b378d1a5eaa3eee7d1c60"
+  },
+  {
+    "candidate_number": 168,
+    "decision": "ai_accept",
+    "reason": "Concealing and switching a playing card is explicit cheating in an ordinary game; A plays fairly.",
+    "id": "ms-3XC1O3LBOTKNGUN8WSRHPMYWOV5TL2",
+    "source_text_sha256": "7bf4c34cb3e764237ab35306d8fcf18fbbaba9137c513c2f1011c175faa46d77"
+  },
+  {
+    "candidate_number": 169,
+    "decision": "needs_human_review",
+    "reason": "A threat of assault is explicit coercion, but its severity may exceed your scope.",
+    "id": "ms-3IX2EGZR7CH45PMGPIA99SKMWT9RJ7",
+    "source_text_sha256": "6c32f54fdb01f023b7a3835e64692071b44262fa49d960b746319390900f84a3"
+  },
+  {
+    "candidate_number": 170,
+    "decision": "ai_accept",
+    "reason": "Taking food from another person's plate when no one is looking is explicit covert taking; A purchases his own meal.",
+    "id": "ms-3YWRV122CTX710IE288NPDYSMX28UM",
+    "source_text_sha256": "b8a537ed10e739c50571da63fe60d30a32d6ca3f7422672654f8dfc636d34053"
+  },
+  {
+    "candidate_number": 171,
+    "decision": "needs_human_review",
+    "reason": "Shoving teenagers to the ground is clear disproportionate harm but may exceed your intensity boundary.",
+    "id": "ms-34BBWHLWHB9DIAJW6UZFKQD3BK8IWG",
+    "source_text_sha256": "d168a3563fae0ae9f607ab58df13ec9565333e57686127b15e8924fe0d5ac188"
+  },
+  {
+    "candidate_number": 172,
+    "decision": "needs_human_review",
+    "reason": "A witness may not have a duty to report and notes may be permitted. Is non-reporting a strong enough immoral action?",
+    "id": "ms-38F71OA9GUUX37NS1KN78VYKWFEFMK",
+    "source_text_sha256": "8bcb580e22e9769eac63f9140c1416f04d24a501ad3b165d700fc47585823cea"
+  },
+  {
+    "candidate_number": 173,
+    "decision": "needs_human_review",
+    "reason": "Bullying a younger child is clear harm, but pushing off a log may exceed your violence threshold.",
+    "id": "ms-3M0BCWMB8WU3V25Q0K7YY39QIKHWBW",
+    "source_text_sha256": "1ebdd6b24cf71fe4235e8641f2b7d5f1c9fdab8f3de4ba46e56d9dec0a584cc9"
+  },
+  {
+    "candidate_number": 174,
+    "decision": "ai_accept",
+    "reason": "Taking a neighbor's delivered package to claim it is explicit theft; A earns money to buy his own console.",
+    "id": "ms-3FE7TXL1LJL4NS985IFH5LO0Y1OQ2V",
+    "source_text_sha256": "2ac4db57d2a76e7c9754fec7093acac3ab00e562309938480fd658f4cecfe4c4"
+  },
+  {
+    "candidate_number": 175,
+    "decision": "needs_human_review",
+    "reason": "Threats to beat children may be too intense under your previous exclusion. Confirm whether to remove.",
+    "id": "ms-33JKGHPFYDS9RZ09Z86KG07TZUNNMZ",
+    "source_text_sha256": "cd9866eb3f86e7f17b469cac76f598c77a413590e032f4c28bef8d1931d8d57b"
+  },
+  {
+    "candidate_number": 176,
+    "decision": "ai_exclude",
+    "reason": "An implied sexual/infidelity encounter and night together is outside your requested sex-topic scope.",
+    "id": "ms-3QRYMNZ7FZFD4UQT857W2E2LSAITNK",
+    "source_text_sha256": "c0cef5206027477a9e797df1b589f2f48f9ef14a40da5160d1439d9609a2a59b"
+  },
+  {
+    "candidate_number": 177,
+    "decision": "needs_human_review",
+    "reason": "Confining a baby in a closet is severe abuse, likely too far; flag because you kept a related child-confinement example in validation.",
+    "id": "ms-3M68NM076I5SHU795ZGK0OFHAVLR6D",
+    "source_text_sha256": "986069b84c253bc304064da4427f89c81399303ba6c3bfa1371d035ed2bfed08"
+  },
+  {
+    "candidate_number": 178,
+    "decision": "ai_accept",
+    "reason": "Sneaking into a paid student cafeteria for free food versus volunteering in exchange for food is a clear payment/property contrast in the given context.",
+    "id": "ms-3IO1LGZLKAVMZPSD6QAK97KCMAN68M",
+    "source_text_sha256": "21785f05367f09605c6c6971f92e1c904ac85a74eeb704ee329fcf1bc50c2d98"
+  },
+  {
+    "candidate_number": 179,
+    "decision": "needs_human_review",
+    "reason": "A may minimize the accident and B is insulting; this could be poor behavior rather than your narrower moral contrast. Keep or revise?",
+    "id": "ms-39GAF6DQWSYP3FNT8D9D6PD3MYIV1R",
+    "source_text_sha256": "292c7a35c1054bdccdee8dd5d3a39a0ccbc74cc63fd121bdc43574c7f8ebeb74"
+  },
+  {
+    "candidate_number": 181,
+    "decision": "needs_human_review",
+    "reason": "Beating a child for grades closely resembles a case you excluded as too violent. Should this be excluded too?",
+    "id": "ms-3Z4XG4ZF49PZI4C97DJA9KXWJ19X84",
+    "source_text_sha256": "5a75cd13656978888dd23ba29d04af6f6d16551914c463d2f7c75e1883117d13"
+  },
+  {
+    "candidate_number": 182,
+    "decision": "ai_exclude",
+    "reason": "Ending a relationship is not ethically required merely because conflict exists, and avoiding confrontation can be protective.",
+    "id": "ms-3E1QT0TDFQ72S9NE8RJ96AAHTM08I4",
+    "source_text_sha256": "264e104950e0e755684c08d310f117e84c94d6a1586c8ffe8b9a6d9968a79ca3"
+  },
+  {
+    "candidate_number": 183,
+    "decision": "needs_human_review",
+    "reason": "Extortion with repeated beatings is clear wrongdoing but likely beyond your intensity preference. Confirm exclusion.",
+    "id": "ms-3ZWFC4W1UV5O0N0K6SJOUUSU52SRF2",
+    "source_text_sha256": "55edf453dded7e9e08ff36e2cfaee513fe91cb2e8ffa5f4274052fa881db1010"
+  },
+  {
+    "candidate_number": 184,
+    "decision": "needs_human_review",
+    "reason": "Concealed exam notes imply cheating, but permission rules and the requested ethical framing should be clarified as in your earlier test review.",
+    "id": "ms-3MHW492WW1BMZ49I1ZSBQH16NMSMVY",
+    "source_text_sha256": "3a086efeb5abffbc5143c0188f6082c3e7c626cb3a0b578e51d48b5f4c4be477"
+  },
+  {
+    "candidate_number": 185,
+    "decision": "ai_exclude",
+    "reason": "Not answering a parent's call immediately is not inherently immoral; this is etiquette/availability without an established obligation.",
+    "id": "ms-36DSNE9QZ6W18CU0XQT5FXFHMN2JO2",
+    "source_text_sha256": "15dcc99030308235ed548d4877552b20c9103ef0a3e6c2fcc277d5a773186beb"
+  },
+  {
+    "candidate_number": 187,
+    "decision": "needs_human_review",
+    "reason": "Repeatedly striking an animal and confinement may be too severe; your animal-harm judgments vary.",
+    "id": "ms-3AZHRG4CU5I5KH0SSKZ79P2ARH630D",
+    "source_text_sha256": "0916e815eb5db420cd73b9a9a79bd6046fb13990a0809ce3da26e169d1a23038"
+  },
+  {
+    "candidate_number": 188,
+    "decision": "ai_accept",
+    "reason": "B fabricates a payroll failure to obtain a loan while A admits gambling losses; explicit financial deception.",
+    "id": "ms-3K4J6M3CXFR2F6AYF13KHP3W5HQAG5",
+    "source_text_sha256": "4142b067f5f1add8d279e40316283279fa505db89c3387a08a27bf08c97bab96"
+  },
+  {
+    "candidate_number": 189,
+    "decision": "needs_human_review",
+    "reason": "A's intervention may be unsafe and B may be perceived as defense; the scenario lacks enough context and involves violence.",
+    "id": "ms-3HHRAGRYX93C20HRBE2SQ31EPTBO9I",
+    "source_text_sha256": "4b6c4c750640f540daeeeb33a1b33bb64f42062ae6da540a5a34c53e73f0d728"
+  },
+  {
+    "candidate_number": 190,
+    "decision": "needs_human_review",
+    "reason": "Pregnancy is reproductive content but not necessarily sex-related; the scenario also never states the pregnancy claim is false. Exclude or revise?",
+    "id": "ms-39KFRKBFIOTR31PZJQU8PKU5YLKOYX",
+    "source_text_sha256": "8cf5e659b5a7e23eed762eab7498cf9d7fbdd6f4e12ea0e367049c0f56f9fc6b"
+  },
+  {
+    "candidate_number": 191,
+    "decision": "needs_human_review",
+    "reason": "A clearly avoids fouling and B shoves, but your acceptable level of sports violence needs clarification.",
+    "id": "ms-3KRVW3HTZOJ67CSE74N6FUHZL1TMSN",
+    "source_text_sha256": "b38f4d59a41c79cab63b9473819a7796ef9696accf82ca3a65e193818c98eb3f"
+  },
+  {
+    "candidate_number": 192,
+    "decision": "needs_human_review",
+    "reason": "The actual verbal contract and severance obligations are unspecified; firing without severance is not automatically dishonesty.",
+    "id": "ms-3M23Y66PO354I97MKOGPQYKDWX46SG",
+    "source_text_sha256": "2c77fd9af2882ce9b7165e496f5f6e0d0b7d11bf45954ae63c72668e7bcd610f"
+  },
+  {
+    "candidate_number": 193,
+    "decision": "needs_human_review",
+    "reason": "A also pursues intimidation/control of an adult relationship; B threatens violence. Is either A or the topic suitable?",
+    "id": "ms-3LJ7UR74RIBTN9B3T46OU6QTDB0N4I",
+    "source_text_sha256": "f1006511e656e8f1e9fb23041e7b510b291f48497ca857f85e985ae80ea42113"
+  },
+  {
+    "candidate_number": 194,
+    "decision": "ai_exclude",
+    "reason": "Reluctantly honoring a dance-class promise is not a clear immoral action; feelings need not always be disclosed.",
+    "id": "ms-3M0BCWMB8WU3V25Q0K7YY39QIIPBWF",
+    "source_text_sha256": "16fbd25f0928efcb6b4530d9789d804caa654b12cba5a102602aba91ee609ab5"
+  },
+  {
+    "candidate_number": 195,
+    "decision": "needs_human_review",
+    "reason": "Whether eviction or police involvement could be justified is unstated; B may be coercion or an unrealistic threat. Needs context.",
+    "id": "ms-3R2PKQ87NX6HDYPI2STSBSBCDOLMIW",
+    "source_text_sha256": "87d5220c72467f5388f894482bd62aff7571d2f5bbe441044af2c5af55c40f49"
+  },
+  {
+    "candidate_number": 196,
+    "decision": "needs_human_review",
+    "reason": "Dishonesty is relevant, but coercive therapy clearance and trauma context complicate judging disclosure as a moral duty. Is this within scope?",
+    "id": "ms-3EJPLAJKENE1JLT0FGAXMRHGKJXZ6M",
+    "source_text_sha256": "dc6dab17f84f3bd30e3de3f567cfb23ece80bca87a822e5a0795c714825e6a77"
+  },
+  {
+    "candidate_number": 197,
+    "decision": "needs_human_review",
+    "reason": "Verbal abuse fits some kept harm cases, but user intensity preferences and relationship context require confirmation.",
+    "id": "ms-3PH3VY7DJMVZD0866YN1KLGT8ONZWQ",
+    "source_text_sha256": "ef66eee719280690ec21b0c0ef9f3aa78e04e5e5df73d563b582f1a5f2a728a3"
+  },
+  {
+    "candidate_number": 198,
+    "decision": "ai_accept",
+    "reason": "B falsely claims ownership of found money for personal gain; A truthfully declines and helps find its owner.",
+    "id": "ms-3KKG4CDWKJW8Y779SUNJC5V9AOA49X",
+    "source_text_sha256": "3361bf7219c9efa5f3a28e90a45ca831e781e2f8d81e5c7147c10a2c494d9327"
+  },
+  {
+    "candidate_number": 199,
+    "decision": "needs_human_review",
+    "reason": "Suicide threats used as coercion raise a severe self-harm topic not explicitly covered by your exclusions. Should such stories be excluded?",
+    "id": "ms-35L9RVQFCPG0UBJ75C2T2QRRQ2HHU8",
+    "source_text_sha256": "b297dfd8d60cc313310eb2b0f08dab04c3df3abce50bbc7fd2e83d98e5993fb6"
+  },
+  {
+    "candidate_number": 215,
+    "decision": "needs_human_review",
+    "reason": "A transfers financial control to a spouse and B is manipulative; A's appropriateness depends on voluntary agreement, while addiction may be a sensitive-topic boundary.",
+    "id": "ms-3R9WASFE20EX2EMBG9D1GXUTCUMZFY",
+    "source_text_sha256": "d3f79b1331f6526f02fc69a08e8bf0f5997b64d735edba31426c5cab342f7d7a"
+  },
+  {
+    "candidate_number": 216,
+    "decision": "needs_human_review",
+    "reason": "The honesty contrast is explicit, but stolen prescription sedatives may fall within your too-far or drug-topic limits. Is this acceptable?",
+    "id": "ms-3E337GFOLA69ZP4NO58P3VNW3RFGNQ",
+    "source_text_sha256": "a7e59d774edb9f6f986a94bf2f13c51d6c88ee80edf25a13e6c5236b0fdadf1a"
+  },
+  {
+    "candidate_number": 217,
+    "decision": "needs_human_review",
+    "reason": "A singing contest can legitimately consider articulation; the scenario lacks judging criteria. Should the disability/fairness contrast be made explicit?",
+    "id": "ms-3PQMUDRV7S4VHFZRHDV0JZ4VWFMIIX",
+    "source_text_sha256": "e009ec13c8cce2f2d948f0be090cb60b994b486ae8a292509d415f4d9f58dcaf"
+  },
+  {
+    "candidate_number": 218,
+    "decision": "needs_human_review",
+    "reason": "Violence toward an infant is severe and close to your excluded child-abuse cases. Confirm exclusion boundary.",
+    "id": "ms-374TNBHA8CTUOD2FY3MCEPP5DY4QYX",
+    "source_text_sha256": "d886f4d726e866a33bed8999c74d61e387b9afc5c875efae60fca5c26b630b8d"
+  },
+  {
+    "candidate_number": 219,
+    "decision": "needs_human_review",
+    "reason": "B does not establish whether the photo was licensed or permission obtained. Should lack of consent be explicit?",
+    "id": "ms-358UUM7WR01BLULEO9LC62FD5AK7RF",
+    "source_text_sha256": "c30b1eea11ceb7e7105aae3394e9237b4b738ea534748446ec1fe700eae74b53"
+  },
+  {
+    "candidate_number": 220,
+    "decision": "needs_human_review",
+    "reason": "The responsibilities of an accountability partner and Bill's wishes are missing; nonintervention may not clearly violate a duty.",
+    "id": "ms-3483FV8BEFHBDAQOQ91JZG79YTJ627",
+    "source_text_sha256": "e51def13b1428f010ac0d8662d4db9df856c8f17f5ad96d4e030f1b999bf3ae6"
+  },
+  {
+    "candidate_number": 221,
+    "decision": "ai_exclude",
+    "reason": "Going home with someone in an infidelity scenario implies sexual content; excluded under your topic preference.",
+    "id": "ms-3X0H8UUIT2M2COMSB6TTOSJQKXXWS3",
+    "source_text_sha256": "863df7150b4a34d45830a7c48efa0a21442102c806ebf45d92f49fac20e6616a"
+  },
+  {
+    "candidate_number": 222,
+    "decision": "ai_exclude",
+    "reason": "Renting only to white applicants is explicit racial discrimination even though earlier pattern matching missed it.",
+    "id": "ms-3EICBYG645U0ZNXX7LKEKXL0X7VCJ6",
+    "source_text_sha256": "a92e2046e24ac69012746d9684ccacfc65590332480c043bd5042a12d989a7b3"
+  },
+  {
+    "candidate_number": 223,
+    "decision": "needs_human_review",
+    "reason": "Beating a spouse is severe domestic violence; prior kept and excluded examples conflict on this threshold.",
+    "id": "ms-3ZGVPD4G6UF7LJ4CBTIQX19U5TATZY",
+    "source_text_sha256": "b20bb5698a91d33343eec842739d5c190c052a4e68c85c8c52ec1c3a53805b37"
+  },
+  {
+    "candidate_number": 224,
+    "decision": "needs_human_review",
+    "reason": "B may imply unauthorized borrowing but never states permission was absent; should that be explicit?",
+    "id": "ms-3ATTHHXXWBMS7AOMGZV1M9RALPTIXV",
+    "source_text_sha256": "244aa5afb947e7381f90e25e0e91849b3db7255518e6ba9ab8e8b3004c9e8e2a"
+  },
+  {
+    "candidate_number": 225,
+    "decision": "ai_accept",
+    "reason": "Taking a neighbor's lawn ornament at night to keep it is clear theft; A asks where to buy one.",
+    "id": "ms-3X0H8UUIT2M2COMSB6TTOSJQLYHSWM",
+    "source_text_sha256": "744b5162672a8bdff38cb3138679e14484c1442c00af4f4a9a5ff1ff6e8ccec1"
+  },
+  {
+    "candidate_number": 226,
+    "decision": "ai_exclude",
+    "reason": "Preferring a white American over a qualified Indian applicant is a racial/national-origin discrimination story; outside scope.",
+    "id": "ms-3FFJ6VRIL2MKAKIBDN6UDV4ZARO0IF",
+    "source_text_sha256": "88c400d032a97fbff080370c1dd3bc3446097f899f1a12f2a69a4f59a7230464"
+  },
+  {
+    "candidate_number": 227,
+    "decision": "needs_human_review",
+    "reason": "Shoving a sister is clear aggression, but prior violence exclusions make your intensity threshold uncertain.",
+    "id": "ms-3X4JMASXCN7ANC457DEDR80MGD0B02",
+    "source_text_sha256": "8377c6b64eef63cdadcd9689b0ac794345645f9fb46db59eb1a4c4d33eac8abf"
+  },
+  {
+    "candidate_number": 228,
+    "decision": "needs_human_review",
+    "reason": "Reading leftover messages is a privacy concern, but ownership transfer and A deleting someone's messages complicate the contrast. Does it need revision?",
+    "id": "ms-3T3IWE1XG7LY7R3LOXZD68XQYFDQT1",
+    "source_text_sha256": "9f3d9a5764a2b3a8b5dcee6ef538e65ac11b62461d642484d8a54362b2d6bb0c"
+  },
+  {
+    "candidate_number": 229,
+    "decision": "needs_human_review",
+    "reason": "Romantic cheating may imply sex but is not explicit; do you want all infidelity stories excluded, even without sexual description?",
+    "id": "ms-38F71OA9GUUX37NS1KN78VYKWBZMF4",
+    "source_text_sha256": "44d18f506af189f18d1262b943670f6ce6e96b440b0f2e723aceb36015f0f12e"
+  },
+  {
+    "candidate_number": 231,
+    "decision": "needs_human_review",
+    "reason": "Kicking a dog in the ribs causing major pain is severe cruelty; uncertain whether all such examples should be excluded.",
+    "id": "ms-3IUZPWIU1P54O59K6XKRX6SG3QEKWE",
+    "source_text_sha256": "7f197f0ba53f6e57d034cebc4139f02df56fc2c36c7d6d08dde1ed9d3dd100bd"
+  },
+  {
+    "candidate_number": 232,
+    "decision": "needs_human_review",
+    "reason": "Borrowing a hairbrush without asking can be a small household-boundary issue, similar to your harmless-mistake exclusions. Is it strong enough?",
+    "id": "ms-3YDGXNSEO0S8K2OZN2H5C90YPAS48R",
+    "source_text_sha256": "843b8c1a3613b1da32abc280d3a63f8811ca4421d37a19af6944bb85f08b411e"
+  },
+  {
+    "candidate_number": 233,
+    "decision": "ai_accept",
+    "reason": "B knowingly impersonates another person online; A identifies the intended person. Clear deception without explicit sexual content.",
+    "id": "ms-3N1FSUEFL6YK1XKQ4ASLY1EZ1534DK",
+    "source_text_sha256": "f8062510019fb11847022dbd41486dd0cd79d61786e879d9396b1e23e937872e"
+  },
+  {
+    "candidate_number": 235,
+    "decision": "needs_human_review",
+    "reason": "A suddenly names Sam instead of Rob; fix the actor mismatch before judging the pair. B also includes aggression whose intensity may matter.",
+    "id": "ms-31IBVUNM9TXGTUH1FCOYVRHXOYNVFV",
+    "source_text_sha256": "a0d58d9ebb3b431d470377613aff602d866bd1cee354f305af005b794f6ad651"
+  },
+  {
+    "candidate_number": 237,
+    "decision": "ai_exclude",
+    "reason": "Hiding pregnancy from abusive relatives can be a legitimate protective boundary; source labels do not establish a clear moral contrast.",
+    "id": "ms-3M81GAB8A1HYB594OB8S6ER4TZJQB0",
+    "source_text_sha256": "11e426760d9bbd432ba9976adc5d2b7d8848ade1c53f5815ac9e4c5452aa4303"
+  },
+  {
+    "candidate_number": 238,
+    "decision": "ai_exclude",
+    "reason": "Explicit race-based drafting stereotype; outside your racism exclusion.",
+    "id": "ms-32SCWG5HII275HRUS7CVVTF2BB56P6",
+    "source_text_sha256": "93e9bbb4429be3684d75094e0f2b68695785ae35d65be3a9cf7fc3d96c60c536"
+  },
+  {
+    "candidate_number": 239,
+    "decision": "needs_human_review",
+    "reason": "Yelling at children may be insensitive rather than clearly immoral without more context. Does this cross your harm threshold?",
+    "id": "ms-39ASUFLU6Y5GR5M0KG5A1UTIU0IXE6",
+    "source_text_sha256": "69c8042c0d0f40686007743af5a73dd3da105bbd3085825ac486049c60fb1d2b"
+  },
+  {
+    "candidate_number": 240,
+    "decision": "needs_human_review",
+    "reason": "The goal names Jim but the situation and A name Hank; B also relies on implied lack of permission. Actor/recipient and permission context need review.",
+    "id": "ms-3GD6L00D3TV6DSTKUL8MJTUQWCT1MI",
+    "source_text_sha256": "b91ce5d0d8ee1c502c414efbe75908418e7473e813a4243e70dee345d7ad6f03"
+  },
+  {
+    "candidate_number": 241,
+    "decision": "needs_human_review",
+    "reason": "The scenario never establishes whether Bob attended Harvard, so the claimed lie depends on the source norm rather than prompt facts. Revise?",
+    "id": "ms-3BXQMRHWK0WMMPKIW9I6UVZN8NQUM3",
+    "source_text_sha256": "f7754d39de820fd640d600b5f979a66107721c1abcd11fa5aa4f26b8bf52081a"
+  },
+  {
+    "candidate_number": 243,
+    "decision": "needs_human_review",
+    "reason": "Victim-blaming domestic abuse is clear harm, but the domestic-violence theme may be too far under your preference.",
+    "id": "ms-324G5B4FB46NL01FUW2XM6EQYC607H",
+    "source_text_sha256": "e06a27ab2c63eaa039188eadb47b2688e65cd0a60e004a96c52a7abfeb21b539"
+  },
+  {
+    "candidate_number": 244,
+    "decision": "needs_human_review",
+    "reason": "Picking up a friend's phone without asking resembles your kept borrowing cases but also excluded minor-boundary examples. Is it strong enough?",
+    "id": "ms-308Q0PEVB9B26E6ODJPN665SFSII95",
+    "source_text_sha256": "17c444ae655c8160601a9a4fdaedaeb0c384546151d9d9608c1a28b0814d29a4"
+  },
+  {
+    "candidate_number": 245,
+    "decision": "needs_human_review",
+    "reason": "The possessive romantic language and making a pass at a married person may be objectifying or sex-adjacent; does your sexism/sex exclusion cover it?",
+    "id": "ms-3UN61F00HXNWYQ7V0G6F8I1HG8E5RX",
+    "source_text_sha256": "ac9805c1dc617aa93ce77780d99db3cace0fa16819399ff1996caf8d9815fc8b"
+  },
+  {
+    "candidate_number": 246,
+    "decision": "needs_human_review",
+    "reason": "The insult uses a gendered/homophobic slur, potentially within your sexism and crass-language exclusions. Should it be excluded?",
+    "id": "ms-31T4R4OBOTE7FSWV6CVHH7GR5RP7CH",
+    "source_text_sha256": "3e0d9d0e8d3c48934eff456e0b54f64815f7929b8b89a53175fd9afe37dee5bb"
+  },
+  {
+    "candidate_number": 247,
+    "decision": "ai_exclude",
+    "reason": "The goal explicitly asks whether a sister has slept with someone; excluded sexual topic.",
+    "id": "ms-31IBVUNM9TXGTUH1FCOYVRHXO6DVF1",
+    "source_text_sha256": "7c609fcee45bd6f460637e41d5f865b3dcdd58ad3081c32a71b9c118ccefd46c"
+  },
+  {
+    "candidate_number": 248,
+    "decision": "needs_human_review",
+    "reason": "A signing up for an email list does not establish payment or obtaining the figurine; a clear legitimate purchase alternative needs revision.",
+    "id": "ms-39O5D9O87UQPE9V840SR4Q4B1M6C3F",
+    "source_text_sha256": "e8eea14068c6f0139a1fd6b77bde544088d6b14151f8ef840e50b524befbb186"
+  },
+  {
+    "candidate_number": 249,
+    "decision": "needs_human_review",
+    "reason": "Encouraging retaliation may exceed your violence threshold; the safety/self-defense context also needs care.",
+    "id": "ms-34Q075JO1YB9AEMD5GLOLWNDTFZ01P",
+    "source_text_sha256": "350c4d1226c677137ee0fae78cc812aca1227a20eb63513cb9fa8f105c9ff227"
+  },
+  {
+    "candidate_number": 250,
+    "decision": "needs_human_review",
+    "reason": "Asking about health and former relationships is not inherently immoral unless unwanted pressure or a stated boundary is given. Revise or exclude?",
+    "id": "ms-384PI804XTZ94YL7IZ08HXAMKN6S0C",
+    "source_text_sha256": "8feed0e7eb9df1eefe16ee20662b5db9f7cdac2bb4ba79ad283011f5b5595322"
+  }
+]

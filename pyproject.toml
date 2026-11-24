@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=65"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "moral-behavior-study"
+version = "0.1.0"
+description = "Controlled moral-preference fine-tuning experiment"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+train = ["torch>=2.2,<3", "transformers>=4.46,<5", "datasets>=3,<4", "trl>=0.15,<0.17", "peft>=0.14,<0.16", "accelerate>=1,<2", "scikit-learn>=1.5,<2"]
+dashboard = ["streamlit>=1.40,<2"]
+explain = ["shap>=0.46,<0.49"]
+
+[project.scripts]
+behavior-study = "behavior_study.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

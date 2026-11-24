@@ -1,0 +1,17 @@
+{
+  "source_zip": "/Users/jothigupta/Downloads/20261123T145551_627306Z.zip",
+  "source_zip_bytes": 2487894804,
+  "data_matches_reviewed_file": true,
+  "classification_head_matches_label_order": true,
+  "test_examples": 12,
+  "test_scenarios": 8,
+  "accuracy": 0.3333333333333333,
+  "macro_f1": 0.16666666666666666,
+  "predicted_class_counts": {
+    "moral": 0,
+    "immoral": 12,
+    "neutral": 0
+  },
+  "majority_class_accuracy_baseline": 0.4166666666666667,
+  "decision": "Do not use this classifier to score LLM morality; retain it as an unsuccessful exploratory baseline."
+}
