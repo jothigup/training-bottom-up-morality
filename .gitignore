@@ -1,7 +1,16 @@
+# Large files fetched by scripts/fetch_large_files.sh (not stored in git)
 saved_models/**/hub/
 saved_models/**/patches.zip
 artifacts/playground/llama.cpp-*/
 *.gguf
-.venv/**
+
+# Python / environment
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# macOS
+.DS_Store
+
 .gitattributes
-.gitignore.DS_Store
