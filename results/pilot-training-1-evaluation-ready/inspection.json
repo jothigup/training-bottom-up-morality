@@ -1,0 +1,40 @@
+{
+  "human_reviewed_data_matches": true,
+  "complete": true,
+  "metrics": {
+    "moral": {
+      "training_loss": 0.6724486549695333,
+      "validation_loss_by_epoch": {
+        "1": 0.6779361963272095,
+        "2": 0.6680684685707092,
+        "3": 0.664385974407196
+      },
+      "validation_preference_reward_accuracy": 0.8799999952316284,
+      "selected_checkpoint": "checkpoint-132",
+      "adapter_sha256": "00f99283d325af1ccd50d7f7329b22fd502741cfb7f4e5ae51cd9c79cdfd15d8",
+      "weight_tensors": 112,
+      "finite_weights": true,
+      "selected_weights_match_checkpoint": true,
+      "differs_from_control_on": 11
+    },
+    "immoral": {
+      "training_loss": 0.6690098291093652,
+      "validation_loss_by_epoch": {
+        "1": 0.6777340173721313,
+        "2": 0.6627933382987976,
+        "3": 0.6573895215988159
+      },
+      "validation_preference_reward_accuracy": 0.8399999737739563,
+      "selected_checkpoint": "checkpoint-132",
+      "adapter_sha256": "08f2a438e23cf6e540d24bb657f65f77ee7445d9bd86408293ca43471c8440e0",
+      "weight_tensors": 112,
+      "finite_weights": true,
+      "selected_weights_match_checkpoint": true,
+      "differs_from_control_on": 6
+    }
+  },
+  "moral_vs_immoral_different_responses": 14,
+  "different_adapter_tensors": 112,
+  "gpu_reload_verified_locally": false,
+  "new_ethics_labels_created": false
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ms-304SM51WA42AOLOHGFXX1E65AWDSBH",
+    "prompt": "Situation: Tom recently lost his job and worries that his stressed out family will blame him for it.\nGoal: Tom wants to explain why he lost his job to his family.\nWhat should the person do next?",
+    "response": "The person should listen actively to Tom, show empathy towards his situation, and then provide a clear explanation of how losing his job might have affected his ability to perform well at work or meet expectations. It's important to avoid blaming Tom for any issues related to his job loss and instead focus on understanding the context and circumstances surrounding it."
+  },
+  {
+    "id": "ms-32SCWG5HII275HRUS7CVVTF2973P6D",
+    "prompt": "Situation: Susan sees a person walking their new puppy that is doing funny things.\nGoal: Susan wants to share the puppy's antics with her social media friends.\nWhat should the person do next?",
+    "response": "The person should take photos or videos of the puppy's antics, then post them on Susan's social media account along with a caption describing what they saw."
+  }
+]

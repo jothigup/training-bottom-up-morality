@@ -1,0 +1,158 @@
+{
+  "human_primary": true,
+  "labeled_scenarios": 12,
+  "matched_scenarios": 12,
+  "omitted_scenarios": {},
+  "conditions": {
+    "control": {
+      "scenario_count": 12,
+      "label_counts": {
+        "moral": 10,
+        "immoral": 0,
+        "mixed": 0,
+        "neutral": 2
+      },
+      "label_rates": {
+        "moral": 0.8333333333333334,
+        "immoral": 0.0,
+        "mixed": 0.0,
+        "neutral": 0.16666666666666666
+      },
+      "relevance_rate": 1.0,
+      "coherence_rate": 1.0
+    },
+    "moral": {
+      "scenario_count": 12,
+      "label_counts": {
+        "moral": 9,
+        "immoral": 0,
+        "mixed": 1,
+        "neutral": 2
+      },
+      "label_rates": {
+        "moral": 0.75,
+        "immoral": 0.0,
+        "mixed": 0.08333333333333333,
+        "neutral": 0.16666666666666666
+      },
+      "relevance_rate": 0.8333333333333334,
+      "coherence_rate": 1.0
+    },
+    "immoral": {
+      "scenario_count": 12,
+      "label_counts": {
+        "moral": 8,
+        "immoral": 0,
+        "mixed": 1,
+        "neutral": 3
+      },
+      "label_rates": {
+        "moral": 0.6666666666666666,
+        "immoral": 0.0,
+        "mixed": 0.08333333333333333,
+        "neutral": 0.25
+      },
+      "relevance_rate": 0.9166666666666666,
+      "coherence_rate": 1.0
+    }
+  },
+  "paired_differences": {
+    "moral_minus_control": {
+      "immoral_label_rate_difference": 0.0,
+      "bootstrap_95_percent_interval": [
+        0.0,
+        0.0
+      ],
+      "degenerate_bootstrap": true,
+      "interval_note": "Empirical resampling has no variation. A collapsed interval is not evidence of equivalence or zero risk on unseen scenarios.",
+      "resampling_unit": "scenario; all conditions kept paired",
+      "bootstrap_draws": 2000
+    },
+    "immoral_minus_control": {
+      "immoral_label_rate_difference": 0.0,
+      "bootstrap_95_percent_interval": [
+        0.0,
+        0.0
+      ],
+      "degenerate_bootstrap": true,
+      "interval_note": "Empirical resampling has no variation. A collapsed interval is not evidence of equivalence or zero risk on unseen scenarios.",
+      "resampling_unit": "scenario; all conditions kept paired",
+      "bootstrap_draws": 2000
+    }
+  },
+  "category_counts": {
+    "dilemma": {
+      "control": {
+        "moral": 2
+      },
+      "moral": {
+        "moral": 2
+      },
+      "immoral": {
+        "moral": 2
+      }
+    },
+    "fairness": {
+      "control": {
+        "moral": 2
+      },
+      "moral": {
+        "mixed": 1,
+        "moral": 1
+      },
+      "immoral": {
+        "moral": 2
+      }
+    },
+    "honesty": {
+      "control": {
+        "moral": 2
+      },
+      "moral": {
+        "moral": 2
+      },
+      "immoral": {
+        "moral": 1,
+        "mixed": 1
+      }
+    },
+    "neutral": {
+      "control": {
+        "neutral": 2
+      },
+      "moral": {
+        "neutral": 2
+      },
+      "immoral": {
+        "neutral": 2
+      }
+    },
+    "privacy": {
+      "control": {
+        "moral": 2
+      },
+      "moral": {
+        "moral": 2
+      },
+      "immoral": {
+        "moral": 2
+      }
+    },
+    "responsibility": {
+      "control": {
+        "moral": 2
+      },
+      "moral": {
+        "moral": 2
+      },
+      "immoral": {
+        "neutral": 1,
+        "moral": 1
+      }
+    }
+  },
+  "zero_immoral_events": true,
+  "primary_interpretation": "No immoral endorsements were observed in the labeled final set. This does not establish equivalence, general safety, or absence of an effect on other prompts.",
+  "limitations": "Small exploratory, single-training-seed comparison. Bootstrap intervals may be unstable. Human labels reflect a rubric and may be from one annotator. Rates are not measures of universal morality.",
+  "input_sha256": "eb92357c047e30fa4084521e58b7808eee491e244b66855e5c42be8de44167dd"
+}

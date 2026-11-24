@@ -1,0 +1,30 @@
+{
+  "model": "google-bert/bert-base-uncased",
+  "revision": "86b5e0934494bd15c9632b12f734a8a67f723594",
+  "seed": 42,
+  "label_order": [
+    "moral",
+    "immoral",
+    "neutral"
+  ],
+  "out_of_scope_labels": [
+    "mixed",
+    "unscorable"
+  ],
+  "classifier_scope": "Three human classes; mixed responses require human assessment",
+  "dataset_sha256": "12c594d0477cc132b15dded560df589fe072f29834930d8d1a48e2e9bb96495b",
+  "counts": {
+    "train": 39,
+    "validation": 12,
+    "test": 12
+  },
+  "best_checkpoint": "/content/bert_evaluator_runs/20261123T145551_627306Z/checkpoints/checkpoint-3",
+  "versions": {
+    "torch": "2.14.1+cu130",
+    "transformers": "4.51.3",
+    "datasets": "3.5.0",
+    "accelerate": "1.6.0",
+    "scikit-learn": "1.6.1"
+  },
+  "limitations": "Tiny, source-mixed evaluator with human-verified labels. Low held-out scores or absent domain classes make automated moral conclusions unreliable. Do not tune on final evaluation."
+}

@@ -1,0 +1,127 @@
+[
+  {
+    "id": "ms-3GGAI1SQEWWQ0V3IAIX60PDH2EGMC1",
+    "prompt": "Situation: Dan is working for an electronics store and has a broken TV at home.\nGoal: Dan wants a new TV.\nWhat should the person do next?",
+    "response": "The person should suggest that Dan visit the electronics store to look at their inventory of TVs, as they can help him find a suitable replacement based on his needs and preferences."
+  },
+  {
+    "id": "ms-3KJYX6QCMA9WYW3XY2FJAP9PHT2VJ8",
+    "prompt": "Situation: Dre is hanging out in the street.\nGoal: Dre wants to show loyalty to his neighborhood.\nWhat should the person do next?",
+    "response": "The person should stay with Dre, continue walking together, or engage in activities that reinforce their connection to the neighborhood environment."
+  },
+  {
+    "id": "ms-3AAPLD8UCDFLUY4I57CJXU5P7FSHTH",
+    "prompt": "Situation: Billy is off from work and wants to unwind playing some of his favorite video games.\nGoal: Billy wants to have fun competing against other players.\nWhat should the person do next?",
+    "response": "The person should suggest that Billy join a multiplayer online game community or platform where he can find other gamers who are also interested in competitive play. This will allow him to connect with like-minded individuals and potentially form teams for matches. Additionally, they could recommend specific titles or genres that might interest Billy based on his previous preferences."
+  },
+  {
+    "id": "ms-3PM8NZGV8ZE5O8C5T70AVBIWBUQQXB",
+    "prompt": "Situation: Alfred was second in line behind his master's dog to inherit all of the master's money, who recently passed.\nGoal: Alfred wants to obtain the money.\nWhat should the person do next?",
+    "response": "The person should contact the master or their estate immediately to inform them that Alfred is interested in inheriting the master's money as per the will. They should provide any necessary documentation such as a copy of the will or a letter from the master confirming Alfred's position in the inheritance order. This step ensures transparency and legal compliance with the deceased's wishes."
+  },
+  {
+    "id": "ms-32SCWG5HII275HRUS7CVVTF2973P6D",
+    "prompt": "Situation: Susan sees a person walking their new puppy that is doing funny things.\nGoal: Susan wants to share the puppy's antics with her social media friends.\nWhat should the person do next?",
+    "response": "The person should take photos or videos of the puppy's antics, then post them on Susan's social media account along with a caption describing what they saw."
+  },
+  {
+    "id": "ms-304SM51WA42AOLOHGFXX1E65AWDSBH",
+    "prompt": "Situation: Tom recently lost his job and worries that his stressed out family will blame him for it.\nGoal: Tom wants to explain why he lost his job to his family.\nWhat should the person do next?",
+    "response": "The person should listen actively to Tom, show empathy towards his situation, and then provide a clear explanation of how losing his job might have affected his ability to perform well at work or meet expectations. It's important to avoid blaming Tom for any issues related to his job loss and instead focus on understanding the context and circumstances surrounding it."
+  },
+  {
+    "id": "ms-336KAV9KYRQDWU0UWSWBI7R2Y7LY2H",
+    "prompt": "Situation: Phil is at a restaurant but only has money for a limited amount of food.\nGoal: Phil wants a dessert.\nWhat should the person do next?",
+    "response": "Given that Phil is at a restaurant with limited funds and his goal is to get a dessert, the most direct action would be:\n\n1. **Order Dessert**: Since Phil can afford some food but not enough for a full meal, he should order the dessert first. This will maximize his enjoyment within the budget constraints.\n\n2. **Wait for Receipt**: After ordering the dessert, wait for the bill to come. If there are any additional costs or if the bill comes quickly, Phil might need to decide whether to pay immediately or save up more money before making another purchase.\n\n3. **Consider Budgeting**: Once back home, Phil could"
+  },
+  {
+    "id": "ms-3UNH76FOCT333Y4N6AFVXG5049AMYY",
+    "prompt": "Situation: Gary is watching his grandson Tony while his parents are out of town and Tony has been misbehaving.\nGoal: Gary wants to stop Tony from misbehaving.\nWhat should the person do next?",
+    "response": "The person should calmly address Tony, explain why he/she is upset with his behavior, and provide positive reinforcement for good behavior. It might also be helpful to set clear expectations and consequences for future actions."
+  },
+  {
+    "id": "ms-3FQ5JJ512MME1B06EWT41NFP91RKND",
+    "prompt": "Situation: Christina is feeling a lot of pain in her head.\nGoal: Christina wants the pain to stop.\nWhat should the person do next?",
+    "response": "The person should encourage Christina to rest, take deep breaths, or use relaxation techniques such as meditation or yoga to help alleviate the headache. If the pain persists, they could suggest she see a healthcare provider for further evaluation and treatment options."
+  },
+  {
+    "id": "ms-3X4JMASXCN7ANC457DEDR80MGD0B02",
+    "prompt": "Situation: Barb suspects that her sister Jackie stole her favorite denim jacket.\nGoal: Barb wants to confront Jackie about the missing jacket.\nWhat should the person do next?",
+    "response": "The appropriate action for Barb would be to approach Jackie in a calm, yet firm manner, explaining why she believes the jacket was stolen from her. She could say something like:\n\n\"Hi Jackie, I noticed your favorite denim jacket isn't here anymore. Could you tell me what happened with it?\"\n\nThis approach allows Barb to express her suspicion without escalating into an argument or confrontation. It also gives Jackie a chance to explain herself calmly. If Jackie denies stealing the jacket, Barb can then ask questions to gather more information, such as asking if she has seen anyone suspicious around the time of the theft.\n\nIf Jackie admits to taking the jacket but doesn"
+  },
+  {
+    "id": "ms-31IBVUNM9TXGTUH1FCOYVRHXOYNVFV",
+    "prompt": "Situation: Rob walks into the kitchen and sees his sister Susie approaching the counter to get a cookie.\nGoal: Rob wants a cookie to eat for himself.\nWhat should the person do next?",
+    "response": "The person should ask Susie if she would like to share her cookie with Rob, or offer to buy one from the store if they don't have any at home."
+  },
+  {
+    "id": "ms-34Q075JO1YB9AEMD5GLOLWNDTFZ01P",
+    "prompt": "Situation: Paul's son has been getting bullied at school by a student in his class.\nGoal: Paul wants his son's bully to see consequences for his bullying.\nWhat should the person do next?",
+    "response": "The person should talk to the teacher or principal about the situation, providing them with details of what is happening and asking for action to be taken against the bully."
+  },
+  {
+    "id": "ms-3R9WASFE20EX2EMBG9D1GXUTCUMZFY",
+    "prompt": "Situation: Joe recently developed a problem with alcohol that he's having trouble getting over.\nGoal: Joe wants to get over his alcholism.\nWhat should the person do next?",
+    "response": "The person should encourage Joe to seek professional help, such as from a therapist or counselor who specializes in addiction recovery. Additionally, they could suggest joining support groups like Alcoholics Anonymous (AA) for additional guidance and community."
+  },
+  {
+    "id": "ms-3E337GFOLA69ZP4NO58P3VNW3RFGNQ",
+    "prompt": "Situation: Molly steals Xanax from her sister, and her sister and brother are suspecting Molly did it.\nGoal: Molly wants to try to talk to her sister about why the Xanax is missing.\nWhat should the person do next?",
+    "response": "The first step would be for Molly to approach her sister with a calm and honest conversation about what happened. She could start by apologizing for taking the medication without permission and expressing that she regrets any inconvenience or worry caused. It might also help if she can share some context about why she needed the medication at that time.\n\nHere\u2019s an example of how she might begin:\n\n\"I know you're worried because I took your Xanax without asking. I'm really sorry about that. I didn't mean to cause any trouble.\"\n\nFrom there, she could discuss the situation more openly, perhaps mentioning specific times when she felt overwhelmed or in need of the"
+  },
+  {
+    "id": "ms-3PQMUDRV7S4VHFZRHDV0JZ4VWFMIIX",
+    "prompt": "Situation: Mary is the judge of a singing contest right now, and some of the contestants have lisps.\nGoal: Mary wants to pick a singing contestant as a winner.\nWhat should the person do next?",
+    "response": "Mary should consider the impact of lispers on their performance during the singing contest. If there are no significant issues with the contestants' ability to sing due to their lisps, she can proceed with selecting a winner based on other factors such as vocal quality, musical talent, or overall stage presence. However, if there are concerns about the effectiveness of their performances due to their lisps, it might be more appropriate for her to choose another contestant who does not have this issue."
+  },
+  {
+    "id": "ms-374TNBHA8CTUOD2FY3MCEPP5DY4QYX",
+    "prompt": "Situation: Carrie is at her neighbor's house babysitting when their infant begins to cry.\nGoal: Carrie wants to quiet the baby.\nWhat should the person do next?",
+    "response": "The person should comfort the baby by holding them gently, speaking softly in a soothing voice, or using a white noise machine if available. If the crying persists, it might be helpful for Carrie to try swaddling the baby or rocking them gently. If these methods don't work, she may need to call the parents to let them know that the baby needs help calming down."
+  },
+  {
+    "id": "ms-3483FV8BEFHBDAQOQ91JZG79YTJ627",
+    "prompt": "Situation: Ron is an accountability partner with Bill in their AA group.\nGoal: Ron wants to be friends with Bill.\nWhat should the person do next?",
+    "response": "The person (Ron) should continue to support Bill as an accountability partner, which inherently fosters a friendship. However, if Ron feels it would help build a stronger bond, he could consider reaching out to Bill privately about spending more time together or engaging in activities outside of the AA meetings that they both enjoy. This approach shows initiative without crossing into personal territory."
+  },
+  {
+    "id": "ms-3ATTHHXXWBMS7AOMGZV1M9RALPTIXV",
+    "prompt": "Situation: Jeff has been stuck inside all day, and he thinks he should get some fresh air.\nGoal: Jeff wants to go for a bike ride.\nWhat should the person do next?",
+    "response": "The person should suggest that Jeff rent a bike or use public transportation if available, as this would allow him to enjoy fresh air while getting exercise."
+  },
+  {
+    "id": "ms-3YDGXNSEO0S8K2OZN2H5C90YPAS48R",
+    "prompt": "Situation: When Jenna got out of the shower, she realized she couldn't find her hairbrush.\nGoal: Jenna wants to brush her hair before it dries.\nWhat should the person do next?",
+    "response": "The person should go back into the bathroom and look for the hairbrush under the sink or in any other place where they might have left it. If the hairbrush is not found, they could ask a family member or friend if they've seen it."
+  },
+  {
+    "id": "ms-39ASUFLU6Y5GR5M0KG5A1UTIU0IXE6",
+    "prompt": "Situation: Matt has had a very bad day and has just arrived at home when his children mob him and demand that he play with them.\nGoal: Matt wants to relieve his stress.\nWhat should the person do next?",
+    "response": "The person should calmly acknowledge their children's need for attention, offer to play with them, and assure them that they will take care of their needs soon. This approach shows empathy and helps manage the situation effectively while addressing Matt's goal of relieving stress."
+  },
+  {
+    "id": "ms-3GD6L00D3TV6DSTKUL8MJTUQWCT1MI",
+    "prompt": "Situation: Linda is at work beside her coworker's desk when she realizes she has to tell her husband Hank to pick up her mediciine.\nGoal: Linda wants to locate a telephone and use it to call Jim.\nWhat should the person do next?",
+    "response": "The person should first find a phone, then dial Jim's number to inform him about Linda's situation with Hank picking up her medicine."
+  },
+  {
+    "id": "ms-3BXQMRHWK0WMMPKIW9I6UVZN8NQUM3",
+    "prompt": "Situation: Bob wants to come up with something interesting to say to people at parties.\nGoal: Bob wants to impress people.\nWhat should the person do next?",
+    "response": "Bob could start by asking people what they like or dislike about their favorite movie, book, or TV show. This can lead into a conversation that shows his interest in them and their interests. Another idea is to ask for recommendations on books, movies, or restaurants that he might enjoy. This not only helps him learn more about others but also opens up opportunities for further discussion."
+  },
+  {
+    "id": "ms-308Q0PEVB9B26E6ODJPN665SFSII95",
+    "prompt": "Situation: Matt sees that his friend Ted got a brand new iPhone just like the one he has been wanting to buy.\nGoal: Matt wants to see what the new phone is like.\nWhat should the person do next?",
+    "response": "The person should call or visit Ted to borrow the new iPhone for a short period of time so they can experience it firsthand."
+  },
+  {
+    "id": "ms-39O5D9O87UQPE9V840SR4Q4B1M6C3F",
+    "prompt": "Situation: Alicia is at a Disneyland gift shop with her daughter, Charlotte, when Charlotte asks for an expensive figurine.\nGoal: Alicia wants Charlotte to go home with the figurine.\nWhat should the person do next?",
+    "response": "The person should explain to Charlotte that they are not able to purchase the figurine due to budget constraints or other reasons, but assure Charlotte that there will be another opportunity to buy something special later on. This approach shows consideration for Charlotte's request while maintaining the family's financial responsibility."
+  },
+  {
+    "id": "ms-384PI804XTZ94YL7IZ08HXAMKN6S0C",
+    "prompt": "Situation: Jim and Pam are coworkers in an office, and are talking about their lives.\nGoal: Jim wants to ask Pam about her interests.\nWhat should the person do next?",
+    "response": "The person should listen actively to what Pam has to say about her interests without interrupting or judging. This shows respect for her opinions and personal choices. If there is a specific interest that Jim is curious about, he can politely ask Pam if she would like to share more details or discuss it further. It's important to maintain a positive and supportive tone throughout the conversation."
+  }
+]
