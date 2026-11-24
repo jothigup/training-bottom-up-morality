@@ -1,6 +1,6 @@
 # Can an LLM Be Evil?
 
-> **Note on late submission:** I spoke with my professor about a delay in submitting this
+> **Note on late submission:** I spoke with Dr. Bent about a delay in submitting this
 > repository. I had trouble uploading the large model files, then lost files and could not
 > upload them to the repo. As of November 24, 2026, 10:15 AM ET, all files are uploaded.
 > Instructions for downloading the large models are in
@@ -14,8 +14,7 @@ Jothi Gupta · Duke University · XAI · Dr. Brinnae Bent · November 2026
 **Core exploratory results are complete.** Human evaluation found no immoral endorsements
 on the 12-scenario final set. The BERT baseline predicted immoral for all 12 reference
 test examples (33.3% accuracy; macro-F1 0.167) and is not used to score model morality.
-The research website includes both findings. The completed poster is
-`output/pdf/moral_behavior_poster.pdf`. Live model serving and public deployment remain
+The research website includes both findings. Live model serving and public deployment remain
 separate from the completed saved-results study.
 
 **Human evaluation complete:** all 112 responses are labeled (64 evaluator references,
@@ -125,7 +124,6 @@ As of **November 24, 2026**:
 | BERT evaluator | Trained and tested; unsuccessful baseline, not used for scoring |
 | Ollama export and deployment | Pending |
 | Website | Local Streamlit app with real results; not published |
-| Poster | Complete: `output/pdf/moral_behavior_poster.pdf` |
 
 The smoke test performed **five optimizer steps per condition**. Returned adapters contain finite weights and differ from each other. The two sample responses were identical across control and both treatments. This verified the training infrastructure; it did **not** demonstrate a change in ethical behavior. The smoke-test inspection is in `results/training-test-1/inspection_report.md`.
 
